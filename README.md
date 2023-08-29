@@ -86,8 +86,8 @@ data
 ### 方法1：Docker（推荐）
 
 ```python
-docker pull docker.io/blackflash799/paddle-ecom:v1 # 拉取镜像
-docker run -it docker.io/blackflash799/paddle-ecom:v1 /bin/bash # 进入容器
+docker pull blackflash799/paddle-ecom:v1 # 拉取镜像
+docker run -it blackflash799/paddle-ecom:v1 /bin/bash # 进入容器
 conda activate ecom # 激活环境
 git clone git@github.com:BlackflashJKL/paddle-ecom.git # 克隆仓库
 ```
@@ -107,27 +107,11 @@ git clone git@github.com:BlackflashJKL/paddle-ecom.git # 克隆仓库
 
 #### 第一步: 观点抽取
 
-##### Seq
-
-```python
-python eoe_model/seq/main.py \
-       --lr 5e-4 \
-       --backbone_lr 1e-6 \
-       --batch_size 1 \
-       --bert bert-base-chinese \
-       --num_epochs 10 \
-       --data_dir data/ECOB-ZH/ \
-       --model_dir model_files/chinese_model/ \
-       --result_dir result/chinese_result/
-```
-- ```--bert``` refers to pretrained model path. If you want to train model on English dataset, input 'bert-base-cased'.
-- ```--data_dir``` refers to data path. If you want to train model on English dataset, input 'data/ECOB-EN/'.
-- ```--model_dir``` refers to the path where the model saved.
-- ```--result_dir``` refers to the path where the result saved.
-
 ##### PairCls
+
 ```python
 python eoe_model/paircls/main.py \
+       --device gpu:3 \
        --bert bert-base-chinese \
        --lr 5e-6 \
        --batch_size 24 \
@@ -138,11 +122,53 @@ python eoe_model/paircls/main.py \
        --result_dir result/chinese_result/
 ```
 
-####  第二步：目标提取
-##### MRC
+- ```--bert``` refers to pretrained model path. If you want to train model on English dataset, input 'bert-base-cased'.
+- ```--data_dir``` refers to data path. If you want to train model on English dataset, input 'data/ECOB-EN/'.
+- ```--model_dir``` refers to the path where the model saved.
+- ```--result_dir``` refers to the path where the result saved.
+
+##### Seq
+
 ```python
-python ote_model/mrc/main.py \
-      --model_name_or_path luhua/chinese_pretrain_mrc_roberta_wwm_ext_large \
+python eoe_model/seq/main.py \
+       --device gpu:3 \
+       --lr 1e-4 \
+       --backbone_lr 1e-6 \
+       --batch_size 1 \
+       --bert bert-base-chinese \
+       --num_epochs 15 \
+       --data_dir data/ECOB-ZH/ \
+       --model_dir model_files/chinese_model/ \
+       --result_dir result/chinese_result/
+```
+
+####  第二步：目标提取
+
+##### SpanR
+
+```python
+python ote_model/enum_paddle/main.py \
+      --device gpu:3 \
+      --lr 1e-5 \
+      --batch_size 16 \
+      --retrain 1 \
+      --bert bert-base-chinese \
+      --opinion_level segment \
+      --ratio 2 \
+      --num_epochs 5 \
+      --model_folder model_files/chinese_model/ \
+      --data_dir data/ECOB-ZH/ \
+      --result_dir result/chinese_result/
+```
+- ```--ratio``` refers to negative sampling ratio. If you want to train model on English dataset, input '5'.
+
+##### MRC
+
+```python
+python ote_model/mrc_paddle/main.py \
+      --device gpu:1 \
+      --predict_file test \
+      --model_name_or_path hfl/roberta-wwm-ext-large \
       --do_train \
       --do_eval \
       --do_lower_case \
@@ -157,32 +183,29 @@ python ote_model/mrc/main.py \
 ```
 - ```--model_name_or_path``` refers to pretrained model path. If you want to train model on English dataset, input 'bert-large-uncased-whole-word-masking-finetuned-squad'.
 
-##### SpanR
-```python
-python ote_model/enum/main.py \
-      --lr 1e-5 \
-      --batch_size 16 \
-      --retrain 1 \
-      --bert bert-base-chinese \
-      --opinion_level segment \
-      --ratio 2 \
-      --num_epochs 5 \
-      --model_folder model_files/chinese_model/ \
-      --data_dir data/ECOB-ZH/ \
-      --result_dir result/chinese_result/
-```
-- ```--ratio``` refers to negative sampling ratio. If you want to train model on English dataset, input '5'.
-
 ### 模型评估
 
+#### 观点抽取评估
+
 ```python
-python eval/eval.py \
-      --gold_file data/ECOB-ZH/test.ann.json \
-      --pred_file result/chinese_result/pred.ann.json
+python eval/eoe_eval.py \
+    --gold_file data/ECOB-ZH/test.ann.json \
+    --pred_file result/chinese_result/seq.pred.json
+```
+
+#### 目标提取评估
+
+```python
+python eval/ote_eval.py \
+    --gold_file data/ECOB-ZH/test.ann.json \
+    --pred_file result/chinese_result/mrc.ann.json
 ```
 
 ### 模型推理
 
+```python
+python inference/opinion_inferencer.py
+```
 
 ## License
 The code is released under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License for Noncommercial use only. Any commercial use should get formal permission first.
