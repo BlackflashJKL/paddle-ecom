@@ -87,7 +87,7 @@ data
 
 ```python
 docker pull blackflash799/paddle-ecom:v1 # 拉取镜像
-docker run -it blackflash799/paddle-ecom:v1 /bin/bash # 进入容器
+docker run -it --gpus all blackflash799/paddle-ecom:v1 /bin/bash # 进入容器
 conda activate ecom # 激活环境
 git clone git@github.com:BlackflashJKL/paddle-ecom.git # 克隆仓库
 ```
@@ -131,7 +131,7 @@ python eoe_model/paircls/main.py \
 
 ```python
 python eoe_model/seq/main.py \
-       --device gpu:3 \
+       --device gpu:2 \
        --lr 1e-4 \
        --backbone_lr 1e-6 \
        --batch_size 1 \
@@ -148,7 +148,7 @@ python eoe_model/seq/main.py \
 
 ```python
 python ote_model/enum_paddle/main.py \
-      --device gpu:3 \
+      --device gpu:0 \
       --lr 1e-5 \
       --batch_size 16 \
       --retrain 1 \
