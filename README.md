@@ -17,6 +17,70 @@
 
 ![image](https://github.com/BlackflashJKL/paddle-ecom/assets/54808417/8155e6c6-b3d0-41e4-8969-d0613bc91599)
 
+## 项目和数据集结构
+
+### 项目结构
+
+```
+paddle-ecom
+├── data              # 数据集
+├── eoe_model         # 观点抽取模型代码
+│   ├── paircls
+│   └── seq
+├── ote_model         # 目标提取模型代码
+│   ├── enum_paddle
+│   └── mrc_paddle
+├── scripts           # 训练脚本
+│   ├── MRC.sh
+│   ├── PairCls.sh
+│   ├── Seq.sh
+│   └── SpanR.sh
+├── inference         # 可视化推理脚本
+│   ├── data
+│   ├── opinion_inferencer.py
+│   └── results
+├── eval              # 模型评估脚本
+│   ├── end2end.py
+│   ├── end2end.sh
+│   ├── eoe_eval.py
+│   ├── eoe_eval.sh
+│   ├── eval.py
+│   ├── ote_eval.py
+│   ├── ote_eval.sh
+│   └── overlapf1.py
+├── model_files       # 模型保存
+│   ├── chinese_model
+│   └── english_model
+├──  result           # 推理结果保存
+│   └── chinese_result
+│   └── english_model
+└── requirements.txt
+
+```
+
+### 数据集
+
+```
+data
+├── ECOB-EN  # 中文数据集
+│   ├── dev.ann.json
+│   ├── dev.doc.json
+│   ├── test.ann.json
+│   ├── test.doc.json
+│   ├── train.ann.json
+│   └── train.doc.json
+├── ECOB-ZH  # 英文数据集
+│   ├── dev.ann.json
+│   ├── dev.doc.json
+│   ├── test.ann.json
+│   ├── test.doc.json
+│   ├── train.ann.json
+│   └── train.doc.json
+└── README.md
+```
+
+数据格式详见[数据集介绍](data/README.md)。
+
 ## 环境配置
 
 ### 方法1：Docker（推荐）
@@ -25,94 +89,23 @@
 docker pull docker.io/blackflash799/paddle-ecom:v1 # 拉取镜像
 docker run -it docker.io/blackflash799/paddle-ecom:v1 /bin/bash # 进入容器
 conda activate ecom # 激活环境
-git clone # 克隆仓库
+git clone git@github.com:BlackflashJKL/paddle-ecom.git # 克隆仓库
 ```
 
 ### 方法2：Anaconda
-
-General
-- Python (verified on 3.8)
-- CUDA (verified on 11.1)
-
-Python Packages
-- see requirements.txt
 
 ```python
 conda create -n ecom python=3.8 # 创建环境
 conda activate ecom # 激活环境
 pip install -r requirements.txt # 安装相关依赖
+git clone git@github.com:BlackflashJKL/paddle-ecom.git # 克隆仓库
 ```
 
-## Quick Start
-### Data Format
-**Additional Statement：** We organize [an evaluation](http://e-com.ac.cn/ccl2022.html/) in CCL2022.
+## 运行
 
-Data folder contains two folders: ECOB-EN and ECOB-ZH.
+### 模型训练
 
-Before training models, you should first download [data](https://47.94.193.253:25898/down/eac0R1Remzo1.zip) and unzip them as follows. 
-```
-data
-├── ECOB-ZH  # Chinese dataset.
-├── ── train.doc.json
-├── ── train.ann.json
-├── ── dev.doc.json
-├── ── dev.ann.json
-├── ── test.doc.json
-├──   ECOB-EN  # English dataset.
-├── ── train.doc.json
-├── ── train.ann.json
-├── ── dev.doc.json
-├── ── dev.ann.json
-└── ── test.doc.json
-```
-
-The data format is as follows:
-
-In train/dev/test.doc.json, each JSON instance represents a document.
-```
-{
-    "Descriptor": {
-        "event_id": (int) event_id,
-        "text": "Event descriptor."
-    },
-    "Doc": {
-        "doc_id": (int) doc_id,
-        "title": "Title of document.",
-        "content": [
-            {
-                "sent_idx": 0,
-                "sent_text": "Raw text of the first sentence."
-            },
-            {
-                "sent_idx": 1,
-                "sent_text": "Raw text of the second sentence."
-            },
-            ...
-            {
-                "sent_idx": n-1,
-                "sent_text": "Raw text of the (n-1)th sentence."
-            }
-        ]
-    }
-}
-```
-
-In train/dev/test.ann.json, each JSON instance represents an opinion extracted from documents.
-```
-[
-	{
-            "event_id": (int) event_id,
-            "doc_id": (int) doc_id,
-            "start_sent_idx": (int) "Sent idx of first sentence of the opinion.",
-            "end_sent_idx": (int) "Sent idx of last sentence of the opinion.",
-            "argument": (str) "Event argument (opinion target) of the opinion."
-  	}
-]
-```
-
-### Model Training
-
-#### Step 1: Event-Oriented Opinion Extraction
+#### 第一步: 观点抽取
 
 ##### Seq
 
@@ -145,7 +138,7 @@ python eoe_model/paircls/main.py \
        --result_dir result/chinese_result/
 ```
 
-####  Step 2: Opinion Target Extraction
+####  第二步：目标提取
 ##### MRC
 ```python
 python ote_model/mrc/main.py \
@@ -180,12 +173,16 @@ python ote_model/enum/main.py \
 ```
 - ```--ratio``` refers to negative sampling ratio. If you want to train model on English dataset, input '5'.
 
-### Model Evaluation
+### 模型评估
 
 ```python
 python eval/eval.py \
       --gold_file data/ECOB-ZH/test.ann.json \
       --pred_file result/chinese_result/pred.ann.json
 ```
+
+### 模型推理
+
+
 ## License
 The code is released under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License for Noncommercial use only. Any commercial use should get formal permission first.
