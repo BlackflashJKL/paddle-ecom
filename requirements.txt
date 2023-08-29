@@ -1,0 +1,12 @@
+gradio==3.41.2
+harvesttext==0.8.1.8
+jieba==0.42.1
+numpy==1.23.5
+paddlenlp==2.4.0
+paddlepaddle_gpu==2.3.2.post111
+pandas==2.0.1
+termcolor==2.3.0
+torch==1.8.0
+tqdm==4.65.0
+transformers==4.32.1
+x2paddle==1.4.0

@@ -1,0 +1,4713 @@
+[
+  {
+    "event_id": 112,
+    "doc_id": 1403,
+    "start_sent_idx": 3,
+    "end_sent_idx": 4,
+    "argument": "Japan defence ministry seeks record budget"
+  },
+  {
+    "event_id": 112,
+    "doc_id": 1404,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "record budget"
+  },
+  {
+    "event_id": 112,
+    "doc_id": 1405,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "Japan defence ministry seeks record budget"
+  },
+  {
+    "event_id": 113,
+    "doc_id": 1406,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "Uganda, South Korea leaders sign co-operation agreements"
+  },
+  {
+    "event_id": 113,
+    "doc_id": 1406,
+    "start_sent_idx": 9,
+    "end_sent_idx": 9,
+    "argument": "South Korea"
+  },
+  {
+    "event_id": 113,
+    "doc_id": 1407,
+    "start_sent_idx": 4,
+    "end_sent_idx": 4,
+    "argument": "Uganda"
+  },
+  {
+    "event_id": 113,
+    "doc_id": 1408,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "South Korea"
+  },
+  {
+    "event_id": 113,
+    "doc_id": 1408,
+    "start_sent_idx": 9,
+    "end_sent_idx": 9,
+    "argument": "South Korea"
+  },
+  {
+    "event_id": 113,
+    "doc_id": 1409,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "Uganda"
+  },
+  {
+    "event_id": 113,
+    "doc_id": 1409,
+    "start_sent_idx": 6,
+    "end_sent_idx": 6,
+    "argument": "Uganda"
+  },
+  {
+    "event_id": 113,
+    "doc_id": 1411,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "Uganda"
+  },
+  {
+    "event_id": 113,
+    "doc_id": 1412,
+    "start_sent_idx": 7,
+    "end_sent_idx": 7,
+    "argument": "Uganda"
+  },
+  {
+    "event_id": 113,
+    "doc_id": 1412,
+    "start_sent_idx": 10,
+    "end_sent_idx": 10,
+    "argument": "Uganda"
+  },
+  {
+    "event_id": 114,
+    "doc_id": 1413,
+    "start_sent_idx": 10,
+    "end_sent_idx": 10,
+    "argument": "Western Sahara peacekeeping mission"
+  },
+  {
+    "event_id": 114,
+    "doc_id": 1413,
+    "start_sent_idx": 11,
+    "end_sent_idx": 11,
+    "argument": "Western Sahara peacekeeping mission"
+  },
+  {
+    "event_id": 114,
+    "doc_id": 1413,
+    "start_sent_idx": 13,
+    "end_sent_idx": 13,
+    "argument": "UN"
+  },
+  {
+    "event_id": 114,
+    "doc_id": 1414,
+    "start_sent_idx": 8,
+    "end_sent_idx": 8,
+    "argument": "Western Sahara"
+  },
+  {
+    "event_id": 114,
+    "doc_id": 1414,
+    "start_sent_idx": 19,
+    "end_sent_idx": 19,
+    "argument": "Western Sahara peacekeeping mission"
+  },
+  {
+    "event_id": 114,
+    "doc_id": 1414,
+    "start_sent_idx": 20,
+    "end_sent_idx": 20,
+    "argument": "Western Sahara peacekeeping mission"
+  },
+  {
+    "event_id": 114,
+    "doc_id": 1415,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "UN urged to restore Western Sahara peacekeeping mission"
+  },
+  {
+    "event_id": 114,
+    "doc_id": 1415,
+    "start_sent_idx": 12,
+    "end_sent_idx": 12,
+    "argument": "Western Sahara"
+  },
+  {
+    "event_id": 114,
+    "doc_id": 1415,
+    "start_sent_idx": 14,
+    "end_sent_idx": 14,
+    "argument": "Western Sahara peacekeeping mission"
+  },
+  {
+    "event_id": 114,
+    "doc_id": 1416,
+    "start_sent_idx": 8,
+    "end_sent_idx": 8,
+    "argument": "Western Sahara peacekeeping mission"
+  },
+  {
+    "event_id": 114,
+    "doc_id": 1416,
+    "start_sent_idx": 15,
+    "end_sent_idx": 15,
+    "argument": "Western Sahara"
+  },
+  {
+    "event_id": 114,
+    "doc_id": 1417,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "UN urged to restore Western Sahara peacekeeping mission"
+  },
+  {
+    "event_id": 114,
+    "doc_id": 1417,
+    "start_sent_idx": 7,
+    "end_sent_idx": 7,
+    "argument": "Western Sahara"
+  },
+  {
+    "event_id": 114,
+    "doc_id": 1417,
+    "start_sent_idx": 12,
+    "end_sent_idx": 12,
+    "argument": "UN urged to restore Western Sahara peacekeeping mission"
+  },
+  {
+    "event_id": 114,
+    "doc_id": 1417,
+    "start_sent_idx": 14,
+    "end_sent_idx": 14,
+    "argument": "UN urged to restore Western Sahara peacekeeping mission"
+  },
+  {
+    "event_id": 114,
+    "doc_id": 1417,
+    "start_sent_idx": 18,
+    "end_sent_idx": 20,
+    "argument": "UN urged to restore Western Sahara peacekeeping mission"
+  },
+  {
+    "event_id": 114,
+    "doc_id": 1417,
+    "start_sent_idx": 22,
+    "end_sent_idx": 22,
+    "argument": "UN urged to restore Western Sahara peacekeeping mission"
+  },
+  {
+    "event_id": 114,
+    "doc_id": 1417,
+    "start_sent_idx": 24,
+    "end_sent_idx": 24,
+    "argument": "UN urged to restore Western Sahara peacekeeping mission"
+  },
+  {
+    "event_id": 115,
+    "doc_id": 1418,
+    "start_sent_idx": 14,
+    "end_sent_idx": 14,
+    "argument": "Non-Opec countries agree to cut oil output"
+  },
+  {
+    "event_id": 115,
+    "doc_id": 1420,
+    "start_sent_idx": 6,
+    "end_sent_idx": 6,
+    "argument": "cut oil output"
+  },
+  {
+    "event_id": 115,
+    "doc_id": 1421,
+    "start_sent_idx": 14,
+    "end_sent_idx": 14,
+    "argument": "Non-Opec countries agree to cut oil output to ease glut"
+  },
+  {
+    "event_id": 115,
+    "doc_id": 1422,
+    "start_sent_idx": 11,
+    "end_sent_idx": 11,
+    "argument": "Non-Opec countries agree to cut oil output to ease glut"
+  },
+  {
+    "event_id": 115,
+    "doc_id": 1423,
+    "start_sent_idx": 11,
+    "end_sent_idx": 11,
+    "argument": "Non-Opec countries agree to cut oil output to ease glut"
+  },
+  {
+    "event_id": 115,
+    "doc_id": 1424,
+    "start_sent_idx": 2,
+    "end_sent_idx": 2,
+    "argument": "Non-Opec countries"
+  },
+  {
+    "event_id": 115,
+    "doc_id": 1424,
+    "start_sent_idx": 10,
+    "end_sent_idx": 11,
+    "argument": "Non-Opec countries agree to cut oil output to ease glut"
+  },
+  {
+    "event_id": 115,
+    "doc_id": 1426,
+    "start_sent_idx": 15,
+    "end_sent_idx": 15,
+    "argument": "cut oil output to ease glut"
+  },
+  {
+    "event_id": 115,
+    "doc_id": 1429,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "Opec"
+  },
+  {
+    "event_id": 115,
+    "doc_id": 1429,
+    "start_sent_idx": 4,
+    "end_sent_idx": 4,
+    "argument": "Opec"
+  },
+  {
+    "event_id": 115,
+    "doc_id": 1429,
+    "start_sent_idx": 12,
+    "end_sent_idx": 12,
+    "argument": "Non-Opec countries agree to cut oil output to ease glut"
+  },
+  {
+    "event_id": 115,
+    "doc_id": 1430,
+    "start_sent_idx": 16,
+    "end_sent_idx": 16,
+    "argument": "Non-Opec countries agree to cut oil output to ease glut"
+  },
+  {
+    "event_id": 115,
+    "doc_id": 1431,
+    "start_sent_idx": 23,
+    "end_sent_idx": 23,
+    "argument": "Non-Opec countries agree to cut oil output to ease glut"
+  },
+  {
+    "event_id": 115,
+    "doc_id": 1431,
+    "start_sent_idx": 25,
+    "end_sent_idx": 25,
+    "argument": "Non-Opec countries agree to cut oil output to ease glut"
+  },
+  {
+    "event_id": 115,
+    "doc_id": 1433,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "Non-Opec countries agree to cut oil output to ease glut"
+  },
+  {
+    "event_id": 115,
+    "doc_id": 1433,
+    "start_sent_idx": 4,
+    "end_sent_idx": 4,
+    "argument": "Non-Opec countries agree to cut oil output to ease glut"
+  },
+  {
+    "event_id": 115,
+    "doc_id": 1433,
+    "start_sent_idx": 11,
+    "end_sent_idx": 11,
+    "argument": "cut oil output to ease glut"
+  },
+  {
+    "event_id": 115,
+    "doc_id": 1435,
+    "start_sent_idx": 6,
+    "end_sent_idx": 6,
+    "argument": "Non-Opec countries agree to cut oil output to ease glut"
+  },
+  {
+    "event_id": 115,
+    "doc_id": 1435,
+    "start_sent_idx": 11,
+    "end_sent_idx": 11,
+    "argument": "Non-Opec countries agree to cut oil output to ease glut"
+  },
+  {
+    "event_id": 115,
+    "doc_id": 1436,
+    "start_sent_idx": 13,
+    "end_sent_idx": 13,
+    "argument": "Non-Opec countries agree to cut oil output to ease glut"
+  },
+  {
+    "event_id": 115,
+    "doc_id": 1437,
+    "start_sent_idx": 15,
+    "end_sent_idx": 15,
+    "argument": "Non-Opec countries agree to cut oil output to ease glut"
+  },
+  {
+    "event_id": 115,
+    "doc_id": 1437,
+    "start_sent_idx": 16,
+    "end_sent_idx": 16,
+    "argument": "Non-Opec countries agree to cut oil output to ease glut"
+  },
+  {
+    "event_id": 115,
+    "doc_id": 1438,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "Non-Opec countries agree to cut oil output to ease glut"
+  },
+  {
+    "event_id": 115,
+    "doc_id": 1438,
+    "start_sent_idx": 6,
+    "end_sent_idx": 6,
+    "argument": "Non-Opec countries agree to cut oil output to ease glut"
+  },
+  {
+    "event_id": 115,
+    "doc_id": 1442,
+    "start_sent_idx": 12,
+    "end_sent_idx": 12,
+    "argument": "Non-Opec countries agree to cut oil output to ease glut"
+  },
+  {
+    "event_id": 115,
+    "doc_id": 1442,
+    "start_sent_idx": 13,
+    "end_sent_idx": 13,
+    "argument": "Non-Opec countries agree to cut oil output to ease glut"
+  },
+  {
+    "event_id": 115,
+    "doc_id": 1443,
+    "start_sent_idx": 12,
+    "end_sent_idx": 12,
+    "argument": "Non-Opec countries agree to cut oil output to ease glut"
+  },
+  {
+    "event_id": 115,
+    "doc_id": 1443,
+    "start_sent_idx": 16,
+    "end_sent_idx": 16,
+    "argument": "Non-Opec countries agree to cut oil output to ease glut"
+  },
+  {
+    "event_id": 116,
+    "doc_id": 1444,
+    "start_sent_idx": 0,
+    "end_sent_idx": 1,
+    "argument": "Obama proposes $10-a-barrel oil tax"
+  },
+  {
+    "event_id": 116,
+    "doc_id": 1444,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "Obama proposes $10-a-barrel oil tax"
+  },
+  {
+    "event_id": 116,
+    "doc_id": 1444,
+    "start_sent_idx": 5,
+    "end_sent_idx": 6,
+    "argument": "Obama proposes $10-a-barrel oil tax"
+  },
+  {
+    "event_id": 116,
+    "doc_id": 1444,
+    "start_sent_idx": 8,
+    "end_sent_idx": 8,
+    "argument": "Obama proposes $10-a-barrel oil tax"
+  },
+  {
+    "event_id": 116,
+    "doc_id": 1444,
+    "start_sent_idx": 16,
+    "end_sent_idx": 16,
+    "argument": "Obama proposes $10-a-barrel oil tax"
+  },
+  {
+    "event_id": 116,
+    "doc_id": 1444,
+    "start_sent_idx": 17,
+    "end_sent_idx": 17,
+    "argument": "Obama proposes $10-a-barrel oil tax"
+  },
+  {
+    "event_id": 116,
+    "doc_id": 1444,
+    "start_sent_idx": 18,
+    "end_sent_idx": 18,
+    "argument": "Obama proposes $10-a-barrel oil tax"
+  },
+  {
+    "event_id": 116,
+    "doc_id": 1444,
+    "start_sent_idx": 19,
+    "end_sent_idx": 19,
+    "argument": "Obama proposes $10-a-barrel oil tax"
+  },
+  {
+    "event_id": 116,
+    "doc_id": 1444,
+    "start_sent_idx": 24,
+    "end_sent_idx": 24,
+    "argument": "Obama proposes $10-a-barrel oil tax"
+  },
+  {
+    "event_id": 116,
+    "doc_id": 1444,
+    "start_sent_idx": 26,
+    "end_sent_idx": 27,
+    "argument": "oil tax"
+  },
+  {
+    "event_id": 116,
+    "doc_id": 1444,
+    "start_sent_idx": 28,
+    "end_sent_idx": 28,
+    "argument": "Obama proposes $10-a-barrel oil tax"
+  },
+  {
+    "event_id": 116,
+    "doc_id": 1445,
+    "start_sent_idx": 11,
+    "end_sent_idx": 11,
+    "argument": "$10-a-barrel oil tax"
+  },
+  {
+    "event_id": 116,
+    "doc_id": 1445,
+    "start_sent_idx": 15,
+    "end_sent_idx": 17,
+    "argument": "Obama proposes $10-a-barrel oil tax"
+  },
+  {
+    "event_id": 116,
+    "doc_id": 1445,
+    "start_sent_idx": 19,
+    "end_sent_idx": 19,
+    "argument": "$10-a-barrel oil tax"
+  },
+  {
+    "event_id": 116,
+    "doc_id": 1445,
+    "start_sent_idx": 20,
+    "end_sent_idx": 20,
+    "argument": "$10-a-barrel oil tax"
+  },
+  {
+    "event_id": 116,
+    "doc_id": 1445,
+    "start_sent_idx": 24,
+    "end_sent_idx": 24,
+    "argument": "$10-a-barrel oil tax"
+  },
+  {
+    "event_id": 116,
+    "doc_id": 1446,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "Obama proposes $10-a-barrel oil tax"
+  },
+  {
+    "event_id": 116,
+    "doc_id": 1446,
+    "start_sent_idx": 2,
+    "end_sent_idx": 2,
+    "argument": "Obama proposes $10-a-barrel oil tax"
+  },
+  {
+    "event_id": 116,
+    "doc_id": 1446,
+    "start_sent_idx": 7,
+    "end_sent_idx": 7,
+    "argument": "$10-a-barrel oil tax"
+  },
+  {
+    "event_id": 116,
+    "doc_id": 1446,
+    "start_sent_idx": 9,
+    "end_sent_idx": 11,
+    "argument": "$10-a-barrel oil tax"
+  },
+  {
+    "event_id": 116,
+    "doc_id": 1446,
+    "start_sent_idx": 16,
+    "end_sent_idx": 16,
+    "argument": "Obama proposes $10-a-barrel oil tax"
+  },
+  {
+    "event_id": 116,
+    "doc_id": 1447,
+    "start_sent_idx": 2,
+    "end_sent_idx": 2,
+    "argument": "Obama proposes $10-a-barrel oil tax"
+  },
+  {
+    "event_id": 116,
+    "doc_id": 1447,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "Obama proposes $10-a-barrel oil tax"
+  },
+  {
+    "event_id": 116,
+    "doc_id": 1447,
+    "start_sent_idx": 4,
+    "end_sent_idx": 4,
+    "argument": "Obama proposes $10-a-barrel oil tax"
+  },
+  {
+    "event_id": 116,
+    "doc_id": 1447,
+    "start_sent_idx": 7,
+    "end_sent_idx": 7,
+    "argument": "Obama proposes $10-a-barrel oil tax"
+  },
+  {
+    "event_id": 116,
+    "doc_id": 1447,
+    "start_sent_idx": 8,
+    "end_sent_idx": 8,
+    "argument": "$10-a-barrel oil tax"
+  },
+  {
+    "event_id": 116,
+    "doc_id": 1447,
+    "start_sent_idx": 14,
+    "end_sent_idx": 14,
+    "argument": "Obama proposes $10-a-barrel oil tax"
+  },
+  {
+    "event_id": 116,
+    "doc_id": 1448,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "Obama proposes $10-a-barrel oil tax"
+  },
+  {
+    "event_id": 116,
+    "doc_id": 1448,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "$10-a-barrel oil tax"
+  },
+  {
+    "event_id": 116,
+    "doc_id": 1448,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "Obama proposes $10-a-barrel oil tax"
+  },
+  {
+    "event_id": 116,
+    "doc_id": 1448,
+    "start_sent_idx": 5,
+    "end_sent_idx": 5,
+    "argument": "Obama proposes $10-a-barrel oil tax"
+  },
+  {
+    "event_id": 116,
+    "doc_id": 1448,
+    "start_sent_idx": 10,
+    "end_sent_idx": 10,
+    "argument": "$10-a-barrel oil tax"
+  },
+  {
+    "event_id": 116,
+    "doc_id": 1449,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "$10-a-barrel oil tax"
+  },
+  {
+    "event_id": 116,
+    "doc_id": 1449,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "Obama proposes $10-a-barrel oil tax"
+  },
+  {
+    "event_id": 116,
+    "doc_id": 1449,
+    "start_sent_idx": 5,
+    "end_sent_idx": 5,
+    "argument": "Obama proposes $10-a-barrel oil tax"
+  },
+  {
+    "event_id": 116,
+    "doc_id": 1449,
+    "start_sent_idx": 9,
+    "end_sent_idx": 9,
+    "argument": "Obama proposes $10-a-barrel oil tax"
+  },
+  {
+    "event_id": 116,
+    "doc_id": 1449,
+    "start_sent_idx": 13,
+    "end_sent_idx": 13,
+    "argument": "$10-a-barrel oil tax"
+  },
+  {
+    "event_id": 116,
+    "doc_id": 1450,
+    "start_sent_idx": 5,
+    "end_sent_idx": 6,
+    "argument": "Obama proposes $10-a-barrel oil tax"
+  },
+  {
+    "event_id": 116,
+    "doc_id": 1450,
+    "start_sent_idx": 7,
+    "end_sent_idx": 7,
+    "argument": "$10-a-barrel oil tax"
+  },
+  {
+    "event_id": 116,
+    "doc_id": 1450,
+    "start_sent_idx": 9,
+    "end_sent_idx": 9,
+    "argument": "Obama proposes $10-a-barrel oil tax"
+  },
+  {
+    "event_id": 116,
+    "doc_id": 1450,
+    "start_sent_idx": 15,
+    "end_sent_idx": 15,
+    "argument": "Obama proposes $10-a-barrel oil tax"
+  },
+  {
+    "event_id": 116,
+    "doc_id": 1450,
+    "start_sent_idx": 16,
+    "end_sent_idx": 16,
+    "argument": "Obama proposes $10-a-barrel oil tax"
+  },
+  {
+    "event_id": 116,
+    "doc_id": 1450,
+    "start_sent_idx": 22,
+    "end_sent_idx": 24,
+    "argument": "Obama proposes $10-a-barrel oil tax"
+  },
+  {
+    "event_id": 116,
+    "doc_id": 1450,
+    "start_sent_idx": 26,
+    "end_sent_idx": 26,
+    "argument": "Obama proposes $10-a-barrel oil tax"
+  },
+  {
+    "event_id": 116,
+    "doc_id": 1450,
+    "start_sent_idx": 29,
+    "end_sent_idx": 29,
+    "argument": "$10-a-barrel oil tax"
+  },
+  {
+    "event_id": 116,
+    "doc_id": 1451,
+    "start_sent_idx": 0,
+    "end_sent_idx": 1,
+    "argument": "Obama proposes $10-a-barrel oil tax"
+  },
+  {
+    "event_id": 116,
+    "doc_id": 1451,
+    "start_sent_idx": 2,
+    "end_sent_idx": 3,
+    "argument": "Obama proposes $10-a-barrel oil tax"
+  },
+  {
+    "event_id": 116,
+    "doc_id": 1451,
+    "start_sent_idx": 7,
+    "end_sent_idx": 7,
+    "argument": "Obama proposes $10-a-barrel oil tax"
+  },
+  {
+    "event_id": 116,
+    "doc_id": 1451,
+    "start_sent_idx": 9,
+    "end_sent_idx": 9,
+    "argument": "Obama proposes $10-a-barrel oil tax"
+  },
+  {
+    "event_id": 116,
+    "doc_id": 1451,
+    "start_sent_idx": 10,
+    "end_sent_idx": 10,
+    "argument": "Obama proposes $10-a-barrel oil tax"
+  },
+  {
+    "event_id": 116,
+    "doc_id": 1451,
+    "start_sent_idx": 13,
+    "end_sent_idx": 13,
+    "argument": "Obama proposes $10-a-barrel oil tax"
+  },
+  {
+    "event_id": 116,
+    "doc_id": 1451,
+    "start_sent_idx": 18,
+    "end_sent_idx": 18,
+    "argument": "Obama proposes $10-a-barrel oil tax"
+  },
+  {
+    "event_id": 116,
+    "doc_id": 1451,
+    "start_sent_idx": 20,
+    "end_sent_idx": 21,
+    "argument": "$10-a-barrel oil tax"
+  },
+  {
+    "event_id": 116,
+    "doc_id": 1452,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "Obama proposes $10-a-barrel oil tax"
+  },
+  {
+    "event_id": 116,
+    "doc_id": 1452,
+    "start_sent_idx": 6,
+    "end_sent_idx": 6,
+    "argument": "Obama proposes $10-a-barrel oil tax"
+  },
+  {
+    "event_id": 116,
+    "doc_id": 1452,
+    "start_sent_idx": 8,
+    "end_sent_idx": 8,
+    "argument": "Obama proposes $10-a-barrel oil tax"
+  },
+  {
+    "event_id": 116,
+    "doc_id": 1452,
+    "start_sent_idx": 10,
+    "end_sent_idx": 10,
+    "argument": "Obama proposes $10-a-barrel oil tax"
+  },
+  {
+    "event_id": 116,
+    "doc_id": 1452,
+    "start_sent_idx": 11,
+    "end_sent_idx": 11,
+    "argument": "Obama proposes $10-a-barrel oil tax"
+  },
+  {
+    "event_id": 116,
+    "doc_id": 1452,
+    "start_sent_idx": 12,
+    "end_sent_idx": 12,
+    "argument": "Obama proposes $10-a-barrel oil tax"
+  },
+  {
+    "event_id": 116,
+    "doc_id": 1452,
+    "start_sent_idx": 13,
+    "end_sent_idx": 13,
+    "argument": "Obama proposes $10-a-barrel oil tax"
+  },
+  {
+    "event_id": 116,
+    "doc_id": 1452,
+    "start_sent_idx": 18,
+    "end_sent_idx": 18,
+    "argument": "$10-a-barrel oil tax"
+  },
+  {
+    "event_id": 116,
+    "doc_id": 1452,
+    "start_sent_idx": 21,
+    "end_sent_idx": 21,
+    "argument": "oil tax"
+  },
+  {
+    "event_id": 117,
+    "doc_id": 1453,
+    "start_sent_idx": 6,
+    "end_sent_idx": 6,
+    "argument": "Samsung suspends all sales of Galaxy Note 7"
+  },
+  {
+    "event_id": 117,
+    "doc_id": 1453,
+    "start_sent_idx": 7,
+    "end_sent_idx": 9,
+    "argument": "Samsung"
+  },
+  {
+    "event_id": 117,
+    "doc_id": 1453,
+    "start_sent_idx": 13,
+    "end_sent_idx": 13,
+    "argument": "Samsung"
+  },
+  {
+    "event_id": 117,
+    "doc_id": 1453,
+    "start_sent_idx": 15,
+    "end_sent_idx": 19,
+    "argument": "Samsung"
+  },
+  {
+    "event_id": 117,
+    "doc_id": 1453,
+    "start_sent_idx": 26,
+    "end_sent_idx": 26,
+    "argument": "Samsung"
+  },
+  {
+    "event_id": 117,
+    "doc_id": 1453,
+    "start_sent_idx": 27,
+    "end_sent_idx": 27,
+    "argument": "Samsung"
+  },
+  {
+    "event_id": 117,
+    "doc_id": 1454,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "Galaxy Note 7"
+  },
+  {
+    "event_id": 117,
+    "doc_id": 1454,
+    "start_sent_idx": 14,
+    "end_sent_idx": 14,
+    "argument": "Galaxy Note 7"
+  },
+  {
+    "event_id": 117,
+    "doc_id": 1455,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "Samsung"
+  },
+  {
+    "event_id": 117,
+    "doc_id": 1455,
+    "start_sent_idx": 4,
+    "end_sent_idx": 4,
+    "argument": "Samsung"
+  },
+  {
+    "event_id": 117,
+    "doc_id": 1455,
+    "start_sent_idx": 10,
+    "end_sent_idx": 10,
+    "argument": "Samsung suspends all sales of Galaxy Note 7"
+  },
+  {
+    "event_id": 117,
+    "doc_id": 1455,
+    "start_sent_idx": 12,
+    "end_sent_idx": 12,
+    "argument": "Galaxy Note 7"
+  },
+  {
+    "event_id": 117,
+    "doc_id": 1456,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "Galaxy Note 7"
+  },
+  {
+    "event_id": 117,
+    "doc_id": 1456,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "Galaxy Note 7"
+  },
+  {
+    "event_id": 117,
+    "doc_id": 1456,
+    "start_sent_idx": 12,
+    "end_sent_idx": 12,
+    "argument": "Samsung"
+  },
+  {
+    "event_id": 117,
+    "doc_id": 1456,
+    "start_sent_idx": 13,
+    "end_sent_idx": 16,
+    "argument": "Galaxy Note 7"
+  },
+  {
+    "event_id": 117,
+    "doc_id": 1456,
+    "start_sent_idx": 19,
+    "end_sent_idx": 19,
+    "argument": "Samsung"
+  },
+  {
+    "event_id": 117,
+    "doc_id": 1457,
+    "start_sent_idx": 3,
+    "end_sent_idx": 6,
+    "argument": "Galaxy Note 7"
+  },
+  {
+    "event_id": 117,
+    "doc_id": 1457,
+    "start_sent_idx": 14,
+    "end_sent_idx": 14,
+    "argument": "Samsung"
+  },
+  {
+    "event_id": 117,
+    "doc_id": 1458,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "Galaxy Note 7"
+  },
+  {
+    "event_id": 117,
+    "doc_id": 1458,
+    "start_sent_idx": 4,
+    "end_sent_idx": 4,
+    "argument": "Samsung"
+  },
+  {
+    "event_id": 117,
+    "doc_id": 1458,
+    "start_sent_idx": 6,
+    "end_sent_idx": 6,
+    "argument": "Samsung suspends all sales of Galaxy Note 7"
+  },
+  {
+    "event_id": 117,
+    "doc_id": 1458,
+    "start_sent_idx": 9,
+    "end_sent_idx": 9,
+    "argument": "Samsung suspends all sales of Galaxy Note 7"
+  },
+  {
+    "event_id": 117,
+    "doc_id": 1458,
+    "start_sent_idx": 15,
+    "end_sent_idx": 15,
+    "argument": "Samsung"
+  },
+  {
+    "event_id": 117,
+    "doc_id": 1458,
+    "start_sent_idx": 17,
+    "end_sent_idx": 17,
+    "argument": "Galaxy Note 7"
+  },
+  {
+    "event_id": 117,
+    "doc_id": 1459,
+    "start_sent_idx": 11,
+    "end_sent_idx": 11,
+    "argument": "Galaxy Note 7"
+  },
+  {
+    "event_id": 117,
+    "doc_id": 1459,
+    "start_sent_idx": 12,
+    "end_sent_idx": 12,
+    "argument": "Samsung"
+  },
+  {
+    "event_id": 117,
+    "doc_id": 1459,
+    "start_sent_idx": 13,
+    "end_sent_idx": 13,
+    "argument": "Samsung"
+  },
+  {
+    "event_id": 117,
+    "doc_id": 1459,
+    "start_sent_idx": 14,
+    "end_sent_idx": 14,
+    "argument": "Samsung"
+  },
+  {
+    "event_id": 117,
+    "doc_id": 1459,
+    "start_sent_idx": 16,
+    "end_sent_idx": 16,
+    "argument": "Samsung"
+  },
+  {
+    "event_id": 117,
+    "doc_id": 1459,
+    "start_sent_idx": 17,
+    "end_sent_idx": 17,
+    "argument": "Samsung"
+  },
+  {
+    "event_id": 117,
+    "doc_id": 1459,
+    "start_sent_idx": 23,
+    "end_sent_idx": 23,
+    "argument": "Samsung suspends all sales of Galaxy Note 7"
+  },
+  {
+    "event_id": 117,
+    "doc_id": 1459,
+    "start_sent_idx": 25,
+    "end_sent_idx": 25,
+    "argument": "Samsung"
+  },
+  {
+    "event_id": 117,
+    "doc_id": 1460,
+    "start_sent_idx": 14,
+    "end_sent_idx": 14,
+    "argument": "Samsung"
+  },
+  {
+    "event_id": 117,
+    "doc_id": 1460,
+    "start_sent_idx": 20,
+    "end_sent_idx": 20,
+    "argument": "Samsung"
+  },
+  {
+    "event_id": 117,
+    "doc_id": 1460,
+    "start_sent_idx": 22,
+    "end_sent_idx": 22,
+    "argument": "Samsung suspends all sales of Galaxy Note 7"
+  },
+  {
+    "event_id": 117,
+    "doc_id": 1462,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "Galaxy Note 7"
+  },
+  {
+    "event_id": 117,
+    "doc_id": 1462,
+    "start_sent_idx": 9,
+    "end_sent_idx": 9,
+    "argument": "Samsung"
+  },
+  {
+    "event_id": 117,
+    "doc_id": 1462,
+    "start_sent_idx": 12,
+    "end_sent_idx": 12,
+    "argument": "Galaxy Note 7"
+  },
+  {
+    "event_id": 117,
+    "doc_id": 1462,
+    "start_sent_idx": 14,
+    "end_sent_idx": 14,
+    "argument": "Samsung"
+  },
+  {
+    "event_id": 117,
+    "doc_id": 1463,
+    "start_sent_idx": 12,
+    "end_sent_idx": 12,
+    "argument": "Samsung"
+  },
+  {
+    "event_id": 117,
+    "doc_id": 1464,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "Galaxy Note 7"
+  },
+  {
+    "event_id": 117,
+    "doc_id": 1464,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "Galaxy Note 7"
+  },
+  {
+    "event_id": 117,
+    "doc_id": 1465,
+    "start_sent_idx": 10,
+    "end_sent_idx": 10,
+    "argument": "sales of Galaxy Note 7"
+  },
+  {
+    "event_id": 117,
+    "doc_id": 1466,
+    "start_sent_idx": 4,
+    "end_sent_idx": 4,
+    "argument": "Galaxy Note 7"
+  },
+  {
+    "event_id": 117,
+    "doc_id": 1466,
+    "start_sent_idx": 9,
+    "end_sent_idx": 9,
+    "argument": "Galaxy Note 7"
+  },
+  {
+    "event_id": 117,
+    "doc_id": 1467,
+    "start_sent_idx": 10,
+    "end_sent_idx": 10,
+    "argument": "Galaxy Note 7"
+  },
+  {
+    "event_id": 117,
+    "doc_id": 1468,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "Galaxy Note 7"
+  },
+  {
+    "event_id": 117,
+    "doc_id": 1468,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "Galaxy Note 7"
+  },
+  {
+    "event_id": 117,
+    "doc_id": 1469,
+    "start_sent_idx": 4,
+    "end_sent_idx": 4,
+    "argument": "Samsung"
+  },
+  {
+    "event_id": 117,
+    "doc_id": 1470,
+    "start_sent_idx": 4,
+    "end_sent_idx": 4,
+    "argument": "Galaxy Note 7"
+  },
+  {
+    "event_id": 117,
+    "doc_id": 1470,
+    "start_sent_idx": 5,
+    "end_sent_idx": 6,
+    "argument": "Samsung suspends all sales of Galaxy Note 7"
+  },
+  {
+    "event_id": 117,
+    "doc_id": 1470,
+    "start_sent_idx": 11,
+    "end_sent_idx": 11,
+    "argument": "Samsung"
+  },
+  {
+    "event_id": 117,
+    "doc_id": 1470,
+    "start_sent_idx": 12,
+    "end_sent_idx": 12,
+    "argument": "Samsung"
+  },
+  {
+    "event_id": 117,
+    "doc_id": 1470,
+    "start_sent_idx": 13,
+    "end_sent_idx": 13,
+    "argument": "sales of Galaxy Note 7"
+  },
+  {
+    "event_id": 117,
+    "doc_id": 1471,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "Samsung suspends all sales of Galaxy Note 7"
+  },
+  {
+    "event_id": 117,
+    "doc_id": 1472,
+    "start_sent_idx": 5,
+    "end_sent_idx": 6,
+    "argument": "Samsung"
+  },
+  {
+    "event_id": 117,
+    "doc_id": 1472,
+    "start_sent_idx": 16,
+    "end_sent_idx": 16,
+    "argument": "Samsung suspends all sales of Galaxy Note 7"
+  },
+  {
+    "event_id": 117,
+    "doc_id": 1473,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "Galaxy Note 7"
+  },
+  {
+    "event_id": 117,
+    "doc_id": 1473,
+    "start_sent_idx": 4,
+    "end_sent_idx": 4,
+    "argument": "Galaxy Note 7"
+  },
+  {
+    "event_id": 117,
+    "doc_id": 1474,
+    "start_sent_idx": 6,
+    "end_sent_idx": 8,
+    "argument": "Samsung"
+  },
+  {
+    "event_id": 117,
+    "doc_id": 1475,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "Galaxy Note 7"
+  },
+  {
+    "event_id": 117,
+    "doc_id": 1475,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "Galaxy Note 7"
+  },
+  {
+    "event_id": 117,
+    "doc_id": 1475,
+    "start_sent_idx": 5,
+    "end_sent_idx": 5,
+    "argument": "Samsung"
+  },
+  {
+    "event_id": 117,
+    "doc_id": 1475,
+    "start_sent_idx": 6,
+    "end_sent_idx": 6,
+    "argument": "Galaxy Note 7"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1477,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "Galaxy Note 7 Smartphone"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1477,
+    "start_sent_idx": 5,
+    "end_sent_idx": 5,
+    "argument": "Samsung to Permanently Discontinue Galaxy Note 7 Smartphone"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1478,
+    "start_sent_idx": 7,
+    "end_sent_idx": 7,
+    "argument": "Samsung to Permanently Discontinue Galaxy Note 7 Smartphone"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1478,
+    "start_sent_idx": 16,
+    "end_sent_idx": 16,
+    "argument": "Samsung to Permanently Discontinue Galaxy Note 7 Smartphone"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1478,
+    "start_sent_idx": 17,
+    "end_sent_idx": 17,
+    "argument": "Samsung to Permanently Discontinue Galaxy Note 7 Smartphone"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1479,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "Samsung to Permanently Discontinue Galaxy Note 7 Smartphone"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1479,
+    "start_sent_idx": 15,
+    "end_sent_idx": 15,
+    "argument": "Samsung"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1480,
+    "start_sent_idx": 12,
+    "end_sent_idx": 12,
+    "argument": "Samsung"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1480,
+    "start_sent_idx": 13,
+    "end_sent_idx": 13,
+    "argument": "Samsung"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1481,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "Samsung to Permanently Discontinue Galaxy Note 7 Smartphone"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1481,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "Samsung"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1481,
+    "start_sent_idx": 14,
+    "end_sent_idx": 14,
+    "argument": "Samsung"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1483,
+    "start_sent_idx": 11,
+    "end_sent_idx": 11,
+    "argument": "Galaxy Note 7 Smartphone"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1483,
+    "start_sent_idx": 12,
+    "end_sent_idx": 12,
+    "argument": "Samsung to Permanently Discontinue Galaxy Note 7 Smartphone"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1483,
+    "start_sent_idx": 13,
+    "end_sent_idx": 13,
+    "argument": "Samsung to Permanently Discontinue Galaxy Note 7 Smartphone"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1483,
+    "start_sent_idx": 20,
+    "end_sent_idx": 20,
+    "argument": "Samsung"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1485,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "Samsung to Permanently Discontinue Galaxy Note 7 Smartphone"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1485,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "Samsung to Permanently Discontinue Galaxy Note 7 Smartphone"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1485,
+    "start_sent_idx": 2,
+    "end_sent_idx": 2,
+    "argument": "Galaxy Note 7 Smartphone"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1485,
+    "start_sent_idx": 6,
+    "end_sent_idx": 6,
+    "argument": "Samsung to Permanently Discontinue Galaxy Note 7 Smartphone"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1485,
+    "start_sent_idx": 7,
+    "end_sent_idx": 8,
+    "argument": "Samsung"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1485,
+    "start_sent_idx": 9,
+    "end_sent_idx": 9,
+    "argument": "Samsung"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1485,
+    "start_sent_idx": 10,
+    "end_sent_idx": 10,
+    "argument": "Samsung to Permanently Discontinue Galaxy Note 7 Smartphone"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1485,
+    "start_sent_idx": 18,
+    "end_sent_idx": 18,
+    "argument": "Samsung to Permanently Discontinue Galaxy Note 7 Smartphone"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1485,
+    "start_sent_idx": 22,
+    "end_sent_idx": 23,
+    "argument": "Samsung"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1487,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "Samsung"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1487,
+    "start_sent_idx": 4,
+    "end_sent_idx": 4,
+    "argument": "Samsung to Permanently Discontinue Galaxy Note 7 Smartphone"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1487,
+    "start_sent_idx": 5,
+    "end_sent_idx": 5,
+    "argument": "Samsung to Permanently Discontinue Galaxy Note 7 Smartphone"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1487,
+    "start_sent_idx": 7,
+    "end_sent_idx": 7,
+    "argument": "Samsung to Permanently Discontinue Galaxy Note 7 Smartphone"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1487,
+    "start_sent_idx": 8,
+    "end_sent_idx": 8,
+    "argument": "Samsung to Permanently Discontinue Galaxy Note 7 Smartphone"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1487,
+    "start_sent_idx": 9,
+    "end_sent_idx": 9,
+    "argument": "Samsung to Permanently Discontinue Galaxy Note 7 Smartphone"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1487,
+    "start_sent_idx": 14,
+    "end_sent_idx": 14,
+    "argument": "Samsung to Permanently Discontinue Galaxy Note 7 Smartphone"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1488,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "Samsung to Permanently Discontinue Galaxy Note 7 Smartphone"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1488,
+    "start_sent_idx": 10,
+    "end_sent_idx": 10,
+    "argument": "Samsung to Permanently Discontinue Galaxy Note 7 Smartphone"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1489,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "Samsung to Permanently Discontinue Galaxy Note 7 Smartphone"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1489,
+    "start_sent_idx": 9,
+    "end_sent_idx": 9,
+    "argument": "Samsung to Permanently Discontinue Galaxy Note 7 Smartphone"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1489,
+    "start_sent_idx": 10,
+    "end_sent_idx": 11,
+    "argument": "Samsung"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1490,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "Samsung to Permanently Discontinue Galaxy Note 7 Smartphone"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1490,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "Samsung"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1491,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "Samsung to Permanently Discontinue Galaxy Note 7 Smartphone"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1491,
+    "start_sent_idx": 4,
+    "end_sent_idx": 4,
+    "argument": "Samsung to Permanently Discontinue Galaxy Note 7 Smartphone"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1491,
+    "start_sent_idx": 8,
+    "end_sent_idx": 8,
+    "argument": "Samsung to Permanently Discontinue Galaxy Note 7 Smartphone"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1491,
+    "start_sent_idx": 15,
+    "end_sent_idx": 15,
+    "argument": "Samsung"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1491,
+    "start_sent_idx": 16,
+    "end_sent_idx": 16,
+    "argument": "Samsung to Permanently Discontinue Galaxy Note 7 Smartphone"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1492,
+    "start_sent_idx": 21,
+    "end_sent_idx": 23,
+    "argument": "Samsung"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1493,
+    "start_sent_idx": 2,
+    "end_sent_idx": 2,
+    "argument": "Samsung to Permanently Discontinue Galaxy Note 7 Smartphone"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1493,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "Samsung to Permanently Discontinue Galaxy Note 7 Smartphone"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1494,
+    "start_sent_idx": 16,
+    "end_sent_idx": 16,
+    "argument": "Samsung"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1495,
+    "start_sent_idx": 7,
+    "end_sent_idx": 7,
+    "argument": "Samsung to Permanently Discontinue Galaxy Note 7 Smartphone"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1495,
+    "start_sent_idx": 8,
+    "end_sent_idx": 8,
+    "argument": "Samsung"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1496,
+    "start_sent_idx": 7,
+    "end_sent_idx": 7,
+    "argument": "Samsung to Permanently Discontinue Galaxy Note 7 Smartphone"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1496,
+    "start_sent_idx": 9,
+    "end_sent_idx": 9,
+    "argument": "Galaxy Note 7 Smartphone"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1496,
+    "start_sent_idx": 11,
+    "end_sent_idx": 11,
+    "argument": "Samsung"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1497,
+    "start_sent_idx": 4,
+    "end_sent_idx": 4,
+    "argument": "Galaxy Note 7 Smartphone"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1497,
+    "start_sent_idx": 16,
+    "end_sent_idx": 16,
+    "argument": "Samsung to Permanently Discontinue Galaxy Note 7 Smartphone"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1498,
+    "start_sent_idx": 7,
+    "end_sent_idx": 7,
+    "argument": "Galaxy Note 7 Smartphone"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1499,
+    "start_sent_idx": 2,
+    "end_sent_idx": 2,
+    "argument": "Galaxy Note 7 Smartphone"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1499,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "Samsung to Permanently Discontinue Galaxy Note 7 Smartphone"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1499,
+    "start_sent_idx": 9,
+    "end_sent_idx": 10,
+    "argument": "Samsung to Permanently Discontinue Galaxy Note 7 Smartphone"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1499,
+    "start_sent_idx": 12,
+    "end_sent_idx": 12,
+    "argument": "Samsung to Permanently Discontinue Galaxy Note 7 Smartphone"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1499,
+    "start_sent_idx": 13,
+    "end_sent_idx": 13,
+    "argument": "Galaxy Note 7 Smartphone"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1499,
+    "start_sent_idx": 18,
+    "end_sent_idx": 18,
+    "argument": "Galaxy Note 7 Smartphone"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1499,
+    "start_sent_idx": 23,
+    "end_sent_idx": 24,
+    "argument": "Samsung"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1500,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "Samsung to Permanently Discontinue Galaxy Note 7 Smartphone"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1500,
+    "start_sent_idx": 4,
+    "end_sent_idx": 4,
+    "argument": "Samsung to Permanently Discontinue Galaxy Note 7 Smartphone"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1500,
+    "start_sent_idx": 10,
+    "end_sent_idx": 10,
+    "argument": "Samsung"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1500,
+    "start_sent_idx": 12,
+    "end_sent_idx": 12,
+    "argument": "Galaxy Note 7 Smartphone"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1500,
+    "start_sent_idx": 13,
+    "end_sent_idx": 13,
+    "argument": "Samsung to Permanently Discontinue Galaxy Note 7 Smartphone"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1501,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "Galaxy Note 7 Smartphone"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1501,
+    "start_sent_idx": 2,
+    "end_sent_idx": 2,
+    "argument": "Galaxy Note 7 Smartphone"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1501,
+    "start_sent_idx": 7,
+    "end_sent_idx": 7,
+    "argument": "Galaxy Note 7 Smartphone"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1501,
+    "start_sent_idx": 8,
+    "end_sent_idx": 8,
+    "argument": "Samsung to Permanently Discontinue Galaxy Note 7 Smartphone"
+  },
+  {
+    "event_id": 118,
+    "doc_id": 1501,
+    "start_sent_idx": 10,
+    "end_sent_idx": 10,
+    "argument": "Galaxy Note 7 Smartphone"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1502,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "a takeover bid from Taiwan's Foxconn"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1502,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "a takeover bid from Taiwan's Foxconn"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1502,
+    "start_sent_idx": 4,
+    "end_sent_idx": 4,
+    "argument": "a takeover bid from Taiwan's Foxconn"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1502,
+    "start_sent_idx": 5,
+    "end_sent_idx": 5,
+    "argument": "Sharp"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1502,
+    "start_sent_idx": 6,
+    "end_sent_idx": 6,
+    "argument": "Sharp's board has accepted a takeover bid from Taiwan's Foxconn"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1502,
+    "start_sent_idx": 7,
+    "end_sent_idx": 9,
+    "argument": "Sharp's board has accepted a takeover bid from Taiwan's Foxconn"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1502,
+    "start_sent_idx": 10,
+    "end_sent_idx": 11,
+    "argument": "Sharp's board has accepted a takeover bid from Taiwan's Foxconn"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1502,
+    "start_sent_idx": 13,
+    "end_sent_idx": 13,
+    "argument": "Sharp"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1502,
+    "start_sent_idx": 14,
+    "end_sent_idx": 14,
+    "argument": "Sharp"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1502,
+    "start_sent_idx": 16,
+    "end_sent_idx": 21,
+    "argument": "Sharp"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1503,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "a takeover bid from Taiwan's Foxconn"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1503,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "a takeover bid from Taiwan's Foxconn"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1503,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "Sharp"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1503,
+    "start_sent_idx": 7,
+    "end_sent_idx": 7,
+    "argument": "a takeover bid from Taiwan's Foxconn"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1503,
+    "start_sent_idx": 8,
+    "end_sent_idx": 8,
+    "argument": "a takeover bid from Taiwan's Foxconn"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1503,
+    "start_sent_idx": 9,
+    "end_sent_idx": 9,
+    "argument": "Sharp"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1503,
+    "start_sent_idx": 11,
+    "end_sent_idx": 15,
+    "argument": "Sharp"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1503,
+    "start_sent_idx": 16,
+    "end_sent_idx": 16,
+    "argument": "Sharp"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1504,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "a takeover bid from Taiwan's Foxconn"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1504,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "a takeover bid from Taiwan's Foxconn"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1504,
+    "start_sent_idx": 2,
+    "end_sent_idx": 2,
+    "argument": "Taiwan's Foxconn"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1504,
+    "start_sent_idx": 9,
+    "end_sent_idx": 9,
+    "argument": "Taiwan's Foxconn"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1504,
+    "start_sent_idx": 10,
+    "end_sent_idx": 10,
+    "argument": "Sharp"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1504,
+    "start_sent_idx": 12,
+    "end_sent_idx": 12,
+    "argument": "Sharp"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1504,
+    "start_sent_idx": 13,
+    "end_sent_idx": 14,
+    "argument": "Sharp"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1504,
+    "start_sent_idx": 19,
+    "end_sent_idx": 19,
+    "argument": "Taiwan's Foxconn"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1504,
+    "start_sent_idx": 20,
+    "end_sent_idx": 20,
+    "argument": "Sharp"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1505,
+    "start_sent_idx": 2,
+    "end_sent_idx": 2,
+    "argument": "a takeover bid from Taiwan's Foxconn"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1505,
+    "start_sent_idx": 10,
+    "end_sent_idx": 10,
+    "argument": "Sharp"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1505,
+    "start_sent_idx": 23,
+    "end_sent_idx": 24,
+    "argument": "Taiwan's Foxconn"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1505,
+    "start_sent_idx": 25,
+    "end_sent_idx": 26,
+    "argument": "Sharp"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1505,
+    "start_sent_idx": 28,
+    "end_sent_idx": 28,
+    "argument": "Sharp"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1505,
+    "start_sent_idx": 31,
+    "end_sent_idx": 31,
+    "argument": "Taiwan's Foxconn"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1506,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "a takeover bid from Taiwan's Foxconn"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1506,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "a takeover bid from Taiwan's Foxconn"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1506,
+    "start_sent_idx": 7,
+    "end_sent_idx": 7,
+    "argument": "a takeover bid from Taiwan's Foxconn"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1506,
+    "start_sent_idx": 8,
+    "end_sent_idx": 8,
+    "argument": "Sharp"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1506,
+    "start_sent_idx": 15,
+    "end_sent_idx": 15,
+    "argument": "Sharp's board has accepted a takeover bid from Taiwan's Foxconn"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1506,
+    "start_sent_idx": 16,
+    "end_sent_idx": 17,
+    "argument": "Sharp's board has accepted a takeover bid from Taiwan's Foxconn"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1506,
+    "start_sent_idx": 23,
+    "end_sent_idx": 23,
+    "argument": "a takeover bid from Taiwan's Foxconn"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1506,
+    "start_sent_idx": 24,
+    "end_sent_idx": 25,
+    "argument": "Sharp"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1507,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "a takeover bid from Taiwan's Foxconn"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1507,
+    "start_sent_idx": 3,
+    "end_sent_idx": 4,
+    "argument": "a takeover bid from Taiwan's Foxconn"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1507,
+    "start_sent_idx": 11,
+    "end_sent_idx": 13,
+    "argument": "Sharp"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1507,
+    "start_sent_idx": 15,
+    "end_sent_idx": 15,
+    "argument": "Sharp"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1507,
+    "start_sent_idx": 17,
+    "end_sent_idx": 18,
+    "argument": "Sharp"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1508,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "a takeover bid from Taiwan's Foxconn"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1508,
+    "start_sent_idx": 2,
+    "end_sent_idx": 2,
+    "argument": "a takeover bid from Taiwan's Foxconn"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1508,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "Sharp"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1508,
+    "start_sent_idx": 6,
+    "end_sent_idx": 6,
+    "argument": "a takeover bid from Taiwan's Foxconn"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1508,
+    "start_sent_idx": 7,
+    "end_sent_idx": 7,
+    "argument": "Sharp"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1508,
+    "start_sent_idx": 8,
+    "end_sent_idx": 8,
+    "argument": "Sharp's board has accepted a takeover bid from Taiwan's Foxconn"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1508,
+    "start_sent_idx": 13,
+    "end_sent_idx": 13,
+    "argument": "a takeover bid from Taiwan's Foxconn"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1508,
+    "start_sent_idx": 15,
+    "end_sent_idx": 15,
+    "argument": "a takeover bid"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1508,
+    "start_sent_idx": 16,
+    "end_sent_idx": 16,
+    "argument": "Sharp"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1508,
+    "start_sent_idx": 17,
+    "end_sent_idx": 17,
+    "argument": "Sharp"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1508,
+    "start_sent_idx": 19,
+    "end_sent_idx": 24,
+    "argument": "Sharp"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1509,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "a takeover bid from Taiwan's Foxconn"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1509,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "a takeover bid from Taiwan's Foxconn"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1509,
+    "start_sent_idx": 6,
+    "end_sent_idx": 6,
+    "argument": "a takeover bid from Taiwan's Foxconn"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1509,
+    "start_sent_idx": 12,
+    "end_sent_idx": 12,
+    "argument": "Sharp"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1509,
+    "start_sent_idx": 13,
+    "end_sent_idx": 13,
+    "argument": "a takeover bid from Taiwan's Foxconn"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1509,
+    "start_sent_idx": 17,
+    "end_sent_idx": 18,
+    "argument": "Taiwan's Foxconn"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1509,
+    "start_sent_idx": 19,
+    "end_sent_idx": 19,
+    "argument": "a takeover bid from Taiwan's Foxconn"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1509,
+    "start_sent_idx": 23,
+    "end_sent_idx": 25,
+    "argument": "Sharp"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1509,
+    "start_sent_idx": 27,
+    "end_sent_idx": 27,
+    "argument": "Taiwan's Foxconn"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1510,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "Sharp's board has accepted a takeover bid from Taiwan's Foxconn"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1510,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "Sharp"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1510,
+    "start_sent_idx": 2,
+    "end_sent_idx": 3,
+    "argument": "Sharp's board has accepted a takeover bid from Taiwan's Foxconn"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1510,
+    "start_sent_idx": 4,
+    "end_sent_idx": 4,
+    "argument": "a takeover bid from Taiwan's Foxconn"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1510,
+    "start_sent_idx": 6,
+    "end_sent_idx": 6,
+    "argument": "Sharp"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1510,
+    "start_sent_idx": 8,
+    "end_sent_idx": 8,
+    "argument": "Taiwan's Foxconn"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1510,
+    "start_sent_idx": 9,
+    "end_sent_idx": 9,
+    "argument": "Taiwan's Foxconn"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1510,
+    "start_sent_idx": 10,
+    "end_sent_idx": 11,
+    "argument": "Sharp"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1510,
+    "start_sent_idx": 12,
+    "end_sent_idx": 12,
+    "argument": "Sharp's board has accepted a takeover bid from Taiwan's Foxconn"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1510,
+    "start_sent_idx": 13,
+    "end_sent_idx": 13,
+    "argument": "Sharp"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1510,
+    "start_sent_idx": 14,
+    "end_sent_idx": 14,
+    "argument": "Taiwan's Foxconn"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1510,
+    "start_sent_idx": 15,
+    "end_sent_idx": 15,
+    "argument": "Taiwan's Foxconn"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1510,
+    "start_sent_idx": 16,
+    "end_sent_idx": 16,
+    "argument": "Sharp"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1510,
+    "start_sent_idx": 17,
+    "end_sent_idx": 17,
+    "argument": "Sharp"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1510,
+    "start_sent_idx": 23,
+    "end_sent_idx": 24,
+    "argument": "Sharp"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1510,
+    "start_sent_idx": 25,
+    "end_sent_idx": 25,
+    "argument": "Sharp"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1510,
+    "start_sent_idx": 26,
+    "end_sent_idx": 26,
+    "argument": "Sharp"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1511,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "a takeover bid from Taiwan's Foxconn"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1511,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "Sharp"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1511,
+    "start_sent_idx": 2,
+    "end_sent_idx": 2,
+    "argument": "a takeover bid from Taiwan's Foxconn"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1511,
+    "start_sent_idx": 5,
+    "end_sent_idx": 5,
+    "argument": "a takeover bid from Taiwan's Foxconn"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1511,
+    "start_sent_idx": 10,
+    "end_sent_idx": 10,
+    "argument": "a takeover bid from Taiwan's Foxconn"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1511,
+    "start_sent_idx": 13,
+    "end_sent_idx": 13,
+    "argument": "a takeover bid from Taiwan's Foxconn"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1511,
+    "start_sent_idx": 15,
+    "end_sent_idx": 15,
+    "argument": "Sharp"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1511,
+    "start_sent_idx": 17,
+    "end_sent_idx": 19,
+    "argument": "Sharp"
+  },
+  {
+    "event_id": 119,
+    "doc_id": 1511,
+    "start_sent_idx": 20,
+    "end_sent_idx": 20,
+    "argument": "a takeover bid from Taiwan's Foxconn"
+  },
+  {
+    "event_id": 120,
+    "doc_id": 1512,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "Suzuki says it used wrong fuel economy tests in Japan"
+  },
+  {
+    "event_id": 120,
+    "doc_id": 1512,
+    "start_sent_idx": 5,
+    "end_sent_idx": 6,
+    "argument": "it used wrong fuel economy tests in Japan"
+  },
+  {
+    "event_id": 120,
+    "doc_id": 1512,
+    "start_sent_idx": 7,
+    "end_sent_idx": 7,
+    "argument": "it used wrong fuel economy tests in Japan"
+  },
+  {
+    "event_id": 120,
+    "doc_id": 1512,
+    "start_sent_idx": 8,
+    "end_sent_idx": 8,
+    "argument": "it used wrong fuel economy tests in Japan"
+  },
+  {
+    "event_id": 120,
+    "doc_id": 1513,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "Suzuki says it used wrong fuel economy tests in Japan"
+  },
+  {
+    "event_id": 120,
+    "doc_id": 1513,
+    "start_sent_idx": 4,
+    "end_sent_idx": 5,
+    "argument": "it used wrong fuel economy tests in Japan"
+  },
+  {
+    "event_id": 120,
+    "doc_id": 1513,
+    "start_sent_idx": 10,
+    "end_sent_idx": 10,
+    "argument": "it used wrong fuel economy tests in Japan"
+  },
+  {
+    "event_id": 120,
+    "doc_id": 1515,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "Suzuki says it used wrong fuel economy tests in Japan"
+  },
+  {
+    "event_id": 120,
+    "doc_id": 1515,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "Suzuki"
+  },
+  {
+    "event_id": 120,
+    "doc_id": 1515,
+    "start_sent_idx": 2,
+    "end_sent_idx": 2,
+    "argument": "Suzuki says it used wrong fuel economy tests in Japan"
+  },
+  {
+    "event_id": 120,
+    "doc_id": 1515,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "Suzuki says it used wrong fuel economy tests in Japan"
+  },
+  {
+    "event_id": 120,
+    "doc_id": 1515,
+    "start_sent_idx": 11,
+    "end_sent_idx": 11,
+    "argument": "it used wrong fuel economy tests in Japan"
+  },
+  {
+    "event_id": 120,
+    "doc_id": 1515,
+    "start_sent_idx": 13,
+    "end_sent_idx": 15,
+    "argument": "it used wrong fuel economy tests in Japan"
+  },
+  {
+    "event_id": 120,
+    "doc_id": 1516,
+    "start_sent_idx": 4,
+    "end_sent_idx": 4,
+    "argument": "it used wrong fuel economy tests in Japan"
+  },
+  {
+    "event_id": 120,
+    "doc_id": 1516,
+    "start_sent_idx": 5,
+    "end_sent_idx": 5,
+    "argument": "it used wrong fuel economy tests in Japan"
+  },
+  {
+    "event_id": 120,
+    "doc_id": 1516,
+    "start_sent_idx": 7,
+    "end_sent_idx": 7,
+    "argument": "it used wrong fuel economy tests in Japan"
+  },
+  {
+    "event_id": 121,
+    "doc_id": 1517,
+    "start_sent_idx": 2,
+    "end_sent_idx": 2,
+    "argument": "Tesla Is Buying Sister Company SolarCity For $2.6 Billion"
+  },
+  {
+    "event_id": 121,
+    "doc_id": 1517,
+    "start_sent_idx": 6,
+    "end_sent_idx": 6,
+    "argument": "Tesla Is Buying Sister Company SolarCity For $2.6 Billion"
+  },
+  {
+    "event_id": 121,
+    "doc_id": 1517,
+    "start_sent_idx": 7,
+    "end_sent_idx": 7,
+    "argument": "Sister Company SolarCity"
+  },
+  {
+    "event_id": 121,
+    "doc_id": 1517,
+    "start_sent_idx": 10,
+    "end_sent_idx": 10,
+    "argument": "Tesla Is Buying Sister Company SolarCity For $2.6 Billion"
+  },
+  {
+    "event_id": 121,
+    "doc_id": 1517,
+    "start_sent_idx": 11,
+    "end_sent_idx": 11,
+    "argument": "Tesla"
+  },
+  {
+    "event_id": 121,
+    "doc_id": 1518,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "Tesla"
+  },
+  {
+    "event_id": 121,
+    "doc_id": 1518,
+    "start_sent_idx": 2,
+    "end_sent_idx": 2,
+    "argument": "Tesla Is Buying Sister Company SolarCity For $2.6 Billion"
+  },
+  {
+    "event_id": 121,
+    "doc_id": 1518,
+    "start_sent_idx": 4,
+    "end_sent_idx": 5,
+    "argument": "Tesla Is Buying Sister Company SolarCity For $2.6 Billion"
+  },
+  {
+    "event_id": 121,
+    "doc_id": 1518,
+    "start_sent_idx": 6,
+    "end_sent_idx": 6,
+    "argument": "Tesla Is Buying Sister Company SolarCity For $2.6 Billion"
+  },
+  {
+    "event_id": 121,
+    "doc_id": 1519,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "Tesla Is Buying Sister Company SolarCity For $2.6 Billion"
+  },
+  {
+    "event_id": 121,
+    "doc_id": 1519,
+    "start_sent_idx": 2,
+    "end_sent_idx": 2,
+    "argument": "Tesla Is Buying Sister Company SolarCity For $2.6 Billion"
+  },
+  {
+    "event_id": 121,
+    "doc_id": 1519,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "Tesla Is Buying Sister Company SolarCity For $2.6 Billion"
+  },
+  {
+    "event_id": 121,
+    "doc_id": 1519,
+    "start_sent_idx": 4,
+    "end_sent_idx": 4,
+    "argument": "Tesla Is Buying Sister Company SolarCity For $2.6 Billion"
+  },
+  {
+    "event_id": 121,
+    "doc_id": 1519,
+    "start_sent_idx": 6,
+    "end_sent_idx": 6,
+    "argument": "Tesla"
+  },
+  {
+    "event_id": 121,
+    "doc_id": 1519,
+    "start_sent_idx": 7,
+    "end_sent_idx": 7,
+    "argument": "Tesla Is Buying Sister Company SolarCity For $2.6 Billion"
+  },
+  {
+    "event_id": 121,
+    "doc_id": 1519,
+    "start_sent_idx": 9,
+    "end_sent_idx": 9,
+    "argument": "Tesla Is Buying Sister Company SolarCity For $2.6 Billion"
+  },
+  {
+    "event_id": 121,
+    "doc_id": 1519,
+    "start_sent_idx": 12,
+    "end_sent_idx": 12,
+    "argument": "Tesla Is Buying Sister Company SolarCity For $2.6 Billion"
+  },
+  {
+    "event_id": 121,
+    "doc_id": 1519,
+    "start_sent_idx": 14,
+    "end_sent_idx": 14,
+    "argument": "Tesla Is Buying Sister Company SolarCity For $2.6 Billion"
+  },
+  {
+    "event_id": 121,
+    "doc_id": 1519,
+    "start_sent_idx": 17,
+    "end_sent_idx": 17,
+    "argument": "Tesla Is Buying Sister Company SolarCity For $2.6 Billion"
+  },
+  {
+    "event_id": 121,
+    "doc_id": 1519,
+    "start_sent_idx": 18,
+    "end_sent_idx": 18,
+    "argument": "Tesla Is Buying Sister Company SolarCity For $2.6 Billion"
+  },
+  {
+    "event_id": 121,
+    "doc_id": 1519,
+    "start_sent_idx": 19,
+    "end_sent_idx": 19,
+    "argument": "Tesla Is Buying Sister Company SolarCity For $2.6 Billion"
+  },
+  {
+    "event_id": 121,
+    "doc_id": 1520,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "Tesla Is Buying Sister Company SolarCity For $2.6 Billion"
+  },
+  {
+    "event_id": 121,
+    "doc_id": 1520,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "Tesla Is Buying Sister Company SolarCity For $2.6 Billion"
+  },
+  {
+    "event_id": 121,
+    "doc_id": 1520,
+    "start_sent_idx": 6,
+    "end_sent_idx": 7,
+    "argument": "Tesla Is Buying Sister Company SolarCity For $2.6 Billion"
+  },
+  {
+    "event_id": 121,
+    "doc_id": 1520,
+    "start_sent_idx": 8,
+    "end_sent_idx": 8,
+    "argument": "Tesla Is Buying Sister Company SolarCity For $2.6 Billion"
+  },
+  {
+    "event_id": 121,
+    "doc_id": 1520,
+    "start_sent_idx": 12,
+    "end_sent_idx": 12,
+    "argument": "Tesla"
+  },
+  {
+    "event_id": 121,
+    "doc_id": 1520,
+    "start_sent_idx": 13,
+    "end_sent_idx": 14,
+    "argument": "Tesla Is Buying Sister Company SolarCity For $2.6 Billion"
+  },
+  {
+    "event_id": 121,
+    "doc_id": 1520,
+    "start_sent_idx": 15,
+    "end_sent_idx": 15,
+    "argument": "Tesla Is Buying Sister Company SolarCity For $2.6 Billion"
+  },
+  {
+    "event_id": 121,
+    "doc_id": 1520,
+    "start_sent_idx": 16,
+    "end_sent_idx": 17,
+    "argument": "Tesla"
+  },
+  {
+    "event_id": 121,
+    "doc_id": 1521,
+    "start_sent_idx": 2,
+    "end_sent_idx": 3,
+    "argument": "Tesla Is Buying Sister Company SolarCity For $2.6 Billion"
+  },
+  {
+    "event_id": 121,
+    "doc_id": 1521,
+    "start_sent_idx": 8,
+    "end_sent_idx": 8,
+    "argument": "Tesla Is Buying Sister Company SolarCity For $2.6 Billion"
+  },
+  {
+    "event_id": 121,
+    "doc_id": 1521,
+    "start_sent_idx": 18,
+    "end_sent_idx": 18,
+    "argument": "Tesla Is Buying Sister Company SolarCity For $2.6 Billion"
+  },
+  {
+    "event_id": 121,
+    "doc_id": 1521,
+    "start_sent_idx": 19,
+    "end_sent_idx": 19,
+    "argument": "Tesla Is Buying Sister Company SolarCity For $2.6 Billion"
+  },
+  {
+    "event_id": 121,
+    "doc_id": 1522,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "Tesla Is Buying Sister Company SolarCity For $2.6 Billion"
+  },
+  {
+    "event_id": 121,
+    "doc_id": 1522,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "Tesla Is Buying Sister Company SolarCity For $2.6 Billion"
+  },
+  {
+    "event_id": 121,
+    "doc_id": 1522,
+    "start_sent_idx": 2,
+    "end_sent_idx": 2,
+    "argument": "Tesla"
+  },
+  {
+    "event_id": 121,
+    "doc_id": 1522,
+    "start_sent_idx": 6,
+    "end_sent_idx": 6,
+    "argument": "Tesla Is Buying Sister Company SolarCity For $2.6 Billion"
+  },
+  {
+    "event_id": 121,
+    "doc_id": 1522,
+    "start_sent_idx": 7,
+    "end_sent_idx": 8,
+    "argument": "Tesla Is Buying Sister Company SolarCity For $2.6 Billion"
+  },
+  {
+    "event_id": 121,
+    "doc_id": 1522,
+    "start_sent_idx": 10,
+    "end_sent_idx": 10,
+    "argument": "Tesla Is Buying Sister Company SolarCity For $2.6 Billion"
+  },
+  {
+    "event_id": 121,
+    "doc_id": 1523,
+    "start_sent_idx": 4,
+    "end_sent_idx": 4,
+    "argument": "Tesla Is Buying Sister Company SolarCity For $2.6 Billion"
+  },
+  {
+    "event_id": 121,
+    "doc_id": 1523,
+    "start_sent_idx": 8,
+    "end_sent_idx": 8,
+    "argument": "Tesla"
+  },
+  {
+    "event_id": 121,
+    "doc_id": 1523,
+    "start_sent_idx": 14,
+    "end_sent_idx": 14,
+    "argument": "Sister Company SolarCity"
+  },
+  {
+    "event_id": 121,
+    "doc_id": 1523,
+    "start_sent_idx": 15,
+    "end_sent_idx": 15,
+    "argument": "Tesla Is Buying Sister Company SolarCity For $2.6 Billion"
+  },
+  {
+    "event_id": 121,
+    "doc_id": 1523,
+    "start_sent_idx": 18,
+    "end_sent_idx": 18,
+    "argument": "Tesla Is Buying Sister Company SolarCity For $2.6 Billion"
+  },
+  {
+    "event_id": 121,
+    "doc_id": 1524,
+    "start_sent_idx": 3,
+    "end_sent_idx": 4,
+    "argument": "Tesla Is Buying Sister Company SolarCity For $2.6 Billion"
+  },
+  {
+    "event_id": 121,
+    "doc_id": 1524,
+    "start_sent_idx": 5,
+    "end_sent_idx": 5,
+    "argument": "Tesla"
+  },
+  {
+    "event_id": 121,
+    "doc_id": 1524,
+    "start_sent_idx": 7,
+    "end_sent_idx": 8,
+    "argument": "Tesla Is Buying Sister Company SolarCity For $2.6 Billion"
+  },
+  {
+    "event_id": 121,
+    "doc_id": 1524,
+    "start_sent_idx": 9,
+    "end_sent_idx": 10,
+    "argument": "Tesla Is Buying Sister Company SolarCity For $2.6 Billion"
+  },
+  {
+    "event_id": 121,
+    "doc_id": 1524,
+    "start_sent_idx": 11,
+    "end_sent_idx": 11,
+    "argument": "Tesla Is Buying Sister Company SolarCity For $2.6 Billion"
+  },
+  {
+    "event_id": 121,
+    "doc_id": 1524,
+    "start_sent_idx": 17,
+    "end_sent_idx": 17,
+    "argument": "Tesla Is Buying Sister Company SolarCity For $2.6 Billion"
+  },
+  {
+    "event_id": 121,
+    "doc_id": 1524,
+    "start_sent_idx": 19,
+    "end_sent_idx": 19,
+    "argument": "Sister Company SolarCity"
+  },
+  {
+    "event_id": 121,
+    "doc_id": 1524,
+    "start_sent_idx": 20,
+    "end_sent_idx": 20,
+    "argument": "Tesla"
+  },
+  {
+    "event_id": 121,
+    "doc_id": 1524,
+    "start_sent_idx": 26,
+    "end_sent_idx": 26,
+    "argument": "Sister Company SolarCity"
+  },
+  {
+    "event_id": 121,
+    "doc_id": 1525,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "Tesla Is Buying Sister Company SolarCity For $2.6 Billion"
+  },
+  {
+    "event_id": 121,
+    "doc_id": 1525,
+    "start_sent_idx": 2,
+    "end_sent_idx": 2,
+    "argument": "Tesla Is Buying Sister Company SolarCity For $2.6 Billion"
+  },
+  {
+    "event_id": 121,
+    "doc_id": 1525,
+    "start_sent_idx": 4,
+    "end_sent_idx": 4,
+    "argument": "Tesla Is Buying Sister Company SolarCity For $2.6 Billion"
+  },
+  {
+    "event_id": 121,
+    "doc_id": 1525,
+    "start_sent_idx": 9,
+    "end_sent_idx": 9,
+    "argument": "Tesla Is Buying Sister Company SolarCity For $2.6 Billion"
+  },
+  {
+    "event_id": 121,
+    "doc_id": 1525,
+    "start_sent_idx": 11,
+    "end_sent_idx": 13,
+    "argument": "Tesla Is Buying Sister Company SolarCity For $2.6 Billion"
+  },
+  {
+    "event_id": 121,
+    "doc_id": 1525,
+    "start_sent_idx": 15,
+    "end_sent_idx": 15,
+    "argument": "Tesla"
+  },
+  {
+    "event_id": 121,
+    "doc_id": 1525,
+    "start_sent_idx": 21,
+    "end_sent_idx": 21,
+    "argument": "Tesla"
+  },
+  {
+    "event_id": 122,
+    "doc_id": 1526,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "The New Day newspaper to shut"
+  },
+  {
+    "event_id": 122,
+    "doc_id": 1526,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "The New Day newspaper to shut"
+  },
+  {
+    "event_id": 122,
+    "doc_id": 1526,
+    "start_sent_idx": 6,
+    "end_sent_idx": 6,
+    "argument": "newspaper"
+  },
+  {
+    "event_id": 122,
+    "doc_id": 1527,
+    "start_sent_idx": 11,
+    "end_sent_idx": 14,
+    "argument": "The New Day newspaper to shut"
+  },
+  {
+    "event_id": 122,
+    "doc_id": 1527,
+    "start_sent_idx": 15,
+    "end_sent_idx": 16,
+    "argument": "The New Day newspaper"
+  },
+  {
+    "event_id": 122,
+    "doc_id": 1527,
+    "start_sent_idx": 19,
+    "end_sent_idx": 19,
+    "argument": "The New Day newspaper"
+  },
+  {
+    "event_id": 122,
+    "doc_id": 1528,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "The New Day newspaper to shut"
+  },
+  {
+    "event_id": 122,
+    "doc_id": 1528,
+    "start_sent_idx": 2,
+    "end_sent_idx": 2,
+    "argument": "The New Day newspaper"
+  },
+  {
+    "event_id": 122,
+    "doc_id": 1528,
+    "start_sent_idx": 5,
+    "end_sent_idx": 5,
+    "argument": "The New Day newspaper"
+  },
+  {
+    "event_id": 122,
+    "doc_id": 1528,
+    "start_sent_idx": 15,
+    "end_sent_idx": 16,
+    "argument": "The New Day newspaper to shut"
+  },
+  {
+    "event_id": 122,
+    "doc_id": 1529,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "The New Day newspaper"
+  },
+  {
+    "event_id": 122,
+    "doc_id": 1530,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "The New Day newspaper"
+  },
+  {
+    "event_id": 122,
+    "doc_id": 1530,
+    "start_sent_idx": 4,
+    "end_sent_idx": 4,
+    "argument": "The New Day newspaper"
+  },
+  {
+    "event_id": 122,
+    "doc_id": 1531,
+    "start_sent_idx": 3,
+    "end_sent_idx": 5,
+    "argument": "The New Day newspaper to shut"
+  },
+  {
+    "event_id": 122,
+    "doc_id": 1531,
+    "start_sent_idx": 6,
+    "end_sent_idx": 6,
+    "argument": "The New Day newspaper"
+  },
+  {
+    "event_id": 122,
+    "doc_id": 1531,
+    "start_sent_idx": 8,
+    "end_sent_idx": 9,
+    "argument": "The New Day newspaper to shut"
+  },
+  {
+    "event_id": 122,
+    "doc_id": 1531,
+    "start_sent_idx": 16,
+    "end_sent_idx": 17,
+    "argument": "The New Day newspaper"
+  },
+  {
+    "event_id": 122,
+    "doc_id": 1532,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "The New Day newspaper to shut"
+  },
+  {
+    "event_id": 122,
+    "doc_id": 1532,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "The New Day newspaper to shut"
+  },
+  {
+    "event_id": 122,
+    "doc_id": 1532,
+    "start_sent_idx": 7,
+    "end_sent_idx": 7,
+    "argument": "The New Day newspaper to shut"
+  },
+  {
+    "event_id": 122,
+    "doc_id": 1532,
+    "start_sent_idx": 12,
+    "end_sent_idx": 13,
+    "argument": "The New Day newspaper to shut"
+  },
+  {
+    "event_id": 122,
+    "doc_id": 1532,
+    "start_sent_idx": 14,
+    "end_sent_idx": 14,
+    "argument": "The New Day newspaper"
+  },
+  {
+    "event_id": 122,
+    "doc_id": 1533,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "The New Day newspaper"
+  },
+  {
+    "event_id": 122,
+    "doc_id": 1533,
+    "start_sent_idx": 1,
+    "end_sent_idx": 2,
+    "argument": "The New Day newspaper to shut"
+  },
+  {
+    "event_id": 122,
+    "doc_id": 1533,
+    "start_sent_idx": 4,
+    "end_sent_idx": 4,
+    "argument": "The New Day newspaper to shut"
+  },
+  {
+    "event_id": 123,
+    "doc_id": 1535,
+    "start_sent_idx": 4,
+    "end_sent_idx": 5,
+    "argument": "Toyota issues airbag recall for 1.43m hybrid cars"
+  },
+  {
+    "event_id": 123,
+    "doc_id": 1536,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "Toyota issues airbag recall for 1.43m hybrid cars"
+  },
+  {
+    "event_id": 123,
+    "doc_id": 1538,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "Toyota issues airbag recall for 1.43m hybrid cars"
+  },
+  {
+    "event_id": 123,
+    "doc_id": 1538,
+    "start_sent_idx": 10,
+    "end_sent_idx": 10,
+    "argument": "Toyota issues airbag recall for 1.43m hybrid cars"
+  },
+  {
+    "event_id": 123,
+    "doc_id": 1541,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "Toyota issues airbag recall for 1.43m hybrid cars"
+  },
+  {
+    "event_id": 123,
+    "doc_id": 1541,
+    "start_sent_idx": 5,
+    "end_sent_idx": 5,
+    "argument": "airbag"
+  },
+  {
+    "event_id": 123,
+    "doc_id": 1542,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "Toyota issues airbag recall for 1.43m hybrid cars"
+  },
+  {
+    "event_id": 123,
+    "doc_id": 1542,
+    "start_sent_idx": 5,
+    "end_sent_idx": 5,
+    "argument": "airbag"
+  },
+  {
+    "event_id": 123,
+    "doc_id": 1543,
+    "start_sent_idx": 6,
+    "end_sent_idx": 6,
+    "argument": "Toyota issues airbag recall for 1.43m hybrid cars"
+  },
+  {
+    "event_id": 123,
+    "doc_id": 1544,
+    "start_sent_idx": 11,
+    "end_sent_idx": 11,
+    "argument": "airbag"
+  },
+  {
+    "event_id": 123,
+    "doc_id": 1544,
+    "start_sent_idx": 17,
+    "end_sent_idx": 17,
+    "argument": "Toyota issues airbag recall for 1.43m hybrid cars"
+  },
+  {
+    "event_id": 123,
+    "doc_id": 1544,
+    "start_sent_idx": 18,
+    "end_sent_idx": 18,
+    "argument": "Toyota issues airbag recall for 1.43m hybrid cars"
+  },
+  {
+    "event_id": 123,
+    "doc_id": 1545,
+    "start_sent_idx": 8,
+    "end_sent_idx": 8,
+    "argument": "airbag"
+  },
+  {
+    "event_id": 123,
+    "doc_id": 1546,
+    "start_sent_idx": 9,
+    "end_sent_idx": 9,
+    "argument": "Toyota issues airbag recall for 1.43m hybrid cars"
+  },
+  {
+    "event_id": 123,
+    "doc_id": 1546,
+    "start_sent_idx": 10,
+    "end_sent_idx": 10,
+    "argument": "Toyota issues airbag recall for 1.43m hybrid cars"
+  },
+  {
+    "event_id": 123,
+    "doc_id": 1547,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "Toyota issues airbag recall for 1.43m hybrid cars"
+  },
+  {
+    "event_id": 123,
+    "doc_id": 1547,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "airbag"
+  },
+  {
+    "event_id": 123,
+    "doc_id": 1549,
+    "start_sent_idx": 5,
+    "end_sent_idx": 5,
+    "argument": "airbag"
+  },
+  {
+    "event_id": 123,
+    "doc_id": 1552,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "Toyota issues airbag recall for 1.43m hybrid cars"
+  },
+  {
+    "event_id": 123,
+    "doc_id": 1552,
+    "start_sent_idx": 5,
+    "end_sent_idx": 5,
+    "argument": "Toyota issues airbag recall for 1.43m hybrid cars"
+  },
+  {
+    "event_id": 123,
+    "doc_id": 1554,
+    "start_sent_idx": 4,
+    "end_sent_idx": 4,
+    "argument": "airbag"
+  },
+  {
+    "event_id": 124,
+    "doc_id": 1555,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "Turkey requests extradition of Fethullah Gülen"
+  },
+  {
+    "event_id": 124,
+    "doc_id": 1555,
+    "start_sent_idx": 2,
+    "end_sent_idx": 2,
+    "argument": "Fethullah Gülen"
+  },
+  {
+    "event_id": 124,
+    "doc_id": 1555,
+    "start_sent_idx": 8,
+    "end_sent_idx": 9,
+    "argument": "Fethullah Gülen"
+  },
+  {
+    "event_id": 124,
+    "doc_id": 1556,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "Fethullah Gülen"
+  },
+  {
+    "event_id": 124,
+    "doc_id": 1556,
+    "start_sent_idx": 10,
+    "end_sent_idx": 10,
+    "argument": "Fethullah Gülen"
+  },
+  {
+    "event_id": 124,
+    "doc_id": 1557,
+    "start_sent_idx": 4,
+    "end_sent_idx": 4,
+    "argument": "Fethullah Gülen"
+  },
+  {
+    "event_id": 124,
+    "doc_id": 1557,
+    "start_sent_idx": 5,
+    "end_sent_idx": 8,
+    "argument": "extradition of Fethullah Gülen"
+  },
+  {
+    "event_id": 124,
+    "doc_id": 1557,
+    "start_sent_idx": 9,
+    "end_sent_idx": 9,
+    "argument": "Fethullah Gülen"
+  },
+  {
+    "event_id": 124,
+    "doc_id": 1557,
+    "start_sent_idx": 12,
+    "end_sent_idx": 12,
+    "argument": "extradition of Fethullah Gülen"
+  },
+  {
+    "event_id": 124,
+    "doc_id": 1557,
+    "start_sent_idx": 17,
+    "end_sent_idx": 18,
+    "argument": "extradition of Fethullah Gülen"
+  },
+  {
+    "event_id": 124,
+    "doc_id": 1557,
+    "start_sent_idx": 25,
+    "end_sent_idx": 25,
+    "argument": "Turkey"
+  },
+  {
+    "event_id": 124,
+    "doc_id": 1557,
+    "start_sent_idx": 28,
+    "end_sent_idx": 28,
+    "argument": "Turkey requests extradition of Fethullah Gülen"
+  },
+  {
+    "event_id": 124,
+    "doc_id": 1557,
+    "start_sent_idx": 30,
+    "end_sent_idx": 30,
+    "argument": "Turkey requests extradition of Fethullah Gülen"
+  },
+  {
+    "event_id": 124,
+    "doc_id": 1558,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "Turkey"
+  },
+  {
+    "event_id": 124,
+    "doc_id": 1558,
+    "start_sent_idx": 5,
+    "end_sent_idx": 7,
+    "argument": "Turkey"
+  },
+  {
+    "event_id": 124,
+    "doc_id": 1558,
+    "start_sent_idx": 14,
+    "end_sent_idx": 14,
+    "argument": "Turkey"
+  },
+  {
+    "event_id": 124,
+    "doc_id": 1558,
+    "start_sent_idx": 16,
+    "end_sent_idx": 16,
+    "argument": "Turkey"
+  },
+  {
+    "event_id": 124,
+    "doc_id": 1558,
+    "start_sent_idx": 22,
+    "end_sent_idx": 22,
+    "argument": "Turkey requests extradition of Fethullah Gülen"
+  },
+  {
+    "event_id": 124,
+    "doc_id": 1559,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "extradition of Fethullah Gülen"
+  },
+  {
+    "event_id": 124,
+    "doc_id": 1559,
+    "start_sent_idx": 2,
+    "end_sent_idx": 2,
+    "argument": "extradition of Fethullah Gülen"
+  },
+  {
+    "event_id": 124,
+    "doc_id": 1559,
+    "start_sent_idx": 6,
+    "end_sent_idx": 7,
+    "argument": "extradition of Fethullah Gülen"
+  },
+  {
+    "event_id": 124,
+    "doc_id": 1559,
+    "start_sent_idx": 11,
+    "end_sent_idx": 11,
+    "argument": "extradition of Fethullah Gülen"
+  },
+  {
+    "event_id": 124,
+    "doc_id": 1560,
+    "start_sent_idx": 2,
+    "end_sent_idx": 2,
+    "argument": "Fethullah Gülen"
+  },
+  {
+    "event_id": 124,
+    "doc_id": 1560,
+    "start_sent_idx": 3,
+    "end_sent_idx": 4,
+    "argument": "extradition of Fethullah Gülen"
+  },
+  {
+    "event_id": 124,
+    "doc_id": 1560,
+    "start_sent_idx": 7,
+    "end_sent_idx": 7,
+    "argument": "extradition of Fethullah Gülen"
+  },
+  {
+    "event_id": 124,
+    "doc_id": 1561,
+    "start_sent_idx": 16,
+    "end_sent_idx": 16,
+    "argument": "Fethullah Gülen"
+  },
+  {
+    "event_id": 124,
+    "doc_id": 1562,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "Turkey"
+  },
+  {
+    "event_id": 124,
+    "doc_id": 1562,
+    "start_sent_idx": 1,
+    "end_sent_idx": 3,
+    "argument": "extradition of Fethullah Gülen"
+  },
+  {
+    "event_id": 124,
+    "doc_id": 1562,
+    "start_sent_idx": 5,
+    "end_sent_idx": 5,
+    "argument": "Turkey"
+  },
+  {
+    "event_id": 124,
+    "doc_id": 1562,
+    "start_sent_idx": 7,
+    "end_sent_idx": 8,
+    "argument": "Turkey"
+  },
+  {
+    "event_id": 124,
+    "doc_id": 1562,
+    "start_sent_idx": 11,
+    "end_sent_idx": 11,
+    "argument": "extradition of Fethullah Gülen"
+  },
+  {
+    "event_id": 124,
+    "doc_id": 1562,
+    "start_sent_idx": 12,
+    "end_sent_idx": 17,
+    "argument": "extradition of Fethullah Gülen"
+  },
+  {
+    "event_id": 124,
+    "doc_id": 1562,
+    "start_sent_idx": 18,
+    "end_sent_idx": 18,
+    "argument": "Fethullah Gülen"
+  },
+  {
+    "event_id": 124,
+    "doc_id": 1562,
+    "start_sent_idx": 19,
+    "end_sent_idx": 19,
+    "argument": "extradition of Fethullah Gülen"
+  },
+  {
+    "event_id": 124,
+    "doc_id": 1563,
+    "start_sent_idx": 2,
+    "end_sent_idx": 2,
+    "argument": "Fethullah Gülen"
+  },
+  {
+    "event_id": 124,
+    "doc_id": 1563,
+    "start_sent_idx": 11,
+    "end_sent_idx": 11,
+    "argument": "extradition of Fethullah Gülen"
+  },
+  {
+    "event_id": 124,
+    "doc_id": 1564,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "extradition of Fethullah Gülen"
+  },
+  {
+    "event_id": 124,
+    "doc_id": 1564,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "Fethullah Gülen"
+  },
+  {
+    "event_id": 124,
+    "doc_id": 1564,
+    "start_sent_idx": 2,
+    "end_sent_idx": 2,
+    "argument": "extradition of Fethullah Gülen"
+  },
+  {
+    "event_id": 124,
+    "doc_id": 1564,
+    "start_sent_idx": 3,
+    "end_sent_idx": 4,
+    "argument": "Fethullah Gülen"
+  },
+  {
+    "event_id": 124,
+    "doc_id": 1564,
+    "start_sent_idx": 6,
+    "end_sent_idx": 6,
+    "argument": "Fethullah Gülen"
+  },
+  {
+    "event_id": 124,
+    "doc_id": 1565,
+    "start_sent_idx": 19,
+    "end_sent_idx": 19,
+    "argument": "extradition of Fethullah Gülen"
+  },
+  {
+    "event_id": 124,
+    "doc_id": 1566,
+    "start_sent_idx": 2,
+    "end_sent_idx": 2,
+    "argument": "Fethullah Gülen"
+  },
+  {
+    "event_id": 124,
+    "doc_id": 1566,
+    "start_sent_idx": 10,
+    "end_sent_idx": 10,
+    "argument": "Fethullah Gülen"
+  },
+  {
+    "event_id": 124,
+    "doc_id": 1566,
+    "start_sent_idx": 17,
+    "end_sent_idx": 17,
+    "argument": "extradition of Fethullah Gülen"
+  },
+  {
+    "event_id": 124,
+    "doc_id": 1566,
+    "start_sent_idx": 24,
+    "end_sent_idx": 24,
+    "argument": "Turkey"
+  },
+  {
+    "event_id": 124,
+    "doc_id": 1567,
+    "start_sent_idx": 4,
+    "end_sent_idx": 4,
+    "argument": "Fethullah Gülen"
+  },
+  {
+    "event_id": 124,
+    "doc_id": 1567,
+    "start_sent_idx": 5,
+    "end_sent_idx": 8,
+    "argument": "Turkey requests extradition of Fethullah Gülen"
+  },
+  {
+    "event_id": 124,
+    "doc_id": 1567,
+    "start_sent_idx": 9,
+    "end_sent_idx": 9,
+    "argument": "Fethullah Gülen"
+  },
+  {
+    "event_id": 124,
+    "doc_id": 1567,
+    "start_sent_idx": 12,
+    "end_sent_idx": 12,
+    "argument": "extradition of Fethullah Gülen"
+  },
+  {
+    "event_id": 124,
+    "doc_id": 1567,
+    "start_sent_idx": 15,
+    "end_sent_idx": 15,
+    "argument": "extradition of Fethullah Gülen"
+  },
+  {
+    "event_id": 124,
+    "doc_id": 1567,
+    "start_sent_idx": 16,
+    "end_sent_idx": 16,
+    "argument": "extradition of Fethullah Gülen"
+  },
+  {
+    "event_id": 124,
+    "doc_id": 1567,
+    "start_sent_idx": 17,
+    "end_sent_idx": 18,
+    "argument": "extradition of Fethullah Gülen"
+  },
+  {
+    "event_id": 124,
+    "doc_id": 1567,
+    "start_sent_idx": 25,
+    "end_sent_idx": 25,
+    "argument": "Turkey"
+  },
+  {
+    "event_id": 124,
+    "doc_id": 1567,
+    "start_sent_idx": 28,
+    "end_sent_idx": 28,
+    "argument": "Turkey requests extradition of Fethullah Gülen"
+  },
+  {
+    "event_id": 124,
+    "doc_id": 1567,
+    "start_sent_idx": 29,
+    "end_sent_idx": 29,
+    "argument": "extradition of Fethullah Gülen"
+  },
+  {
+    "event_id": 124,
+    "doc_id": 1567,
+    "start_sent_idx": 30,
+    "end_sent_idx": 30,
+    "argument": "Turkey requests extradition of Fethullah Gülen"
+  },
+  {
+    "event_id": 124,
+    "doc_id": 1568,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "Fethullah Gülen"
+  },
+  {
+    "event_id": 124,
+    "doc_id": 1568,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "Turkey requests extradition of Fethullah Gülen"
+  },
+  {
+    "event_id": 124,
+    "doc_id": 1568,
+    "start_sent_idx": 7,
+    "end_sent_idx": 9,
+    "argument": "Turkey requests extradition of Fethullah Gülen"
+  },
+  {
+    "event_id": 124,
+    "doc_id": 1568,
+    "start_sent_idx": 23,
+    "end_sent_idx": 23,
+    "argument": "Fethullah Gülen"
+  },
+  {
+    "event_id": 124,
+    "doc_id": 1570,
+    "start_sent_idx": 11,
+    "end_sent_idx": 11,
+    "argument": "Turkey"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1571,
+    "start_sent_idx": 2,
+    "end_sent_idx": 2,
+    "argument": "U.S. Commerce Department to place restrictions on China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1571,
+    "start_sent_idx": 4,
+    "end_sent_idx": 4,
+    "argument": "China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1571,
+    "start_sent_idx": 5,
+    "end_sent_idx": 7,
+    "argument": "China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1571,
+    "start_sent_idx": 9,
+    "end_sent_idx": 11,
+    "argument": "U.S. Commerce Department to place restrictions on China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1571,
+    "start_sent_idx": 13,
+    "end_sent_idx": 13,
+    "argument": "China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1571,
+    "start_sent_idx": 17,
+    "end_sent_idx": 17,
+    "argument": "China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1571,
+    "start_sent_idx": 24,
+    "end_sent_idx": 24,
+    "argument": "China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1571,
+    "start_sent_idx": 26,
+    "end_sent_idx": 26,
+    "argument": "China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1572,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "U.S. Commerce Department to place restrictions on China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1572,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1572,
+    "start_sent_idx": 4,
+    "end_sent_idx": 6,
+    "argument": "U.S. Commerce Department to place restrictions on China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1572,
+    "start_sent_idx": 9,
+    "end_sent_idx": 9,
+    "argument": "U.S. Commerce Department to place restrictions on China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1572,
+    "start_sent_idx": 10,
+    "end_sent_idx": 10,
+    "argument": "U.S. Commerce Department to place restrictions on China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1572,
+    "start_sent_idx": 14,
+    "end_sent_idx": 15,
+    "argument": "China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1572,
+    "start_sent_idx": 17,
+    "end_sent_idx": 18,
+    "argument": "U.S. Commerce Department to place restrictions on China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1572,
+    "start_sent_idx": 21,
+    "end_sent_idx": 21,
+    "argument": "China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1573,
+    "start_sent_idx": 4,
+    "end_sent_idx": 4,
+    "argument": "U.S. Commerce Department to place restrictions on China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1573,
+    "start_sent_idx": 5,
+    "end_sent_idx": 5,
+    "argument": "U.S. Commerce Department to place restrictions on China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1573,
+    "start_sent_idx": 11,
+    "end_sent_idx": 12,
+    "argument": "China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1573,
+    "start_sent_idx": 13,
+    "end_sent_idx": 13,
+    "argument": "China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1573,
+    "start_sent_idx": 16,
+    "end_sent_idx": 18,
+    "argument": "China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1573,
+    "start_sent_idx": 22,
+    "end_sent_idx": 22,
+    "argument": "U.S. Commerce Department to place restrictions on China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1574,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "U.S. Commerce Department to place restrictions on China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1574,
+    "start_sent_idx": 2,
+    "end_sent_idx": 2,
+    "argument": "U.S. Commerce Department to place restrictions on China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1574,
+    "start_sent_idx": 4,
+    "end_sent_idx": 5,
+    "argument": "U.S. Commerce Department to place restrictions on China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1574,
+    "start_sent_idx": 7,
+    "end_sent_idx": 7,
+    "argument": "U.S. Commerce Department to place restrictions on China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1575,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "U.S. Commerce Department to place restrictions on China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1575,
+    "start_sent_idx": 1,
+    "end_sent_idx": 2,
+    "argument": "China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1575,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "U.S. Commerce Department to place restrictions on China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1575,
+    "start_sent_idx": 4,
+    "end_sent_idx": 4,
+    "argument": "China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1575,
+    "start_sent_idx": 5,
+    "end_sent_idx": 5,
+    "argument": "U.S. Commerce Department to place restrictions on China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1575,
+    "start_sent_idx": 7,
+    "end_sent_idx": 8,
+    "argument": "U.S. Commerce Department to place restrictions on China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1575,
+    "start_sent_idx": 10,
+    "end_sent_idx": 10,
+    "argument": "China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1575,
+    "start_sent_idx": 11,
+    "end_sent_idx": 13,
+    "argument": "China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1576,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1576,
+    "start_sent_idx": 8,
+    "end_sent_idx": 9,
+    "argument": "China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1576,
+    "start_sent_idx": 10,
+    "end_sent_idx": 11,
+    "argument": "U.S. Commerce Department to place restrictions on China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1576,
+    "start_sent_idx": 13,
+    "end_sent_idx": 13,
+    "argument": "U.S. Commerce Department to place restrictions on China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1577,
+    "start_sent_idx": 0,
+    "end_sent_idx": 1,
+    "argument": "U.S. Commerce Department to place restrictions on China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1577,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "U.S. Commerce Department to place restrictions on China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1577,
+    "start_sent_idx": 4,
+    "end_sent_idx": 4,
+    "argument": "China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1577,
+    "start_sent_idx": 8,
+    "end_sent_idx": 8,
+    "argument": "U.S. Commerce Department to place restrictions on China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1577,
+    "start_sent_idx": 9,
+    "end_sent_idx": 9,
+    "argument": "China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1578,
+    "start_sent_idx": 4,
+    "end_sent_idx": 4,
+    "argument": "China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1578,
+    "start_sent_idx": 5,
+    "end_sent_idx": 5,
+    "argument": "U.S. Commerce Department to place restrictions on China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1578,
+    "start_sent_idx": 6,
+    "end_sent_idx": 6,
+    "argument": "U.S. Commerce Department to place restrictions on China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1578,
+    "start_sent_idx": 8,
+    "end_sent_idx": 8,
+    "argument": "U.S. Commerce Department to place restrictions on China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1578,
+    "start_sent_idx": 10,
+    "end_sent_idx": 10,
+    "argument": "U.S. Commerce Department to place restrictions on China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1578,
+    "start_sent_idx": 11,
+    "end_sent_idx": 12,
+    "argument": "U.S."
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1578,
+    "start_sent_idx": 14,
+    "end_sent_idx": 14,
+    "argument": "China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1578,
+    "start_sent_idx": 18,
+    "end_sent_idx": 18,
+    "argument": "China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1578,
+    "start_sent_idx": 19,
+    "end_sent_idx": 19,
+    "argument": "China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1579,
+    "start_sent_idx": 0,
+    "end_sent_idx": 1,
+    "argument": "China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1579,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1579,
+    "start_sent_idx": 4,
+    "end_sent_idx": 5,
+    "argument": "U.S. Commerce Department to place restrictions on China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1579,
+    "start_sent_idx": 6,
+    "end_sent_idx": 7,
+    "argument": "U.S. Commerce Department to place restrictions on China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1579,
+    "start_sent_idx": 8,
+    "end_sent_idx": 9,
+    "argument": "China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1579,
+    "start_sent_idx": 16,
+    "end_sent_idx": 16,
+    "argument": "China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1579,
+    "start_sent_idx": 18,
+    "end_sent_idx": 18,
+    "argument": "China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1579,
+    "start_sent_idx": 28,
+    "end_sent_idx": 28,
+    "argument": "China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1579,
+    "start_sent_idx": 29,
+    "end_sent_idx": 29,
+    "argument": "China"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1580,
+    "start_sent_idx": 6,
+    "end_sent_idx": 6,
+    "argument": "China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1580,
+    "start_sent_idx": 12,
+    "end_sent_idx": 12,
+    "argument": "China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1580,
+    "start_sent_idx": 14,
+    "end_sent_idx": 14,
+    "argument": "China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1580,
+    "start_sent_idx": 15,
+    "end_sent_idx": 15,
+    "argument": "U.S. Commerce Department to place restrictions on China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1580,
+    "start_sent_idx": 17,
+    "end_sent_idx": 18,
+    "argument": "China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1581,
+    "start_sent_idx": 2,
+    "end_sent_idx": 2,
+    "argument": "U.S. Commerce Department to place restrictions on China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1581,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "U.S. Commerce Department to place restrictions on China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1581,
+    "start_sent_idx": 7,
+    "end_sent_idx": 8,
+    "argument": "China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1581,
+    "start_sent_idx": 9,
+    "end_sent_idx": 9,
+    "argument": "U.S. Commerce Department to place restrictions on China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1581,
+    "start_sent_idx": 10,
+    "end_sent_idx": 11,
+    "argument": "U.S. Commerce Department to place restrictions on China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1581,
+    "start_sent_idx": 12,
+    "end_sent_idx": 12,
+    "argument": "U.S. Commerce Department to place restrictions on China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1581,
+    "start_sent_idx": 14,
+    "end_sent_idx": 14,
+    "argument": "U.S. Commerce Department to place restrictions on China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1581,
+    "start_sent_idx": 15,
+    "end_sent_idx": 15,
+    "argument": "U.S. Commerce Department to place restrictions on China's ZTE"
+  },
+  {
+    "event_id": 125,
+    "doc_id": 1581,
+    "start_sent_idx": 16,
+    "end_sent_idx": 17,
+    "argument": "China"
+  },
+  {
+    "event_id": 126,
+    "doc_id": 1582,
+    "start_sent_idx": 8,
+    "end_sent_idx": 8,
+    "argument": "Volkswagen engineer"
+  },
+  {
+    "event_id": 126,
+    "doc_id": 1582,
+    "start_sent_idx": 9,
+    "end_sent_idx": 9,
+    "argument": "Volkswagen"
+  },
+  {
+    "event_id": 126,
+    "doc_id": 1582,
+    "start_sent_idx": 10,
+    "end_sent_idx": 10,
+    "argument": "conspiracy in emissions scandal"
+  },
+  {
+    "event_id": 126,
+    "doc_id": 1583,
+    "start_sent_idx": 5,
+    "end_sent_idx": 5,
+    "argument": "Volkswagen engineer"
+  },
+  {
+    "event_id": 126,
+    "doc_id": 1583,
+    "start_sent_idx": 8,
+    "end_sent_idx": 8,
+    "argument": "Volkswagen engineer"
+  },
+  {
+    "event_id": 126,
+    "doc_id": 1583,
+    "start_sent_idx": 10,
+    "end_sent_idx": 10,
+    "argument": "conspiracy in emissions scandal"
+  },
+  {
+    "event_id": 126,
+    "doc_id": 1583,
+    "start_sent_idx": 13,
+    "end_sent_idx": 14,
+    "argument": "Volkswagen engineer pleads guilty to conspiracy in emissions scandal"
+  },
+  {
+    "event_id": 126,
+    "doc_id": 1584,
+    "start_sent_idx": 8,
+    "end_sent_idx": 8,
+    "argument": "emissions scandal"
+  },
+  {
+    "event_id": 126,
+    "doc_id": 1584,
+    "start_sent_idx": 16,
+    "end_sent_idx": 16,
+    "argument": "Volkswagen engineer pleads guilty to conspiracy in emissions scandal"
+  },
+  {
+    "event_id": 126,
+    "doc_id": 1584,
+    "start_sent_idx": 22,
+    "end_sent_idx": 22,
+    "argument": "Volkswagen engineer"
+  },
+  {
+    "event_id": 126,
+    "doc_id": 1585,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "conspiracy in emissions scandal"
+  },
+  {
+    "event_id": 126,
+    "doc_id": 1585,
+    "start_sent_idx": 17,
+    "end_sent_idx": 19,
+    "argument": "emissions scandal"
+  },
+  {
+    "event_id": 126,
+    "doc_id": 1585,
+    "start_sent_idx": 20,
+    "end_sent_idx": 20,
+    "argument": "emissions scandal"
+  },
+  {
+    "event_id": 126,
+    "doc_id": 1586,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "conspiracy in emissions scandal"
+  },
+  {
+    "event_id": 126,
+    "doc_id": 1587,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "conspiracy in emissions scandal"
+  },
+  {
+    "event_id": 126,
+    "doc_id": 1587,
+    "start_sent_idx": 11,
+    "end_sent_idx": 11,
+    "argument": "Volkswagen engineer"
+  },
+  {
+    "event_id": 126,
+    "doc_id": 1588,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "Volkswagen"
+  },
+  {
+    "event_id": 126,
+    "doc_id": 1589,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "conspiracy in emissions scandal"
+  },
+  {
+    "event_id": 126,
+    "doc_id": 1589,
+    "start_sent_idx": 4,
+    "end_sent_idx": 4,
+    "argument": "Volkswagen engineer pleads guilty to conspiracy in emissions scandal"
+  },
+  {
+    "event_id": 127,
+    "doc_id": 1591,
+    "start_sent_idx": 2,
+    "end_sent_idx": 2,
+    "argument": "black money"
+  },
+  {
+    "event_id": 127,
+    "doc_id": 1591,
+    "start_sent_idx": 4,
+    "end_sent_idx": 6,
+    "argument": "graft, 'black money'"
+  },
+  {
+    "event_id": 127,
+    "doc_id": 1591,
+    "start_sent_idx": 7,
+    "end_sent_idx": 7,
+    "argument": "India abolishes larger banknotes in fight against graft, 'black money'"
+  },
+  {
+    "event_id": 127,
+    "doc_id": 1591,
+    "start_sent_idx": 8,
+    "end_sent_idx": 9,
+    "argument": "India abolishes larger banknotes in fight against graft, 'black money'"
+  },
+  {
+    "event_id": 127,
+    "doc_id": 1591,
+    "start_sent_idx": 10,
+    "end_sent_idx": 10,
+    "argument": "larger banknotes"
+  },
+  {
+    "event_id": 127,
+    "doc_id": 1591,
+    "start_sent_idx": 11,
+    "end_sent_idx": 11,
+    "argument": "larger banknotes"
+  },
+  {
+    "event_id": 127,
+    "doc_id": 1591,
+    "start_sent_idx": 12,
+    "end_sent_idx": 13,
+    "argument": "larger banknotes"
+  },
+  {
+    "event_id": 127,
+    "doc_id": 1592,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "India abolishes larger banknotes in fight against graft, 'black money'"
+  },
+  {
+    "event_id": 127,
+    "doc_id": 1592,
+    "start_sent_idx": 9,
+    "end_sent_idx": 9,
+    "argument": "India abolishes larger banknotes in fight against graft, 'black money'"
+  },
+  {
+    "event_id": 127,
+    "doc_id": 1593,
+    "start_sent_idx": 2,
+    "end_sent_idx": 2,
+    "argument": "India abolishes larger banknotes in fight against graft, 'black money'"
+  },
+  {
+    "event_id": 127,
+    "doc_id": 1593,
+    "start_sent_idx": 15,
+    "end_sent_idx": 15,
+    "argument": "India abolishes larger banknotes in fight against graft, 'black money'"
+  },
+  {
+    "event_id": 127,
+    "doc_id": 1593,
+    "start_sent_idx": 16,
+    "end_sent_idx": 16,
+    "argument": "larger banknotes"
+  },
+  {
+    "event_id": 127,
+    "doc_id": 1593,
+    "start_sent_idx": 23,
+    "end_sent_idx": 23,
+    "argument": "India abolishes larger banknotes in fight against graft, 'black money'"
+  },
+  {
+    "event_id": 127,
+    "doc_id": 1594,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "India abolishes larger banknotes"
+  },
+  {
+    "event_id": 127,
+    "doc_id": 1594,
+    "start_sent_idx": 4,
+    "end_sent_idx": 4,
+    "argument": "India abolishes larger banknotes in fight against graft, 'black money'"
+  },
+  {
+    "event_id": 127,
+    "doc_id": 1594,
+    "start_sent_idx": 10,
+    "end_sent_idx": 11,
+    "argument": "India abolishes larger banknotes in fight against graft, 'black money'"
+  },
+  {
+    "event_id": 127,
+    "doc_id": 1595,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "India"
+  },
+  {
+    "event_id": 127,
+    "doc_id": 1595,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "India abolishes larger banknotes in fight against graft, 'black money'"
+  },
+  {
+    "event_id": 127,
+    "doc_id": 1595,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "India abolishes larger banknotes in fight against graft, 'black money'"
+  },
+  {
+    "event_id": 127,
+    "doc_id": 1595,
+    "start_sent_idx": 8,
+    "end_sent_idx": 8,
+    "argument": "India abolishes larger banknotes in fight against graft, 'black money'"
+  },
+  {
+    "event_id": 127,
+    "doc_id": 1595,
+    "start_sent_idx": 10,
+    "end_sent_idx": 10,
+    "argument": "India abolishes larger banknotes in fight against graft, 'black money'"
+  },
+  {
+    "event_id": 127,
+    "doc_id": 1595,
+    "start_sent_idx": 15,
+    "end_sent_idx": 15,
+    "argument": "India abolishes larger banknotes in fight against graft, 'black money'"
+  },
+  {
+    "event_id": 127,
+    "doc_id": 1596,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "India abolishes larger banknotes in fight against graft, 'black money'"
+  },
+  {
+    "event_id": 127,
+    "doc_id": 1596,
+    "start_sent_idx": 12,
+    "end_sent_idx": 12,
+    "argument": "India abolishes larger banknotes in fight against graft, 'black money'"
+  },
+  {
+    "event_id": 127,
+    "doc_id": 1596,
+    "start_sent_idx": 17,
+    "end_sent_idx": 17,
+    "argument": "India abolishes larger banknotes in fight against graft, 'black money'"
+  },
+  {
+    "event_id": 127,
+    "doc_id": 1596,
+    "start_sent_idx": 23,
+    "end_sent_idx": 23,
+    "argument": "India abolishes larger banknotes in fight against graft, 'black money'"
+  },
+  {
+    "event_id": 127,
+    "doc_id": 1597,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "India abolishes larger banknotes in fight against graft, 'black money'"
+  },
+  {
+    "event_id": 127,
+    "doc_id": 1597,
+    "start_sent_idx": 2,
+    "end_sent_idx": 2,
+    "argument": "India abolishes larger banknotes in fight against graft, 'black money'"
+  },
+  {
+    "event_id": 127,
+    "doc_id": 1597,
+    "start_sent_idx": 4,
+    "end_sent_idx": 8,
+    "argument": "India abolishes larger banknotes in fight against graft, 'black money'"
+  },
+  {
+    "event_id": 127,
+    "doc_id": 1597,
+    "start_sent_idx": 9,
+    "end_sent_idx": 9,
+    "argument": "India abolishes larger banknotes in fight against graft, 'black money'"
+  },
+  {
+    "event_id": 127,
+    "doc_id": 1597,
+    "start_sent_idx": 10,
+    "end_sent_idx": 10,
+    "argument": "India abolishes larger banknotes in fight against graft, 'black money'"
+  },
+  {
+    "event_id": 127,
+    "doc_id": 1597,
+    "start_sent_idx": 13,
+    "end_sent_idx": 13,
+    "argument": "India abolishes larger banknotes in fight against graft, 'black money'"
+  },
+  {
+    "event_id": 127,
+    "doc_id": 1597,
+    "start_sent_idx": 16,
+    "end_sent_idx": 16,
+    "argument": "India abolishes larger banknotes in fight against graft, 'black money'"
+  },
+  {
+    "event_id": 127,
+    "doc_id": 1597,
+    "start_sent_idx": 18,
+    "end_sent_idx": 18,
+    "argument": "India"
+  },
+  {
+    "event_id": 127,
+    "doc_id": 1598,
+    "start_sent_idx": 7,
+    "end_sent_idx": 7,
+    "argument": "India abolishes larger banknotes in fight against graft, 'black money'"
+  },
+  {
+    "event_id": 127,
+    "doc_id": 1598,
+    "start_sent_idx": 11,
+    "end_sent_idx": 14,
+    "argument": "India abolishes larger banknotes in fight against graft, 'black money'"
+  },
+  {
+    "event_id": 127,
+    "doc_id": 1598,
+    "start_sent_idx": 19,
+    "end_sent_idx": 20,
+    "argument": "India abolishes larger banknotes in fight against graft, 'black money'"
+  },
+  {
+    "event_id": 127,
+    "doc_id": 1599,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "India abolishes larger banknotes in fight against graft, 'black money'"
+  },
+  {
+    "event_id": 127,
+    "doc_id": 1599,
+    "start_sent_idx": 2,
+    "end_sent_idx": 2,
+    "argument": "India abolishes larger banknotes in fight against graft, 'black money'"
+  },
+  {
+    "event_id": 127,
+    "doc_id": 1599,
+    "start_sent_idx": 6,
+    "end_sent_idx": 6,
+    "argument": "India abolishes larger banknotes in fight against graft, 'black money'"
+  },
+  {
+    "event_id": 127,
+    "doc_id": 1599,
+    "start_sent_idx": 7,
+    "end_sent_idx": 7,
+    "argument": "India abolishes larger banknotes in fight against graft, 'black money'"
+  },
+  {
+    "event_id": 127,
+    "doc_id": 1599,
+    "start_sent_idx": 15,
+    "end_sent_idx": 15,
+    "argument": "India abolishes larger banknotes in fight against graft, 'black money'"
+  },
+  {
+    "event_id": 127,
+    "doc_id": 1599,
+    "start_sent_idx": 16,
+    "end_sent_idx": 16,
+    "argument": "India abolishes larger banknotes in fight against graft, 'black money'"
+  },
+  {
+    "event_id": 127,
+    "doc_id": 1599,
+    "start_sent_idx": 20,
+    "end_sent_idx": 21,
+    "argument": "India abolishes larger banknotes in fight against graft, 'black money'"
+  }
+]

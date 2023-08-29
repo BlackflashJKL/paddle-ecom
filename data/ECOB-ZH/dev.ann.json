@@ -1,0 +1,5805 @@
+[
+  {
+    "event_id": 590,
+    "doc_id": 2101,
+    "start_sent_idx": 2,
+    "end_sent_idx": 2,
+    "argument": "孟晚舟引渡案"
+  },
+  {
+    "event_id": 590,
+    "doc_id": 2101,
+    "start_sent_idx": 6,
+    "end_sent_idx": 6,
+    "argument": "孟晚舟"
+  },
+  {
+    "event_id": 590,
+    "doc_id": 2103,
+    "start_sent_idx": 4,
+    "end_sent_idx": 4,
+    "argument": "孟晚舟引渡案"
+  },
+  {
+    "event_id": 590,
+    "doc_id": 2103,
+    "start_sent_idx": 9,
+    "end_sent_idx": 15,
+    "argument": "孟晚舟引渡案"
+  },
+  {
+    "event_id": 591,
+    "doc_id": 2104,
+    "start_sent_idx": 0,
+    "end_sent_idx": 1,
+    "argument": "特朗普"
+  },
+  {
+    "event_id": 591,
+    "doc_id": 2104,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "法案"
+  },
+  {
+    "event_id": 591,
+    "doc_id": 2104,
+    "start_sent_idx": 9,
+    "end_sent_idx": 11,
+    "argument": "特朗普将签法案"
+  },
+  {
+    "event_id": 591,
+    "doc_id": 2105,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "法案"
+  },
+  {
+    "event_id": 591,
+    "doc_id": 2105,
+    "start_sent_idx": 5,
+    "end_sent_idx": 5,
+    "argument": "法案"
+  },
+  {
+    "event_id": 591,
+    "doc_id": 2105,
+    "start_sent_idx": 7,
+    "end_sent_idx": 8,
+    "argument": "签法案限制中企"
+  },
+  {
+    "event_id": 591,
+    "doc_id": 2105,
+    "start_sent_idx": 9,
+    "end_sent_idx": 14,
+    "argument": "法案"
+  },
+  {
+    "event_id": 591,
+    "doc_id": 2106,
+    "start_sent_idx": 0,
+    "end_sent_idx": 1,
+    "argument": "特朗普将签法案限制中企"
+  },
+  {
+    "event_id": 591,
+    "doc_id": 2106,
+    "start_sent_idx": 4,
+    "end_sent_idx": 5,
+    "argument": "特朗普将签法案限制中企"
+  },
+  {
+    "event_id": 591,
+    "doc_id": 2106,
+    "start_sent_idx": 7,
+    "end_sent_idx": 7,
+    "argument": "特朗普将签法案"
+  },
+  {
+    "event_id": 591,
+    "doc_id": 2106,
+    "start_sent_idx": 8,
+    "end_sent_idx": 9,
+    "argument": "特朗普将签法案限制中企"
+  },
+  {
+    "event_id": 591,
+    "doc_id": 2107,
+    "start_sent_idx": 5,
+    "end_sent_idx": 8,
+    "argument": "特朗普将签法案限制中企"
+  },
+  {
+    "event_id": 591,
+    "doc_id": 2108,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "特朗普将签法案限制中企"
+  },
+  {
+    "event_id": 591,
+    "doc_id": 2108,
+    "start_sent_idx": 6,
+    "end_sent_idx": 7,
+    "argument": "特朗普将签法案限制中企"
+  },
+  {
+    "event_id": 591,
+    "doc_id": 2108,
+    "start_sent_idx": 14,
+    "end_sent_idx": 16,
+    "argument": "特朗普将签法案限制中企"
+  },
+  {
+    "event_id": 592,
+    "doc_id": 2109,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "22家电商被约谈"
+  },
+  {
+    "event_id": 592,
+    "doc_id": 2109,
+    "start_sent_idx": 7,
+    "end_sent_idx": 8,
+    "argument": "电商"
+  },
+  {
+    "event_id": 592,
+    "doc_id": 2110,
+    "start_sent_idx": 2,
+    "end_sent_idx": 2,
+    "argument": "电商"
+  },
+  {
+    "event_id": 592,
+    "doc_id": 2111,
+    "start_sent_idx": 7,
+    "end_sent_idx": 12,
+    "argument": "22家电商"
+  },
+  {
+    "event_id": 592,
+    "doc_id": 2112,
+    "start_sent_idx": 8,
+    "end_sent_idx": 8,
+    "argument": "22家电商被约谈"
+  },
+  {
+    "event_id": 592,
+    "doc_id": 2112,
+    "start_sent_idx": 10,
+    "end_sent_idx": 11,
+    "argument": "电商"
+  },
+  {
+    "event_id": 592,
+    "doc_id": 2112,
+    "start_sent_idx": 13,
+    "end_sent_idx": 16,
+    "argument": "电商"
+  },
+  {
+    "event_id": 592,
+    "doc_id": 2112,
+    "start_sent_idx": 17,
+    "end_sent_idx": 17,
+    "argument": "电商"
+  },
+  {
+    "event_id": 592,
+    "doc_id": 2112,
+    "start_sent_idx": 18,
+    "end_sent_idx": 18,
+    "argument": "电商"
+  },
+  {
+    "event_id": 592,
+    "doc_id": 2112,
+    "start_sent_idx": 19,
+    "end_sent_idx": 21,
+    "argument": "电商"
+  },
+  {
+    "event_id": 592,
+    "doc_id": 2112,
+    "start_sent_idx": 22,
+    "end_sent_idx": 22,
+    "argument": "电商"
+  },
+  {
+    "event_id": 592,
+    "doc_id": 2112,
+    "start_sent_idx": 28,
+    "end_sent_idx": 29,
+    "argument": "22家电商被约谈"
+  },
+  {
+    "event_id": 592,
+    "doc_id": 2113,
+    "start_sent_idx": 5,
+    "end_sent_idx": 5,
+    "argument": "22家电商"
+  },
+  {
+    "event_id": 592,
+    "doc_id": 2113,
+    "start_sent_idx": 6,
+    "end_sent_idx": 9,
+    "argument": "22家电商"
+  },
+  {
+    "event_id": 592,
+    "doc_id": 2113,
+    "start_sent_idx": 10,
+    "end_sent_idx": 10,
+    "argument": "22家电商"
+  },
+  {
+    "event_id": 593,
+    "doc_id": 2116,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "滴滴美团严重失信"
+  },
+  {
+    "event_id": 593,
+    "doc_id": 2117,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "滴滴"
+  },
+  {
+    "event_id": 593,
+    "doc_id": 2117,
+    "start_sent_idx": 4,
+    "end_sent_idx": 4,
+    "argument": "美团"
+  },
+  {
+    "event_id": 593,
+    "doc_id": 2117,
+    "start_sent_idx": 5,
+    "end_sent_idx": 6,
+    "argument": "滴滴美团严重失信"
+  },
+  {
+    "event_id": 593,
+    "doc_id": 2117,
+    "start_sent_idx": 7,
+    "end_sent_idx": 7,
+    "argument": "滴滴美团严重失信"
+  },
+  {
+    "event_id": 593,
+    "doc_id": 2119,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "滴滴美团严重失信"
+  },
+  {
+    "event_id": 594,
+    "doc_id": 2121,
+    "start_sent_idx": 12,
+    "end_sent_idx": 12,
+    "argument": "工信部约谈特斯拉"
+  },
+  {
+    "event_id": 594,
+    "doc_id": 2122,
+    "start_sent_idx": 22,
+    "end_sent_idx": 22,
+    "argument": "特斯拉"
+  },
+  {
+    "event_id": 594,
+    "doc_id": 2122,
+    "start_sent_idx": 23,
+    "end_sent_idx": 23,
+    "argument": "工信部约谈特斯拉"
+  },
+  {
+    "event_id": 594,
+    "doc_id": 2123,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "特斯拉"
+  },
+  {
+    "event_id": 594,
+    "doc_id": 2123,
+    "start_sent_idx": 5,
+    "end_sent_idx": 5,
+    "argument": "特斯拉"
+  },
+  {
+    "event_id": 594,
+    "doc_id": 2123,
+    "start_sent_idx": 17,
+    "end_sent_idx": 17,
+    "argument": "特斯拉"
+  },
+  {
+    "event_id": 594,
+    "doc_id": 2123,
+    "start_sent_idx": 20,
+    "end_sent_idx": 20,
+    "argument": "特斯拉"
+  },
+  {
+    "event_id": 594,
+    "doc_id": 2123,
+    "start_sent_idx": 21,
+    "end_sent_idx": 21,
+    "argument": "特斯拉"
+  },
+  {
+    "event_id": 594,
+    "doc_id": 2124,
+    "start_sent_idx": 24,
+    "end_sent_idx": 24,
+    "argument": "特斯拉"
+  },
+  {
+    "event_id": 595,
+    "doc_id": 2125,
+    "start_sent_idx": 22,
+    "end_sent_idx": 22,
+    "argument": "个人养老金制度"
+  },
+  {
+    "event_id": 595,
+    "doc_id": 2126,
+    "start_sent_idx": 1,
+    "end_sent_idx": 2,
+    "argument": "人社部将推出个人养老金制度"
+  },
+  {
+    "event_id": 595,
+    "doc_id": 2126,
+    "start_sent_idx": 6,
+    "end_sent_idx": 6,
+    "argument": "个人养老金制度"
+  },
+  {
+    "event_id": 596,
+    "doc_id": 2127,
+    "start_sent_idx": 5,
+    "end_sent_idx": 5,
+    "argument": "美国"
+  },
+  {
+    "event_id": 596,
+    "doc_id": 2127,
+    "start_sent_idx": 7,
+    "end_sent_idx": 7,
+    "argument": "美国"
+  },
+  {
+    "event_id": 596,
+    "doc_id": 2127,
+    "start_sent_idx": 20,
+    "end_sent_idx": 20,
+    "argument": "美国"
+  },
+  {
+    "event_id": 596,
+    "doc_id": 2128,
+    "start_sent_idx": 1,
+    "end_sent_idx": 2,
+    "argument": "美国对伊朗新制裁"
+  },
+  {
+    "event_id": 596,
+    "doc_id": 2128,
+    "start_sent_idx": 4,
+    "end_sent_idx": 5,
+    "argument": "美国对伊朗新制裁"
+  },
+  {
+    "event_id": 596,
+    "doc_id": 2128,
+    "start_sent_idx": 7,
+    "end_sent_idx": 10,
+    "argument": "美国对伊朗新制裁"
+  },
+  {
+    "event_id": 596,
+    "doc_id": 2128,
+    "start_sent_idx": 11,
+    "end_sent_idx": 12,
+    "argument": "美国对伊朗新制裁"
+  },
+  {
+    "event_id": 596,
+    "doc_id": 2128,
+    "start_sent_idx": 13,
+    "end_sent_idx": 13,
+    "argument": "美国对伊朗新制裁"
+  },
+  {
+    "event_id": 596,
+    "doc_id": 2128,
+    "start_sent_idx": 15,
+    "end_sent_idx": 15,
+    "argument": "伊朗"
+  },
+  {
+    "event_id": 596,
+    "doc_id": 2128,
+    "start_sent_idx": 18,
+    "end_sent_idx": 19,
+    "argument": "伊朗"
+  },
+  {
+    "event_id": 596,
+    "doc_id": 2129,
+    "start_sent_idx": 0,
+    "end_sent_idx": 2,
+    "argument": "伊朗"
+  },
+  {
+    "event_id": 596,
+    "doc_id": 2129,
+    "start_sent_idx": 18,
+    "end_sent_idx": 20,
+    "argument": "美国"
+  },
+  {
+    "event_id": 596,
+    "doc_id": 2130,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "伊朗"
+  },
+  {
+    "event_id": 596,
+    "doc_id": 2130,
+    "start_sent_idx": 2,
+    "end_sent_idx": 2,
+    "argument": "美国"
+  },
+  {
+    "event_id": 596,
+    "doc_id": 2131,
+    "start_sent_idx": 0,
+    "end_sent_idx": 3,
+    "argument": "美国对伊朗新制裁"
+  },
+  {
+    "event_id": 596,
+    "doc_id": 2133,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "伊朗"
+  },
+  {
+    "event_id": 596,
+    "doc_id": 2133,
+    "start_sent_idx": 8,
+    "end_sent_idx": 8,
+    "argument": "伊朗"
+  },
+  {
+    "event_id": 596,
+    "doc_id": 2133,
+    "start_sent_idx": 10,
+    "end_sent_idx": 10,
+    "argument": "伊朗"
+  },
+  {
+    "event_id": 596,
+    "doc_id": 2133,
+    "start_sent_idx": 11,
+    "end_sent_idx": 11,
+    "argument": "美国"
+  },
+  {
+    "event_id": 596,
+    "doc_id": 2133,
+    "start_sent_idx": 12,
+    "end_sent_idx": 12,
+    "argument": "伊朗"
+  },
+  {
+    "event_id": 596,
+    "doc_id": 2133,
+    "start_sent_idx": 16,
+    "end_sent_idx": 16,
+    "argument": "伊朗"
+  },
+  {
+    "event_id": 596,
+    "doc_id": 2133,
+    "start_sent_idx": 25,
+    "end_sent_idx": 25,
+    "argument": "伊朗"
+  },
+  {
+    "event_id": 596,
+    "doc_id": 2133,
+    "start_sent_idx": 28,
+    "end_sent_idx": 28,
+    "argument": "伊朗"
+  },
+  {
+    "event_id": 597,
+    "doc_id": 2135,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "乃万"
+  },
+  {
+    "event_id": 597,
+    "doc_id": 2135,
+    "start_sent_idx": 3,
+    "end_sent_idx": 4,
+    "argument": "乃万事件"
+  },
+  {
+    "event_id": 597,
+    "doc_id": 2135,
+    "start_sent_idx": 5,
+    "end_sent_idx": 5,
+    "argument": "学生就乃万事件发表不当言论"
+  },
+  {
+    "event_id": 597,
+    "doc_id": 2135,
+    "start_sent_idx": 12,
+    "end_sent_idx": 14,
+    "argument": "学生就乃万事件发表不当言论被退学"
+  },
+  {
+    "event_id": 597,
+    "doc_id": 2136,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "乃万事件"
+  },
+  {
+    "event_id": 597,
+    "doc_id": 2136,
+    "start_sent_idx": 6,
+    "end_sent_idx": 8,
+    "argument": "学生就乃万事件发表不当言论"
+  },
+  {
+    "event_id": 597,
+    "doc_id": 2136,
+    "start_sent_idx": 17,
+    "end_sent_idx": 17,
+    "argument": "学生就乃万事件发表不当言论被退学"
+  },
+  {
+    "event_id": 597,
+    "doc_id": 2136,
+    "start_sent_idx": 18,
+    "end_sent_idx": 18,
+    "argument": "学生就乃万事件发表不当言论被退学"
+  },
+  {
+    "event_id": 598,
+    "doc_id": 2137,
+    "start_sent_idx": 0,
+    "end_sent_idx": 13,
+    "argument": "3岁吃播女童事件"
+  },
+  {
+    "event_id": 598,
+    "doc_id": 2137,
+    "start_sent_idx": 14,
+    "end_sent_idx": 16,
+    "argument": "妇联介入3岁吃播女童事件"
+  },
+  {
+    "event_id": 598,
+    "doc_id": 2138,
+    "start_sent_idx": 0,
+    "end_sent_idx": 30,
+    "argument": "3岁吃播女童事件"
+  },
+  {
+    "event_id": 598,
+    "doc_id": 2139,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "3岁吃播女童事件"
+  },
+  {
+    "event_id": 598,
+    "doc_id": 2139,
+    "start_sent_idx": 2,
+    "end_sent_idx": 2,
+    "argument": "吃播"
+  },
+  {
+    "event_id": 598,
+    "doc_id": 2139,
+    "start_sent_idx": 8,
+    "end_sent_idx": 8,
+    "argument": "吃播"
+  },
+  {
+    "event_id": 598,
+    "doc_id": 2140,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "3岁吃播女童事件"
+  },
+  {
+    "event_id": 598,
+    "doc_id": 2140,
+    "start_sent_idx": 1,
+    "end_sent_idx": 2,
+    "argument": "3岁吃播女童事件"
+  },
+  {
+    "event_id": 598,
+    "doc_id": 2140,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "3岁吃播女童事件"
+  },
+  {
+    "event_id": 598,
+    "doc_id": 2140,
+    "start_sent_idx": 4,
+    "end_sent_idx": 4,
+    "argument": "3岁吃播女童事件"
+  },
+  {
+    "event_id": 598,
+    "doc_id": 2140,
+    "start_sent_idx": 5,
+    "end_sent_idx": 5,
+    "argument": "3岁吃播女童事件"
+  },
+  {
+    "event_id": 598,
+    "doc_id": 2140,
+    "start_sent_idx": 6,
+    "end_sent_idx": 6,
+    "argument": "3岁吃播女童事件"
+  },
+  {
+    "event_id": 598,
+    "doc_id": 2140,
+    "start_sent_idx": 8,
+    "end_sent_idx": 8,
+    "argument": "3岁吃播女童事件"
+  },
+  {
+    "event_id": 598,
+    "doc_id": 2140,
+    "start_sent_idx": 9,
+    "end_sent_idx": 9,
+    "argument": "3岁吃播女童事件"
+  },
+  {
+    "event_id": 598,
+    "doc_id": 2141,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "3岁吃播女童事件"
+  },
+  {
+    "event_id": 598,
+    "doc_id": 2141,
+    "start_sent_idx": 3,
+    "end_sent_idx": 4,
+    "argument": "3岁吃播女童事件"
+  },
+  {
+    "event_id": 598,
+    "doc_id": 2141,
+    "start_sent_idx": 5,
+    "end_sent_idx": 5,
+    "argument": "3岁吃播女童事件"
+  },
+  {
+    "event_id": 598,
+    "doc_id": 2141,
+    "start_sent_idx": 6,
+    "end_sent_idx": 11,
+    "argument": "3岁吃播女童事件"
+  },
+  {
+    "event_id": 598,
+    "doc_id": 2141,
+    "start_sent_idx": 16,
+    "end_sent_idx": 25,
+    "argument": "3岁吃播女童事件"
+  },
+  {
+    "event_id": 598,
+    "doc_id": 2142,
+    "start_sent_idx": 0,
+    "end_sent_idx": 3,
+    "argument": "3岁吃播女童事件"
+  },
+  {
+    "event_id": 598,
+    "doc_id": 2142,
+    "start_sent_idx": 6,
+    "end_sent_idx": 6,
+    "argument": "3岁吃播女童事件"
+  },
+  {
+    "event_id": 598,
+    "doc_id": 2142,
+    "start_sent_idx": 8,
+    "end_sent_idx": 15,
+    "argument": "3岁吃播女童事件"
+  },
+  {
+    "event_id": 599,
+    "doc_id": 2143,
+    "start_sent_idx": 3,
+    "end_sent_idx": 5,
+    "argument": "圆通内鬼致40万条个人信息泄露"
+  },
+  {
+    "event_id": 599,
+    "doc_id": 2144,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "圆通内鬼致40万条个人信息泄露"
+  },
+  {
+    "event_id": 599,
+    "doc_id": 2145,
+    "start_sent_idx": 0,
+    "end_sent_idx": 1,
+    "argument": "圆通内鬼致40万条个人信息泄露"
+  },
+  {
+    "event_id": 599,
+    "doc_id": 2145,
+    "start_sent_idx": 3,
+    "end_sent_idx": 6,
+    "argument": "圆通内鬼致40万条个人信息泄露"
+  },
+  {
+    "event_id": 599,
+    "doc_id": 2146,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "圆通内鬼致40万条个人信息泄露"
+  },
+  {
+    "event_id": 599,
+    "doc_id": 2146,
+    "start_sent_idx": 1,
+    "end_sent_idx": 2,
+    "argument": "圆通内鬼致40万条个人信息泄露"
+  },
+  {
+    "event_id": 599,
+    "doc_id": 2146,
+    "start_sent_idx": 6,
+    "end_sent_idx": 7,
+    "argument": "圆通内鬼致40万条个人信息泄露"
+  },
+  {
+    "event_id": 599,
+    "doc_id": 2146,
+    "start_sent_idx": 13,
+    "end_sent_idx": 13,
+    "argument": "圆通内鬼致40万条个人信息泄露"
+  },
+  {
+    "event_id": 599,
+    "doc_id": 2146,
+    "start_sent_idx": 14,
+    "end_sent_idx": 16,
+    "argument": "圆通内鬼致40万条个人信息泄露"
+  },
+  {
+    "event_id": 599,
+    "doc_id": 2148,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "圆通内鬼致40万条个人信息泄露"
+  },
+  {
+    "event_id": 599,
+    "doc_id": 2148,
+    "start_sent_idx": 8,
+    "end_sent_idx": 8,
+    "argument": "圆通内鬼致40万条个人信息泄露"
+  },
+  {
+    "event_id": 599,
+    "doc_id": 2148,
+    "start_sent_idx": 10,
+    "end_sent_idx": 13,
+    "argument": "圆通内鬼致40万条个人信息泄露"
+  },
+  {
+    "event_id": 600,
+    "doc_id": 2149,
+    "start_sent_idx": 7,
+    "end_sent_idx": 8,
+    "argument": "石油"
+  },
+  {
+    "event_id": 600,
+    "doc_id": 2150,
+    "start_sent_idx": 5,
+    "end_sent_idx": 5,
+    "argument": "美国再度从叙利亚窃取石油"
+  },
+  {
+    "event_id": 600,
+    "doc_id": 2150,
+    "start_sent_idx": 8,
+    "end_sent_idx": 8,
+    "argument": "美国"
+  },
+  {
+    "event_id": 600,
+    "doc_id": 2150,
+    "start_sent_idx": 23,
+    "end_sent_idx": 23,
+    "argument": "美国"
+  },
+  {
+    "event_id": 600,
+    "doc_id": 2150,
+    "start_sent_idx": 26,
+    "end_sent_idx": 26,
+    "argument": "美国再度从叙利亚窃取石油"
+  },
+  {
+    "event_id": 600,
+    "doc_id": 2150,
+    "start_sent_idx": 28,
+    "end_sent_idx": 28,
+    "argument": "石油"
+  },
+  {
+    "event_id": 600,
+    "doc_id": 2150,
+    "start_sent_idx": 29,
+    "end_sent_idx": 30,
+    "argument": "美国再度从叙利亚窃取石油"
+  },
+  {
+    "event_id": 600,
+    "doc_id": 2151,
+    "start_sent_idx": 9,
+    "end_sent_idx": 9,
+    "argument": "美国"
+  },
+  {
+    "event_id": 600,
+    "doc_id": 2151,
+    "start_sent_idx": 12,
+    "end_sent_idx": 12,
+    "argument": "美国"
+  },
+  {
+    "event_id": 600,
+    "doc_id": 2151,
+    "start_sent_idx": 13,
+    "end_sent_idx": 14,
+    "argument": "美国"
+  },
+  {
+    "event_id": 600,
+    "doc_id": 2151,
+    "start_sent_idx": 16,
+    "end_sent_idx": 16,
+    "argument": "美国"
+  },
+  {
+    "event_id": 600,
+    "doc_id": 2153,
+    "start_sent_idx": 0,
+    "end_sent_idx": 2,
+    "argument": "美国再度从叙利亚窃取石油"
+  },
+  {
+    "event_id": 600,
+    "doc_id": 2153,
+    "start_sent_idx": 5,
+    "end_sent_idx": 5,
+    "argument": "美国再度从叙利亚窃取石油"
+  },
+  {
+    "event_id": 600,
+    "doc_id": 2153,
+    "start_sent_idx": 10,
+    "end_sent_idx": 11,
+    "argument": "美国再度从叙利亚窃取石油"
+  },
+  {
+    "event_id": 600,
+    "doc_id": 2153,
+    "start_sent_idx": 12,
+    "end_sent_idx": 12,
+    "argument": "美国再度从叙利亚窃取石油"
+  },
+  {
+    "event_id": 600,
+    "doc_id": 2153,
+    "start_sent_idx": 13,
+    "end_sent_idx": 13,
+    "argument": "美国再度从叙利亚窃取石油"
+  },
+  {
+    "event_id": 600,
+    "doc_id": 2153,
+    "start_sent_idx": 14,
+    "end_sent_idx": 14,
+    "argument": "美国再度从叙利亚窃取石油"
+  },
+  {
+    "event_id": 600,
+    "doc_id": 2153,
+    "start_sent_idx": 15,
+    "end_sent_idx": 15,
+    "argument": "美国再度从叙利亚窃取石油"
+  },
+  {
+    "event_id": 600,
+    "doc_id": 2153,
+    "start_sent_idx": 17,
+    "end_sent_idx": 20,
+    "argument": "美国再度从叙利亚窃取石油"
+  },
+  {
+    "event_id": 600,
+    "doc_id": 2154,
+    "start_sent_idx": 29,
+    "end_sent_idx": 29,
+    "argument": "美国再度从叙利亚窃取石油"
+  },
+  {
+    "event_id": 600,
+    "doc_id": 2154,
+    "start_sent_idx": 30,
+    "end_sent_idx": 30,
+    "argument": "美国再度从叙利亚窃取石油"
+  },
+  {
+    "event_id": 601,
+    "doc_id": 2155,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "股神"
+  },
+  {
+    "event_id": 601,
+    "doc_id": 2156,
+    "start_sent_idx": 4,
+    "end_sent_idx": 5,
+    "argument": "两大股神跌落凡尘"
+  },
+  {
+    "event_id": 601,
+    "doc_id": 2156,
+    "start_sent_idx": 7,
+    "end_sent_idx": 15,
+    "argument": "两大股神跌落凡尘"
+  },
+  {
+    "event_id": 601,
+    "doc_id": 2157,
+    "start_sent_idx": 2,
+    "end_sent_idx": 2,
+    "argument": "两大股神跌落凡尘"
+  },
+  {
+    "event_id": 601,
+    "doc_id": 2158,
+    "start_sent_idx": 6,
+    "end_sent_idx": 6,
+    "argument": "两大股神跌落凡尘"
+  },
+  {
+    "event_id": 601,
+    "doc_id": 2159,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "两大股神"
+  },
+  {
+    "event_id": 601,
+    "doc_id": 2160,
+    "start_sent_idx": 18,
+    "end_sent_idx": 23,
+    "argument": "两大股神跌落凡尘"
+  },
+  {
+    "event_id": 602,
+    "doc_id": 2161,
+    "start_sent_idx": 13,
+    "end_sent_idx": 13,
+    "argument": "滴滴顺风车"
+  },
+  {
+    "event_id": 602,
+    "doc_id": 2161,
+    "start_sent_idx": 20,
+    "end_sent_idx": 20,
+    "argument": "滴滴顺风车运营"
+  },
+  {
+    "event_id": 602,
+    "doc_id": 2161,
+    "start_sent_idx": 28,
+    "end_sent_idx": 28,
+    "argument": "滴滴顺风车运营"
+  },
+  {
+    "event_id": 602,
+    "doc_id": 2161,
+    "start_sent_idx": 32,
+    "end_sent_idx": 32,
+    "argument": "滴滴顺风车"
+  },
+  {
+    "event_id": 602,
+    "doc_id": 2162,
+    "start_sent_idx": 11,
+    "end_sent_idx": 12,
+    "argument": "滴滴顺风车运营"
+  },
+  {
+    "event_id": 603,
+    "doc_id": 2163,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "印度难民涌向美国"
+  },
+  {
+    "event_id": 603,
+    "doc_id": 2163,
+    "start_sent_idx": 7,
+    "end_sent_idx": 7,
+    "argument": "印度难民涌向美国"
+  },
+  {
+    "event_id": 603,
+    "doc_id": 2163,
+    "start_sent_idx": 9,
+    "end_sent_idx": 9,
+    "argument": "印度难民涌向美国"
+  },
+  {
+    "event_id": 603,
+    "doc_id": 2163,
+    "start_sent_idx": 11,
+    "end_sent_idx": 11,
+    "argument": "印度难民"
+  },
+  {
+    "event_id": 603,
+    "doc_id": 2164,
+    "start_sent_idx": 2,
+    "end_sent_idx": 5,
+    "argument": "印度难民涌向美国"
+  },
+  {
+    "event_id": 603,
+    "doc_id": 2164,
+    "start_sent_idx": 6,
+    "end_sent_idx": 8,
+    "argument": "印度难民涌向美国"
+  },
+  {
+    "event_id": 603,
+    "doc_id": 2164,
+    "start_sent_idx": 11,
+    "end_sent_idx": 16,
+    "argument": "印度难民涌向美国"
+  },
+  {
+    "event_id": 603,
+    "doc_id": 2165,
+    "start_sent_idx": 5,
+    "end_sent_idx": 5,
+    "argument": "印度"
+  },
+  {
+    "event_id": 603,
+    "doc_id": 2165,
+    "start_sent_idx": 14,
+    "end_sent_idx": 15,
+    "argument": "印度难民涌向美国"
+  },
+  {
+    "event_id": 603,
+    "doc_id": 2165,
+    "start_sent_idx": 17,
+    "end_sent_idx": 17,
+    "argument": "印度"
+  },
+  {
+    "event_id": 603,
+    "doc_id": 2166,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "印度"
+  },
+  {
+    "event_id": 603,
+    "doc_id": 2166,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "印度"
+  },
+  {
+    "event_id": 603,
+    "doc_id": 2166,
+    "start_sent_idx": 4,
+    "end_sent_idx": 4,
+    "argument": "印度"
+  },
+  {
+    "event_id": 603,
+    "doc_id": 2166,
+    "start_sent_idx": 13,
+    "end_sent_idx": 13,
+    "argument": "印度难民涌向美国"
+  },
+  {
+    "event_id": 603,
+    "doc_id": 2166,
+    "start_sent_idx": 15,
+    "end_sent_idx": 15,
+    "argument": "印度难民涌向美国"
+  },
+  {
+    "event_id": 603,
+    "doc_id": 2166,
+    "start_sent_idx": 19,
+    "end_sent_idx": 19,
+    "argument": "印度"
+  },
+  {
+    "event_id": 603,
+    "doc_id": 2166,
+    "start_sent_idx": 21,
+    "end_sent_idx": 21,
+    "argument": "印度难民涌向美国"
+  },
+  {
+    "event_id": 603,
+    "doc_id": 2167,
+    "start_sent_idx": 0,
+    "end_sent_idx": 8,
+    "argument": "印度"
+  },
+  {
+    "event_id": 603,
+    "doc_id": 2167,
+    "start_sent_idx": 9,
+    "end_sent_idx": 26,
+    "argument": "印度难民涌向美国"
+  },
+  {
+    "event_id": 603,
+    "doc_id": 2168,
+    "start_sent_idx": 12,
+    "end_sent_idx": 12,
+    "argument": "印度难民涌向美国"
+  },
+  {
+    "event_id": 603,
+    "doc_id": 2168,
+    "start_sent_idx": 14,
+    "end_sent_idx": 15,
+    "argument": "印度难民"
+  },
+  {
+    "event_id": 603,
+    "doc_id": 2168,
+    "start_sent_idx": 18,
+    "end_sent_idx": 18,
+    "argument": "印度难民涌向美国"
+  },
+  {
+    "event_id": 604,
+    "doc_id": 2169,
+    "start_sent_idx": 17,
+    "end_sent_idx": 17,
+    "argument": "冰川消融"
+  },
+  {
+    "event_id": 604,
+    "doc_id": 2169,
+    "start_sent_idx": 18,
+    "end_sent_idx": 19,
+    "argument": "冰川消融"
+  },
+  {
+    "event_id": 604,
+    "doc_id": 2170,
+    "start_sent_idx": 2,
+    "end_sent_idx": 3,
+    "argument": "冰川消融"
+  },
+  {
+    "event_id": 605,
+    "doc_id": 2171,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "美批准向台出售100个巡航导弹系统"
+  },
+  {
+    "event_id": 605,
+    "doc_id": 2172,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "台"
+  },
+  {
+    "event_id": 605,
+    "doc_id": 2172,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "美批准向台出售100个巡航导弹系统"
+  },
+  {
+    "event_id": 605,
+    "doc_id": 2172,
+    "start_sent_idx": 4,
+    "end_sent_idx": 4,
+    "argument": "巡航导弹系统"
+  },
+  {
+    "event_id": 605,
+    "doc_id": 2172,
+    "start_sent_idx": 5,
+    "end_sent_idx": 5,
+    "argument": "巡航导弹系统"
+  },
+  {
+    "event_id": 605,
+    "doc_id": 2172,
+    "start_sent_idx": 8,
+    "end_sent_idx": 8,
+    "argument": "美批准向台出售100个巡航导弹系统"
+  },
+  {
+    "event_id": 605,
+    "doc_id": 2172,
+    "start_sent_idx": 9,
+    "end_sent_idx": 9,
+    "argument": "美批准向台出售100个巡航导弹系统"
+  },
+  {
+    "event_id": 606,
+    "doc_id": 2173,
+    "start_sent_idx": 0,
+    "end_sent_idx": 1,
+    "argument": "哈里夫妇爆料"
+  },
+  {
+    "event_id": 606,
+    "doc_id": 2173,
+    "start_sent_idx": 7,
+    "end_sent_idx": 9,
+    "argument": "哈里夫妇爆料"
+  },
+  {
+    "event_id": 606,
+    "doc_id": 2174,
+    "start_sent_idx": 9,
+    "end_sent_idx": 9,
+    "argument": "哈里夫妇"
+  },
+  {
+    "event_id": 607,
+    "doc_id": 2175,
+    "start_sent_idx": 0,
+    "end_sent_idx": 1,
+    "argument": "梅根"
+  },
+  {
+    "event_id": 607,
+    "doc_id": 2175,
+    "start_sent_idx": 2,
+    "end_sent_idx": 2,
+    "argument": "英国名嘴斥责梅根说谎"
+  },
+  {
+    "event_id": 607,
+    "doc_id": 2175,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "英国名嘴斥责梅根说谎"
+  },
+  {
+    "event_id": 608,
+    "doc_id": 2176,
+    "start_sent_idx": 2,
+    "end_sent_idx": 2,
+    "argument": "文具盲盒或使孩子成瘾"
+  },
+  {
+    "event_id": 608,
+    "doc_id": 2176,
+    "start_sent_idx": 5,
+    "end_sent_idx": 5,
+    "argument": "文具盲盒或使孩子成瘾"
+  },
+  {
+    "event_id": 608,
+    "doc_id": 2176,
+    "start_sent_idx": 8,
+    "end_sent_idx": 8,
+    "argument": "文具盲盒"
+  },
+  {
+    "event_id": 608,
+    "doc_id": 2176,
+    "start_sent_idx": 9,
+    "end_sent_idx": 9,
+    "argument": "文具盲盒或使孩子成瘾"
+  },
+  {
+    "event_id": 608,
+    "doc_id": 2176,
+    "start_sent_idx": 10,
+    "end_sent_idx": 10,
+    "argument": "文具盲盒或使孩子成瘾"
+  },
+  {
+    "event_id": 608,
+    "doc_id": 2176,
+    "start_sent_idx": 12,
+    "end_sent_idx": 12,
+    "argument": "文具盲盒"
+  },
+  {
+    "event_id": 608,
+    "doc_id": 2176,
+    "start_sent_idx": 13,
+    "end_sent_idx": 14,
+    "argument": "文具盲盒或使孩子成瘾"
+  },
+  {
+    "event_id": 608,
+    "doc_id": 2177,
+    "start_sent_idx": 1,
+    "end_sent_idx": 2,
+    "argument": "文具盲盒"
+  },
+  {
+    "event_id": 608,
+    "doc_id": 2177,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "盲盒"
+  },
+  {
+    "event_id": 608,
+    "doc_id": 2177,
+    "start_sent_idx": 6,
+    "end_sent_idx": 6,
+    "argument": "盲盒"
+  },
+  {
+    "event_id": 608,
+    "doc_id": 2177,
+    "start_sent_idx": 7,
+    "end_sent_idx": 7,
+    "argument": "文具盲盒"
+  },
+  {
+    "event_id": 608,
+    "doc_id": 2177,
+    "start_sent_idx": 8,
+    "end_sent_idx": 8,
+    "argument": "文具"
+  },
+  {
+    "event_id": 608,
+    "doc_id": 2177,
+    "start_sent_idx": 9,
+    "end_sent_idx": 10,
+    "argument": "文具盲盒"
+  },
+  {
+    "event_id": 609,
+    "doc_id": 2179,
+    "start_sent_idx": 2,
+    "end_sent_idx": 2,
+    "argument": "老干妈"
+  },
+  {
+    "event_id": 609,
+    "doc_id": 2179,
+    "start_sent_idx": 4,
+    "end_sent_idx": 4,
+    "argument": "老干妈"
+  },
+  {
+    "event_id": 609,
+    "doc_id": 2179,
+    "start_sent_idx": 10,
+    "end_sent_idx": 10,
+    "argument": "老干妈"
+  },
+  {
+    "event_id": 609,
+    "doc_id": 2179,
+    "start_sent_idx": 12,
+    "end_sent_idx": 12,
+    "argument": "老干妈之子"
+  },
+  {
+    "event_id": 609,
+    "doc_id": 2180,
+    "start_sent_idx": 5,
+    "end_sent_idx": 5,
+    "argument": "老干妈"
+  },
+  {
+    "event_id": 609,
+    "doc_id": 2180,
+    "start_sent_idx": 7,
+    "end_sent_idx": 7,
+    "argument": "老干妈之子昆明投资房产烂尾"
+  },
+  {
+    "event_id": 609,
+    "doc_id": 2180,
+    "start_sent_idx": 8,
+    "end_sent_idx": 9,
+    "argument": "老干妈之子昆明投资房产烂尾"
+  },
+  {
+    "event_id": 610,
+    "doc_id": 2181,
+    "start_sent_idx": 6,
+    "end_sent_idx": 6,
+    "argument": "中国红十字会向印度提供援助"
+  },
+  {
+    "event_id": 610,
+    "doc_id": 2182,
+    "start_sent_idx": 2,
+    "end_sent_idx": 3,
+    "argument": "中国红十字会向印度提供援助"
+  },
+  {
+    "event_id": 610,
+    "doc_id": 2183,
+    "start_sent_idx": 3,
+    "end_sent_idx": 4,
+    "argument": "中国红十字会向印度提供援助"
+  },
+  {
+    "event_id": 610,
+    "doc_id": 2184,
+    "start_sent_idx": 5,
+    "end_sent_idx": 7,
+    "argument": "中国红十字会向印度提供援助"
+  },
+  {
+    "event_id": 610,
+    "doc_id": 2185,
+    "start_sent_idx": 7,
+    "end_sent_idx": 8,
+    "argument": "中国红十字会向印度提供援助"
+  },
+  {
+    "event_id": 611,
+    "doc_id": 2187,
+    "start_sent_idx": 10,
+    "end_sent_idx": 10,
+    "argument": "拜登获306张选举人票"
+  },
+  {
+    "event_id": 611,
+    "doc_id": 2187,
+    "start_sent_idx": 14,
+    "end_sent_idx": 17,
+    "argument": "拜登获306张选举人票"
+  },
+  {
+    "event_id": 611,
+    "doc_id": 2188,
+    "start_sent_idx": 2,
+    "end_sent_idx": 2,
+    "argument": "拜登获306张选举人票"
+  },
+  {
+    "event_id": 611,
+    "doc_id": 2189,
+    "start_sent_idx": 11,
+    "end_sent_idx": 11,
+    "argument": "拜登获306张选举人票"
+  },
+  {
+    "event_id": 611,
+    "doc_id": 2189,
+    "start_sent_idx": 20,
+    "end_sent_idx": 20,
+    "argument": "拜登获306张选举人票"
+  },
+  {
+    "event_id": 611,
+    "doc_id": 2189,
+    "start_sent_idx": 22,
+    "end_sent_idx": 24,
+    "argument": "拜登获306张选举人票"
+  },
+  {
+    "event_id": 612,
+    "doc_id": 2192,
+    "start_sent_idx": 1,
+    "end_sent_idx": 3,
+    "argument": "1至11月民间投资增速年内首次转正"
+  },
+  {
+    "event_id": 613,
+    "doc_id": 2193,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "特朗普称若败选将消失"
+  },
+  {
+    "event_id": 613,
+    "doc_id": 2193,
+    "start_sent_idx": 1,
+    "end_sent_idx": 3,
+    "argument": "拜登"
+  },
+  {
+    "event_id": 613,
+    "doc_id": 2193,
+    "start_sent_idx": 4,
+    "end_sent_idx": 4,
+    "argument": "特朗普称若败选将消失"
+  },
+  {
+    "event_id": 613,
+    "doc_id": 2194,
+    "start_sent_idx": 2,
+    "end_sent_idx": 2,
+    "argument": "特朗普称若败选将消失"
+  },
+  {
+    "event_id": 613,
+    "doc_id": 2194,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "特朗普称若败选将消失 拜登回应"
+  },
+  {
+    "event_id": 613,
+    "doc_id": 2194,
+    "start_sent_idx": 6,
+    "end_sent_idx": 6,
+    "argument": "特朗普称若败选将消失"
+  },
+  {
+    "event_id": 613,
+    "doc_id": 2194,
+    "start_sent_idx": 8,
+    "end_sent_idx": 9,
+    "argument": "拜登"
+  },
+  {
+    "event_id": 613,
+    "doc_id": 2194,
+    "start_sent_idx": 10,
+    "end_sent_idx": 15,
+    "argument": "特朗普"
+  },
+  {
+    "event_id": 613,
+    "doc_id": 2194,
+    "start_sent_idx": 16,
+    "end_sent_idx": 18,
+    "argument": "拜登"
+  },
+  {
+    "event_id": 613,
+    "doc_id": 2195,
+    "start_sent_idx": 0,
+    "end_sent_idx": 1,
+    "argument": "特朗普称若败选将消失"
+  },
+  {
+    "event_id": 613,
+    "doc_id": 2196,
+    "start_sent_idx": 7,
+    "end_sent_idx": 8,
+    "argument": "特朗普"
+  },
+  {
+    "event_id": 613,
+    "doc_id": 2196,
+    "start_sent_idx": 9,
+    "end_sent_idx": 11,
+    "argument": "特朗普"
+  },
+  {
+    "event_id": 613,
+    "doc_id": 2196,
+    "start_sent_idx": 12,
+    "end_sent_idx": 13,
+    "argument": "特朗普"
+  },
+  {
+    "event_id": 613,
+    "doc_id": 2196,
+    "start_sent_idx": 14,
+    "end_sent_idx": 14,
+    "argument": "特朗普"
+  },
+  {
+    "event_id": 613,
+    "doc_id": 2196,
+    "start_sent_idx": 17,
+    "end_sent_idx": 20,
+    "argument": "拜登"
+  },
+  {
+    "event_id": 613,
+    "doc_id": 2196,
+    "start_sent_idx": 21,
+    "end_sent_idx": 23,
+    "argument": "拜登"
+  },
+  {
+    "event_id": 613,
+    "doc_id": 2196,
+    "start_sent_idx": 24,
+    "end_sent_idx": 25,
+    "argument": "特朗普"
+  },
+  {
+    "event_id": 613,
+    "doc_id": 2196,
+    "start_sent_idx": 26,
+    "end_sent_idx": 27,
+    "argument": "拜登"
+  },
+  {
+    "event_id": 613,
+    "doc_id": 2196,
+    "start_sent_idx": 28,
+    "end_sent_idx": 28,
+    "argument": "拜登"
+  },
+  {
+    "event_id": 613,
+    "doc_id": 2196,
+    "start_sent_idx": 30,
+    "end_sent_idx": 31,
+    "argument": "特朗普"
+  },
+  {
+    "event_id": 613,
+    "doc_id": 2197,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "拜登"
+  },
+  {
+    "event_id": 613,
+    "doc_id": 2197,
+    "start_sent_idx": 1,
+    "end_sent_idx": 4,
+    "argument": "特朗普称若败选将消失"
+  },
+  {
+    "event_id": 613,
+    "doc_id": 2197,
+    "start_sent_idx": 18,
+    "end_sent_idx": 18,
+    "argument": "特朗普"
+  },
+  {
+    "event_id": 613,
+    "doc_id": 2198,
+    "start_sent_idx": 0,
+    "end_sent_idx": 2,
+    "argument": "特朗普称若败选将消失"
+  },
+  {
+    "event_id": 613,
+    "doc_id": 2198,
+    "start_sent_idx": 3,
+    "end_sent_idx": 4,
+    "argument": "拜登"
+  },
+  {
+    "event_id": 613,
+    "doc_id": 2199,
+    "start_sent_idx": 6,
+    "end_sent_idx": 6,
+    "argument": "特朗普"
+  },
+  {
+    "event_id": 613,
+    "doc_id": 2199,
+    "start_sent_idx": 10,
+    "end_sent_idx": 10,
+    "argument": "特朗普"
+  },
+  {
+    "event_id": 614,
+    "doc_id": 2200,
+    "start_sent_idx": 4,
+    "end_sent_idx": 5,
+    "argument": "美拟在日部署中导"
+  },
+  {
+    "event_id": 614,
+    "doc_id": 2201,
+    "start_sent_idx": 9,
+    "end_sent_idx": 10,
+    "argument": "美拟在日部署中导"
+  },
+  {
+    "event_id": 614,
+    "doc_id": 2202,
+    "start_sent_idx": 6,
+    "end_sent_idx": 6,
+    "argument": "在日部署中导"
+  },
+  {
+    "event_id": 614,
+    "doc_id": 2202,
+    "start_sent_idx": 9,
+    "end_sent_idx": 9,
+    "argument": "在日部署中导"
+  },
+  {
+    "event_id": 614,
+    "doc_id": 2202,
+    "start_sent_idx": 10,
+    "end_sent_idx": 10,
+    "argument": "中导"
+  },
+  {
+    "event_id": 615,
+    "doc_id": 2203,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "网游"
+  },
+  {
+    "event_id": 615,
+    "doc_id": 2203,
+    "start_sent_idx": 2,
+    "end_sent_idx": 7,
+    "argument": "网游"
+  },
+  {
+    "event_id": 615,
+    "doc_id": 2204,
+    "start_sent_idx": 1,
+    "end_sent_idx": 5,
+    "argument": "网游"
+  },
+  {
+    "event_id": 615,
+    "doc_id": 2204,
+    "start_sent_idx": 6,
+    "end_sent_idx": 7,
+    "argument": "明星代言网游"
+  },
+  {
+    "event_id": 615,
+    "doc_id": 2204,
+    "start_sent_idx": 12,
+    "end_sent_idx": 19,
+    "argument": "代表建议禁止明星代言网游"
+  },
+  {
+    "event_id": 615,
+    "doc_id": 2205,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "明星代言网游"
+  },
+  {
+    "event_id": 615,
+    "doc_id": 2205,
+    "start_sent_idx": 2,
+    "end_sent_idx": 2,
+    "argument": "明星代言网游"
+  },
+  {
+    "event_id": 615,
+    "doc_id": 2205,
+    "start_sent_idx": 3,
+    "end_sent_idx": 4,
+    "argument": "明星代言网游"
+  },
+  {
+    "event_id": 615,
+    "doc_id": 2205,
+    "start_sent_idx": 5,
+    "end_sent_idx": 5,
+    "argument": "明星"
+  },
+  {
+    "event_id": 615,
+    "doc_id": 2205,
+    "start_sent_idx": 6,
+    "end_sent_idx": 6,
+    "argument": "明星代言网游"
+  },
+  {
+    "event_id": 615,
+    "doc_id": 2205,
+    "start_sent_idx": 7,
+    "end_sent_idx": 7,
+    "argument": "禁止明星代言网游"
+  },
+  {
+    "event_id": 615,
+    "doc_id": 2206,
+    "start_sent_idx": 0,
+    "end_sent_idx": 6,
+    "argument": "网游"
+  },
+  {
+    "event_id": 615,
+    "doc_id": 2206,
+    "start_sent_idx": 7,
+    "end_sent_idx": 9,
+    "argument": "网游"
+  },
+  {
+    "event_id": 615,
+    "doc_id": 2206,
+    "start_sent_idx": 10,
+    "end_sent_idx": 13,
+    "argument": "明星代言网游"
+  },
+  {
+    "event_id": 615,
+    "doc_id": 2207,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "网游"
+  },
+  {
+    "event_id": 615,
+    "doc_id": 2207,
+    "start_sent_idx": 4,
+    "end_sent_idx": 4,
+    "argument": "网游"
+  },
+  {
+    "event_id": 615,
+    "doc_id": 2207,
+    "start_sent_idx": 5,
+    "end_sent_idx": 5,
+    "argument": "明星代言网游"
+  },
+  {
+    "event_id": 615,
+    "doc_id": 2207,
+    "start_sent_idx": 6,
+    "end_sent_idx": 6,
+    "argument": "明星代言网游"
+  },
+  {
+    "event_id": 615,
+    "doc_id": 2207,
+    "start_sent_idx": 13,
+    "end_sent_idx": 13,
+    "argument": "网游"
+  },
+  {
+    "event_id": 615,
+    "doc_id": 2207,
+    "start_sent_idx": 14,
+    "end_sent_idx": 15,
+    "argument": "网游"
+  },
+  {
+    "event_id": 615,
+    "doc_id": 2208,
+    "start_sent_idx": 0,
+    "end_sent_idx": 2,
+    "argument": "网游"
+  },
+  {
+    "event_id": 616,
+    "doc_id": 2209,
+    "start_sent_idx": 5,
+    "end_sent_idx": 5,
+    "argument": "朴槿惠"
+  },
+  {
+    "event_id": 616,
+    "doc_id": 2209,
+    "start_sent_idx": 6,
+    "end_sent_idx": 6,
+    "argument": "朴槿惠"
+  },
+  {
+    "event_id": 616,
+    "doc_id": 2209,
+    "start_sent_idx": 8,
+    "end_sent_idx": 8,
+    "argument": "朴槿惠"
+  },
+  {
+    "event_id": 616,
+    "doc_id": 2209,
+    "start_sent_idx": 9,
+    "end_sent_idx": 9,
+    "argument": "朴槿惠"
+  },
+  {
+    "event_id": 616,
+    "doc_id": 2210,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "朴槿惠"
+  },
+  {
+    "event_id": 616,
+    "doc_id": 2211,
+    "start_sent_idx": 6,
+    "end_sent_idx": 6,
+    "argument": "朴槿惠"
+  },
+  {
+    "event_id": 616,
+    "doc_id": 2212,
+    "start_sent_idx": 11,
+    "end_sent_idx": 14,
+    "argument": "朴槿惠"
+  },
+  {
+    "event_id": 616,
+    "doc_id": 2213,
+    "start_sent_idx": 2,
+    "end_sent_idx": 4,
+    "argument": "韩群众支持朴槿惠"
+  },
+  {
+    "event_id": 617,
+    "doc_id": 2214,
+    "start_sent_idx": 2,
+    "end_sent_idx": 3,
+    "argument": "韩国人热衷无降落日本上空游"
+  },
+  {
+    "event_id": 618,
+    "doc_id": 2218,
+    "start_sent_idx": 6,
+    "end_sent_idx": 7,
+    "argument": "印度大规模骚乱"
+  },
+  {
+    "event_id": 618,
+    "doc_id": 2218,
+    "start_sent_idx": 8,
+    "end_sent_idx": 8,
+    "argument": "印度大规模骚乱"
+  },
+  {
+    "event_id": 618,
+    "doc_id": 2218,
+    "start_sent_idx": 12,
+    "end_sent_idx": 12,
+    "argument": "印度大规模骚乱致12死"
+  },
+  {
+    "event_id": 618,
+    "doc_id": 2218,
+    "start_sent_idx": 14,
+    "end_sent_idx": 14,
+    "argument": "印度"
+  },
+  {
+    "event_id": 618,
+    "doc_id": 2219,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "印度大规模骚乱致12死"
+  },
+  {
+    "event_id": 618,
+    "doc_id": 2219,
+    "start_sent_idx": 4,
+    "end_sent_idx": 4,
+    "argument": "印度大规模骚乱"
+  },
+  {
+    "event_id": 618,
+    "doc_id": 2219,
+    "start_sent_idx": 5,
+    "end_sent_idx": 6,
+    "argument": "印度"
+  },
+  {
+    "event_id": 619,
+    "doc_id": 2220,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "过半选举人团票"
+  },
+  {
+    "event_id": 619,
+    "doc_id": 2221,
+    "start_sent_idx": 2,
+    "end_sent_idx": 6,
+    "argument": "拜登"
+  },
+  {
+    "event_id": 619,
+    "doc_id": 2221,
+    "start_sent_idx": 8,
+    "end_sent_idx": 8,
+    "argument": "拜登"
+  },
+  {
+    "event_id": 619,
+    "doc_id": 2222,
+    "start_sent_idx": 10,
+    "end_sent_idx": 10,
+    "argument": "选举人团票"
+  },
+  {
+    "event_id": 619,
+    "doc_id": 2222,
+    "start_sent_idx": 15,
+    "end_sent_idx": 18,
+    "argument": "拜登获过半选举人团票赢得大选"
+  },
+  {
+    "event_id": 620,
+    "doc_id": 2225,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "新冠疫苗"
+  },
+  {
+    "event_id": 620,
+    "doc_id": 2225,
+    "start_sent_idx": 22,
+    "end_sent_idx": 24,
+    "argument": "新冠疫苗"
+  },
+  {
+    "event_id": 620,
+    "doc_id": 2226,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "新冠疫苗"
+  },
+  {
+    "event_id": 620,
+    "doc_id": 2226,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "新冠疫苗"
+  },
+  {
+    "event_id": 620,
+    "doc_id": 2226,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "新冠疫苗"
+  },
+  {
+    "event_id": 620,
+    "doc_id": 2226,
+    "start_sent_idx": 5,
+    "end_sent_idx": 5,
+    "argument": "新冠疫苗"
+  },
+  {
+    "event_id": 621,
+    "doc_id": 2229,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "张玉环"
+  },
+  {
+    "event_id": 621,
+    "doc_id": 2229,
+    "start_sent_idx": 9,
+    "end_sent_idx": 15,
+    "argument": "申请国家赔偿"
+  },
+  {
+    "event_id": 621,
+    "doc_id": 2229,
+    "start_sent_idx": 17,
+    "end_sent_idx": 18,
+    "argument": "国家"
+  },
+  {
+    "event_id": 621,
+    "doc_id": 2230,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "申请国家赔偿"
+  },
+  {
+    "event_id": 621,
+    "doc_id": 2230,
+    "start_sent_idx": 5,
+    "end_sent_idx": 5,
+    "argument": "国家赔偿"
+  },
+  {
+    "event_id": 621,
+    "doc_id": 2230,
+    "start_sent_idx": 7,
+    "end_sent_idx": 7,
+    "argument": "国家赔偿"
+  },
+  {
+    "event_id": 621,
+    "doc_id": 2231,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "张玉环"
+  },
+  {
+    "event_id": 621,
+    "doc_id": 2232,
+    "start_sent_idx": 1,
+    "end_sent_idx": 5,
+    "argument": "张玉环"
+  },
+  {
+    "event_id": 621,
+    "doc_id": 2233,
+    "start_sent_idx": 12,
+    "end_sent_idx": 12,
+    "argument": "国家赔偿"
+  },
+  {
+    "event_id": 621,
+    "doc_id": 2233,
+    "start_sent_idx": 18,
+    "end_sent_idx": 18,
+    "argument": "张玉环"
+  },
+  {
+    "event_id": 621,
+    "doc_id": 2233,
+    "start_sent_idx": 19,
+    "end_sent_idx": 19,
+    "argument": "张玉环"
+  },
+  {
+    "event_id": 621,
+    "doc_id": 2233,
+    "start_sent_idx": 20,
+    "end_sent_idx": 20,
+    "argument": "申请国家赔偿"
+  },
+  {
+    "event_id": 621,
+    "doc_id": 2233,
+    "start_sent_idx": 21,
+    "end_sent_idx": 21,
+    "argument": "张玉环"
+  },
+  {
+    "event_id": 622,
+    "doc_id": 2234,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "男子撕毕加索名画"
+  },
+  {
+    "event_id": 622,
+    "doc_id": 2234,
+    "start_sent_idx": 4,
+    "end_sent_idx": 4,
+    "argument": "男子撕毕加索名画"
+  },
+  {
+    "event_id": 622,
+    "doc_id": 2235,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "男子撕毕加索名画"
+  },
+  {
+    "event_id": 622,
+    "doc_id": 2235,
+    "start_sent_idx": 2,
+    "end_sent_idx": 3,
+    "argument": "男子撕毕加索名画被判18个月"
+  },
+  {
+    "event_id": 622,
+    "doc_id": 2235,
+    "start_sent_idx": 4,
+    "end_sent_idx": 5,
+    "argument": "男子撕毕加索名画被判18个月"
+  },
+  {
+    "event_id": 623,
+    "doc_id": 2236,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "义务教育"
+  },
+  {
+    "event_id": 623,
+    "doc_id": 2236,
+    "start_sent_idx": 6,
+    "end_sent_idx": 8,
+    "argument": "义务教育"
+  },
+  {
+    "event_id": 623,
+    "doc_id": 2236,
+    "start_sent_idx": 12,
+    "end_sent_idx": 14,
+    "argument": "教育"
+  },
+  {
+    "event_id": 623,
+    "doc_id": 2237,
+    "start_sent_idx": 4,
+    "end_sent_idx": 5,
+    "argument": "幼儿园"
+  },
+  {
+    "event_id": 623,
+    "doc_id": 2237,
+    "start_sent_idx": 6,
+    "end_sent_idx": 6,
+    "argument": "幼儿园"
+  },
+  {
+    "event_id": 623,
+    "doc_id": 2237,
+    "start_sent_idx": 8,
+    "end_sent_idx": 8,
+    "argument": "幼儿园"
+  },
+  {
+    "event_id": 623,
+    "doc_id": 2237,
+    "start_sent_idx": 9,
+    "end_sent_idx": 9,
+    "argument": "幼儿园纳入义务教育"
+  },
+  {
+    "event_id": 623,
+    "doc_id": 2237,
+    "start_sent_idx": 13,
+    "end_sent_idx": 13,
+    "argument": "幼儿园纳入义务教育"
+  },
+  {
+    "event_id": 623,
+    "doc_id": 2238,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "幼儿园"
+  },
+  {
+    "event_id": 623,
+    "doc_id": 2238,
+    "start_sent_idx": 1,
+    "end_sent_idx": 3,
+    "argument": "教育"
+  },
+  {
+    "event_id": 623,
+    "doc_id": 2238,
+    "start_sent_idx": 6,
+    "end_sent_idx": 14,
+    "argument": "教育"
+  },
+  {
+    "event_id": 623,
+    "doc_id": 2239,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "幼儿园"
+  },
+  {
+    "event_id": 623,
+    "doc_id": 2239,
+    "start_sent_idx": 1,
+    "end_sent_idx": 15,
+    "argument": "人大代表建议将幼儿园纳入义务教育"
+  },
+  {
+    "event_id": 623,
+    "doc_id": 2239,
+    "start_sent_idx": 16,
+    "end_sent_idx": 16,
+    "argument": "幼儿园纳入义务教育"
+  },
+  {
+    "event_id": 623,
+    "doc_id": 2239,
+    "start_sent_idx": 17,
+    "end_sent_idx": 23,
+    "argument": "人大代表建议将幼儿园纳入义务教育"
+  },
+  {
+    "event_id": 624,
+    "doc_id": 2240,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "日本核废水排海决定"
+  },
+  {
+    "event_id": 624,
+    "doc_id": 2240,
+    "start_sent_idx": 2,
+    "end_sent_idx": 2,
+    "argument": "日本核废水排海决定"
+  },
+  {
+    "event_id": 624,
+    "doc_id": 2240,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "日本核废水排海决定"
+  },
+  {
+    "event_id": 624,
+    "doc_id": 2240,
+    "start_sent_idx": 4,
+    "end_sent_idx": 12,
+    "argument": "日本核废水排海决定"
+  },
+  {
+    "event_id": 624,
+    "doc_id": 2241,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "日本核废水排海决定"
+  },
+  {
+    "event_id": 624,
+    "doc_id": 2241,
+    "start_sent_idx": 2,
+    "end_sent_idx": 2,
+    "argument": "日本核废水排海决定"
+  },
+  {
+    "event_id": 624,
+    "doc_id": 2241,
+    "start_sent_idx": 4,
+    "end_sent_idx": 5,
+    "argument": "日本核废水排海决定"
+  },
+  {
+    "event_id": 624,
+    "doc_id": 2241,
+    "start_sent_idx": 6,
+    "end_sent_idx": 11,
+    "argument": "日本核废水排海决定"
+  },
+  {
+    "event_id": 624,
+    "doc_id": 2241,
+    "start_sent_idx": 12,
+    "end_sent_idx": 13,
+    "argument": "日本核废水排海决定"
+  },
+  {
+    "event_id": 624,
+    "doc_id": 2241,
+    "start_sent_idx": 14,
+    "end_sent_idx": 16,
+    "argument": "日本"
+  },
+  {
+    "event_id": 624,
+    "doc_id": 2241,
+    "start_sent_idx": 17,
+    "end_sent_idx": 18,
+    "argument": "日本核废水排海决定"
+  },
+  {
+    "event_id": 624,
+    "doc_id": 2242,
+    "start_sent_idx": 0,
+    "end_sent_idx": 7,
+    "argument": "日本核废水排海决定"
+  },
+  {
+    "event_id": 624,
+    "doc_id": 2242,
+    "start_sent_idx": 8,
+    "end_sent_idx": 8,
+    "argument": "日本核废水排海决定"
+  },
+  {
+    "event_id": 625,
+    "doc_id": 2243,
+    "start_sent_idx": 2,
+    "end_sent_idx": 2,
+    "argument": "日企员工发918勿忘国耻"
+  },
+  {
+    "event_id": 625,
+    "doc_id": 2243,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "日企员工发918勿忘国耻"
+  },
+  {
+    "event_id": 625,
+    "doc_id": 2243,
+    "start_sent_idx": 4,
+    "end_sent_idx": 4,
+    "argument": "日企员工发918勿忘国耻"
+  },
+  {
+    "event_id": 625,
+    "doc_id": 2243,
+    "start_sent_idx": 5,
+    "end_sent_idx": 5,
+    "argument": "日企员工发918勿忘国耻被警告"
+  },
+  {
+    "event_id": 625,
+    "doc_id": 2243,
+    "start_sent_idx": 6,
+    "end_sent_idx": 6,
+    "argument": "日企员工发918勿忘国耻被警告"
+  },
+  {
+    "event_id": 625,
+    "doc_id": 2244,
+    "start_sent_idx": 1,
+    "end_sent_idx": 4,
+    "argument": "日企员工发918勿忘国耻被警告"
+  },
+  {
+    "event_id": 625,
+    "doc_id": 2244,
+    "start_sent_idx": 5,
+    "end_sent_idx": 5,
+    "argument": "日企员工发918勿忘国耻"
+  },
+  {
+    "event_id": 625,
+    "doc_id": 2244,
+    "start_sent_idx": 11,
+    "end_sent_idx": 14,
+    "argument": "日企员工发918勿忘国耻被警告"
+  },
+  {
+    "event_id": 625,
+    "doc_id": 2244,
+    "start_sent_idx": 15,
+    "end_sent_idx": 15,
+    "argument": "日企员工发918勿忘国耻被警告"
+  },
+  {
+    "event_id": 625,
+    "doc_id": 2245,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "日企员工发918勿忘国耻被警告"
+  },
+  {
+    "event_id": 625,
+    "doc_id": 2245,
+    "start_sent_idx": 2,
+    "end_sent_idx": 2,
+    "argument": "日企员工发918勿忘国耻被警告"
+  },
+  {
+    "event_id": 626,
+    "doc_id": 2246,
+    "start_sent_idx": 13,
+    "end_sent_idx": 14,
+    "argument": "獐子岛"
+  },
+  {
+    "event_id": 626,
+    "doc_id": 2246,
+    "start_sent_idx": 25,
+    "end_sent_idx": 25,
+    "argument": "獐子岛抵押扇贝获9000万融资"
+  },
+  {
+    "event_id": 626,
+    "doc_id": 2248,
+    "start_sent_idx": 4,
+    "end_sent_idx": 4,
+    "argument": "獐子岛抵押扇贝"
+  },
+  {
+    "event_id": 626,
+    "doc_id": 2248,
+    "start_sent_idx": 6,
+    "end_sent_idx": 6,
+    "argument": "獐子岛抵押扇贝获9000万融资"
+  },
+  {
+    "event_id": 627,
+    "doc_id": 2249,
+    "start_sent_idx": 2,
+    "end_sent_idx": 3,
+    "argument": "网络直播高额打赏"
+  },
+  {
+    "event_id": 627,
+    "doc_id": 2249,
+    "start_sent_idx": 5,
+    "end_sent_idx": 6,
+    "argument": "网络直播"
+  },
+  {
+    "event_id": 627,
+    "doc_id": 2249,
+    "start_sent_idx": 7,
+    "end_sent_idx": 10,
+    "argument": "网络直播高额打赏将被限制"
+  },
+  {
+    "event_id": 627,
+    "doc_id": 2251,
+    "start_sent_idx": 0,
+    "end_sent_idx": 1,
+    "argument": "网络直播"
+  },
+  {
+    "event_id": 627,
+    "doc_id": 2251,
+    "start_sent_idx": 15,
+    "end_sent_idx": 15,
+    "argument": "网络直播高额打赏将被限制"
+  },
+  {
+    "event_id": 627,
+    "doc_id": 2251,
+    "start_sent_idx": 17,
+    "end_sent_idx": 17,
+    "argument": "网络直播高额打赏将被限制"
+  },
+  {
+    "event_id": 627,
+    "doc_id": 2251,
+    "start_sent_idx": 18,
+    "end_sent_idx": 18,
+    "argument": "网络直播高额打赏将被限制"
+  },
+  {
+    "event_id": 628,
+    "doc_id": 2253,
+    "start_sent_idx": 2,
+    "end_sent_idx": 2,
+    "argument": "奥克斯"
+  },
+  {
+    "event_id": 628,
+    "doc_id": 2253,
+    "start_sent_idx": 4,
+    "end_sent_idx": 5,
+    "argument": "格力"
+  },
+  {
+    "event_id": 628,
+    "doc_id": 2254,
+    "start_sent_idx": 3,
+    "end_sent_idx": 4,
+    "argument": "奥克斯"
+  },
+  {
+    "event_id": 628,
+    "doc_id": 2254,
+    "start_sent_idx": 10,
+    "end_sent_idx": 10,
+    "argument": "奥克斯赔偿格力"
+  },
+  {
+    "event_id": 628,
+    "doc_id": 2254,
+    "start_sent_idx": 20,
+    "end_sent_idx": 20,
+    "argument": "格力"
+  },
+  {
+    "event_id": 628,
+    "doc_id": 2255,
+    "start_sent_idx": 9,
+    "end_sent_idx": 9,
+    "argument": "奥克斯赔偿格力"
+  },
+  {
+    "event_id": 628,
+    "doc_id": 2256,
+    "start_sent_idx": 10,
+    "end_sent_idx": 10,
+    "argument": "奥克斯赔偿格力"
+  },
+  {
+    "event_id": 628,
+    "doc_id": 2256,
+    "start_sent_idx": 12,
+    "end_sent_idx": 12,
+    "argument": "奥克斯"
+  },
+  {
+    "event_id": 628,
+    "doc_id": 2257,
+    "start_sent_idx": 5,
+    "end_sent_idx": 5,
+    "argument": "奥克斯"
+  },
+  {
+    "event_id": 628,
+    "doc_id": 2257,
+    "start_sent_idx": 7,
+    "end_sent_idx": 8,
+    "argument": "奥克斯赔偿格力"
+  },
+  {
+    "event_id": 628,
+    "doc_id": 2258,
+    "start_sent_idx": 2,
+    "end_sent_idx": 2,
+    "argument": "奥克斯"
+  },
+  {
+    "event_id": 628,
+    "doc_id": 2258,
+    "start_sent_idx": 4,
+    "end_sent_idx": 5,
+    "argument": "格力"
+  },
+  {
+    "event_id": 629,
+    "doc_id": 2259,
+    "start_sent_idx": 6,
+    "end_sent_idx": 8,
+    "argument": "特朗普"
+  },
+  {
+    "event_id": 629,
+    "doc_id": 2259,
+    "start_sent_idx": 9,
+    "end_sent_idx": 12,
+    "argument": "特朗普确认将再次参选总统"
+  },
+  {
+    "event_id": 629,
+    "doc_id": 2259,
+    "start_sent_idx": 13,
+    "end_sent_idx": 14,
+    "argument": "特朗普"
+  },
+  {
+    "event_id": 629,
+    "doc_id": 2261,
+    "start_sent_idx": 2,
+    "end_sent_idx": 3,
+    "argument": "特朗普确认将再次参选总统"
+  },
+  {
+    "event_id": 629,
+    "doc_id": 2261,
+    "start_sent_idx": 12,
+    "end_sent_idx": 12,
+    "argument": "特朗普确认将再次参选总统"
+  },
+  {
+    "event_id": 629,
+    "doc_id": 2261,
+    "start_sent_idx": 13,
+    "end_sent_idx": 14,
+    "argument": "特朗普确认将再次参选总统"
+  },
+  {
+    "event_id": 629,
+    "doc_id": 2262,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "特朗普"
+  },
+  {
+    "event_id": 629,
+    "doc_id": 2262,
+    "start_sent_idx": 4,
+    "end_sent_idx": 4,
+    "argument": "特朗普"
+  },
+  {
+    "event_id": 629,
+    "doc_id": 2262,
+    "start_sent_idx": 5,
+    "end_sent_idx": 5,
+    "argument": "特朗普"
+  },
+  {
+    "event_id": 629,
+    "doc_id": 2262,
+    "start_sent_idx": 7,
+    "end_sent_idx": 7,
+    "argument": "特朗普确认将再次参选总统"
+  },
+  {
+    "event_id": 629,
+    "doc_id": 2262,
+    "start_sent_idx": 8,
+    "end_sent_idx": 8,
+    "argument": "特朗普"
+  },
+  {
+    "event_id": 629,
+    "doc_id": 2262,
+    "start_sent_idx": 10,
+    "end_sent_idx": 14,
+    "argument": "特朗普"
+  },
+  {
+    "event_id": 629,
+    "doc_id": 2262,
+    "start_sent_idx": 15,
+    "end_sent_idx": 15,
+    "argument": "特朗普"
+  },
+  {
+    "event_id": 630,
+    "doc_id": 2263,
+    "start_sent_idx": 8,
+    "end_sent_idx": 10,
+    "argument": "美警察跪压弗洛伊德长达9分29秒"
+  },
+  {
+    "event_id": 630,
+    "doc_id": 2263,
+    "start_sent_idx": 11,
+    "end_sent_idx": 13,
+    "argument": "美警察跪压弗洛伊德长达9分29秒"
+  },
+  {
+    "event_id": 630,
+    "doc_id": 2263,
+    "start_sent_idx": 18,
+    "end_sent_idx": 18,
+    "argument": "美"
+  },
+  {
+    "event_id": 630,
+    "doc_id": 2264,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "美警察跪压弗洛伊德长达9分29秒"
+  },
+  {
+    "event_id": 630,
+    "doc_id": 2265,
+    "start_sent_idx": 4,
+    "end_sent_idx": 4,
+    "argument": "美警察跪压弗洛伊德长达9分29秒"
+  },
+  {
+    "event_id": 630,
+    "doc_id": 2266,
+    "start_sent_idx": 5,
+    "end_sent_idx": 5,
+    "argument": "美警察跪压弗洛伊德长达9分29秒"
+  },
+  {
+    "event_id": 631,
+    "doc_id": 2267,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "朝鲜不参加日本东京奥运会"
+  },
+  {
+    "event_id": 631,
+    "doc_id": 2267,
+    "start_sent_idx": 6,
+    "end_sent_idx": 6,
+    "argument": "朝鲜不参加日本东京奥运会"
+  },
+  {
+    "event_id": 631,
+    "doc_id": 2267,
+    "start_sent_idx": 7,
+    "end_sent_idx": 7,
+    "argument": "朝鲜不参加日本东京奥运会"
+  },
+  {
+    "event_id": 631,
+    "doc_id": 2268,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "朝鲜不参加日本东京奥运会"
+  },
+  {
+    "event_id": 631,
+    "doc_id": 2268,
+    "start_sent_idx": 3,
+    "end_sent_idx": 4,
+    "argument": "日本东京奥运会"
+  },
+  {
+    "event_id": 631,
+    "doc_id": 2269,
+    "start_sent_idx": 4,
+    "end_sent_idx": 4,
+    "argument": "朝鲜不参加日本东京奥运会"
+  },
+  {
+    "event_id": 631,
+    "doc_id": 2269,
+    "start_sent_idx": 9,
+    "end_sent_idx": 9,
+    "argument": "日本东京奥运会"
+  },
+  {
+    "event_id": 631,
+    "doc_id": 2270,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "日本东京奥运会"
+  },
+  {
+    "event_id": 631,
+    "doc_id": 2270,
+    "start_sent_idx": 2,
+    "end_sent_idx": 2,
+    "argument": "朝鲜不参加日本东京奥运会"
+  },
+  {
+    "event_id": 631,
+    "doc_id": 2270,
+    "start_sent_idx": 9,
+    "end_sent_idx": 9,
+    "argument": "朝鲜不参加日本东京奥运会"
+  },
+  {
+    "event_id": 631,
+    "doc_id": 2270,
+    "start_sent_idx": 12,
+    "end_sent_idx": 12,
+    "argument": "朝鲜不参加日本东京奥运会"
+  },
+  {
+    "event_id": 631,
+    "doc_id": 2270,
+    "start_sent_idx": 14,
+    "end_sent_idx": 14,
+    "argument": "朝鲜不参加日本东京奥运会"
+  },
+  {
+    "event_id": 631,
+    "doc_id": 2270,
+    "start_sent_idx": 15,
+    "end_sent_idx": 15,
+    "argument": "朝鲜不参加日本东京奥运会"
+  },
+  {
+    "event_id": 631,
+    "doc_id": 2270,
+    "start_sent_idx": 19,
+    "end_sent_idx": 19,
+    "argument": "朝鲜不参加日本东京奥运会"
+  },
+  {
+    "event_id": 631,
+    "doc_id": 2270,
+    "start_sent_idx": 22,
+    "end_sent_idx": 22,
+    "argument": "朝鲜不参加日本东京奥运会"
+  },
+  {
+    "event_id": 631,
+    "doc_id": 2270,
+    "start_sent_idx": 23,
+    "end_sent_idx": 23,
+    "argument": "朝鲜不参加日本东京奥运会"
+  },
+  {
+    "event_id": 631,
+    "doc_id": 2270,
+    "start_sent_idx": 24,
+    "end_sent_idx": 24,
+    "argument": "朝鲜不参加日本东京奥运会"
+  },
+  {
+    "event_id": 631,
+    "doc_id": 2270,
+    "start_sent_idx": 25,
+    "end_sent_idx": 25,
+    "argument": "朝鲜不参加日本东京奥运会"
+  },
+  {
+    "event_id": 631,
+    "doc_id": 2271,
+    "start_sent_idx": 7,
+    "end_sent_idx": 7,
+    "argument": "日本东京奥运会"
+  },
+  {
+    "event_id": 631,
+    "doc_id": 2271,
+    "start_sent_idx": 8,
+    "end_sent_idx": 8,
+    "argument": "日本东京奥运会"
+  },
+  {
+    "event_id": 631,
+    "doc_id": 2272,
+    "start_sent_idx": 4,
+    "end_sent_idx": 6,
+    "argument": "朝鲜不参加日本东京奥运会"
+  },
+  {
+    "event_id": 631,
+    "doc_id": 2273,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "朝鲜不参加日本东京奥运会"
+  },
+  {
+    "event_id": 631,
+    "doc_id": 2273,
+    "start_sent_idx": 5,
+    "end_sent_idx": 5,
+    "argument": "朝鲜不参加日本东京奥运会"
+  },
+  {
+    "event_id": 631,
+    "doc_id": 2274,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "朝鲜不参加日本东京奥运会"
+  },
+  {
+    "event_id": 631,
+    "doc_id": 2274,
+    "start_sent_idx": 11,
+    "end_sent_idx": 11,
+    "argument": "朝鲜不参加日本东京奥运会"
+  },
+  {
+    "event_id": 631,
+    "doc_id": 2274,
+    "start_sent_idx": 17,
+    "end_sent_idx": 17,
+    "argument": "朝鲜不参加日本东京奥运会"
+  },
+  {
+    "event_id": 631,
+    "doc_id": 2274,
+    "start_sent_idx": 18,
+    "end_sent_idx": 18,
+    "argument": "朝鲜"
+  },
+  {
+    "event_id": 631,
+    "doc_id": 2274,
+    "start_sent_idx": 24,
+    "end_sent_idx": 28,
+    "argument": "朝鲜不参加日本东京奥运会"
+  },
+  {
+    "event_id": 632,
+    "doc_id": 2275,
+    "start_sent_idx": 1,
+    "end_sent_idx": 2,
+    "argument": "赛前卖签名"
+  },
+  {
+    "event_id": 632,
+    "doc_id": 2275,
+    "start_sent_idx": 4,
+    "end_sent_idx": 4,
+    "argument": "赛前卖签名"
+  },
+  {
+    "event_id": 632,
+    "doc_id": 2276,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "赛前卖签名"
+  },
+  {
+    "event_id": 632,
+    "doc_id": 2276,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "赛前卖签名"
+  },
+  {
+    "event_id": 632,
+    "doc_id": 2276,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "赛前卖签名"
+  },
+  {
+    "event_id": 632,
+    "doc_id": 2276,
+    "start_sent_idx": 17,
+    "end_sent_idx": 18,
+    "argument": "赛前卖签名"
+  },
+  {
+    "event_id": 632,
+    "doc_id": 2276,
+    "start_sent_idx": 19,
+    "end_sent_idx": 19,
+    "argument": "赛前卖签名"
+  },
+  {
+    "event_id": 632,
+    "doc_id": 2277,
+    "start_sent_idx": 0,
+    "end_sent_idx": 1,
+    "argument": "被传赛前卖签名"
+  },
+  {
+    "event_id": 633,
+    "doc_id": 2278,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "鸿蒙系统"
+  },
+  {
+    "event_id": 633,
+    "doc_id": 2278,
+    "start_sent_idx": 2,
+    "end_sent_idx": 2,
+    "argument": "鸿蒙系统"
+  },
+  {
+    "event_id": 634,
+    "doc_id": 2279,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "狗不理包子"
+  },
+  {
+    "event_id": 634,
+    "doc_id": 2280,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "被网友评难吃 狗不理包子店报警"
+  },
+  {
+    "event_id": 634,
+    "doc_id": 2280,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "被网友评难吃"
+  },
+  {
+    "event_id": 634,
+    "doc_id": 2280,
+    "start_sent_idx": 2,
+    "end_sent_idx": 3,
+    "argument": "狗不理包子店"
+  },
+  {
+    "event_id": 634,
+    "doc_id": 2280,
+    "start_sent_idx": 4,
+    "end_sent_idx": 4,
+    "argument": "被网友评难吃"
+  },
+  {
+    "event_id": 634,
+    "doc_id": 2280,
+    "start_sent_idx": 5,
+    "end_sent_idx": 5,
+    "argument": "被网友评难吃"
+  },
+  {
+    "event_id": 634,
+    "doc_id": 2280,
+    "start_sent_idx": 6,
+    "end_sent_idx": 6,
+    "argument": "被网友评难吃 狗不理包子店报警"
+  },
+  {
+    "event_id": 634,
+    "doc_id": 2281,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "狗不理包子"
+  },
+  {
+    "event_id": 634,
+    "doc_id": 2281,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "狗不理包子店"
+  },
+  {
+    "event_id": 634,
+    "doc_id": 2281,
+    "start_sent_idx": 6,
+    "end_sent_idx": 12,
+    "argument": "被网友评难吃 狗不理包子店报警"
+  },
+  {
+    "event_id": 634,
+    "doc_id": 2282,
+    "start_sent_idx": 6,
+    "end_sent_idx": 7,
+    "argument": "狗不理包子"
+  },
+  {
+    "event_id": 634,
+    "doc_id": 2282,
+    "start_sent_idx": 8,
+    "end_sent_idx": 10,
+    "argument": "被网友评难吃"
+  },
+  {
+    "event_id": 634,
+    "doc_id": 2282,
+    "start_sent_idx": 13,
+    "end_sent_idx": 18,
+    "argument": "被网友评难吃 狗不理包子店报警"
+  },
+  {
+    "event_id": 634,
+    "doc_id": 2282,
+    "start_sent_idx": 20,
+    "end_sent_idx": 22,
+    "argument": "狗不理包子店"
+  },
+  {
+    "event_id": 634,
+    "doc_id": 2282,
+    "start_sent_idx": 23,
+    "end_sent_idx": 24,
+    "argument": "狗不理包子店"
+  },
+  {
+    "event_id": 634,
+    "doc_id": 2283,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "狗不理包子"
+  },
+  {
+    "event_id": 634,
+    "doc_id": 2283,
+    "start_sent_idx": 2,
+    "end_sent_idx": 2,
+    "argument": "被网友评难吃 狗不理包子店报警"
+  },
+  {
+    "event_id": 634,
+    "doc_id": 2283,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "狗不理包子"
+  },
+  {
+    "event_id": 634,
+    "doc_id": 2283,
+    "start_sent_idx": 4,
+    "end_sent_idx": 4,
+    "argument": "被网友评难吃 狗不理包子店报警"
+  },
+  {
+    "event_id": 634,
+    "doc_id": 2283,
+    "start_sent_idx": 5,
+    "end_sent_idx": 10,
+    "argument": "被网友评难吃 狗不理包子店报警"
+  },
+  {
+    "event_id": 634,
+    "doc_id": 2283,
+    "start_sent_idx": 11,
+    "end_sent_idx": 11,
+    "argument": "被网友评难吃 狗不理包子店报警"
+  },
+  {
+    "event_id": 634,
+    "doc_id": 2284,
+    "start_sent_idx": 4,
+    "end_sent_idx": 5,
+    "argument": "狗不理包子店"
+  },
+  {
+    "event_id": 634,
+    "doc_id": 2284,
+    "start_sent_idx": 8,
+    "end_sent_idx": 9,
+    "argument": "狗不理包子店"
+  },
+  {
+    "event_id": 634,
+    "doc_id": 2284,
+    "start_sent_idx": 12,
+    "end_sent_idx": 12,
+    "argument": "被网友评难吃"
+  },
+  {
+    "event_id": 634,
+    "doc_id": 2284,
+    "start_sent_idx": 14,
+    "end_sent_idx": 14,
+    "argument": "被网友评难吃 狗不理包子店报警"
+  },
+  {
+    "event_id": 634,
+    "doc_id": 2284,
+    "start_sent_idx": 19,
+    "end_sent_idx": 19,
+    "argument": "被网友评难吃 狗不理包子店报警"
+  },
+  {
+    "event_id": 634,
+    "doc_id": 2284,
+    "start_sent_idx": 20,
+    "end_sent_idx": 20,
+    "argument": "被网友评难吃 狗不理包子店报警"
+  },
+  {
+    "event_id": 634,
+    "doc_id": 2284,
+    "start_sent_idx": 21,
+    "end_sent_idx": 21,
+    "argument": "被网友评难吃"
+  },
+  {
+    "event_id": 634,
+    "doc_id": 2284,
+    "start_sent_idx": 29,
+    "end_sent_idx": 29,
+    "argument": "被网友评难吃 狗不理包子店报警"
+  },
+  {
+    "event_id": 634,
+    "doc_id": 2284,
+    "start_sent_idx": 30,
+    "end_sent_idx": 30,
+    "argument": "被网友评难吃 狗不理包子店报警"
+  },
+  {
+    "event_id": 634,
+    "doc_id": 2284,
+    "start_sent_idx": 31,
+    "end_sent_idx": 31,
+    "argument": "被网友评难吃 狗不理包子店报警"
+  },
+  {
+    "event_id": 635,
+    "doc_id": 2285,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "捷克钢琴商丢大陆订单"
+  },
+  {
+    "event_id": 635,
+    "doc_id": 2285,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "捷克钢琴商丢大陆订单"
+  },
+  {
+    "event_id": 635,
+    "doc_id": 2285,
+    "start_sent_idx": 4,
+    "end_sent_idx": 4,
+    "argument": "捷克钢琴商丢大陆订单"
+  },
+  {
+    "event_id": 635,
+    "doc_id": 2285,
+    "start_sent_idx": 9,
+    "end_sent_idx": 10,
+    "argument": "捷克钢琴商丢大陆订单"
+  },
+  {
+    "event_id": 635,
+    "doc_id": 2286,
+    "start_sent_idx": 4,
+    "end_sent_idx": 7,
+    "argument": "捷克钢琴商丢大陆订单"
+  },
+  {
+    "event_id": 635,
+    "doc_id": 2286,
+    "start_sent_idx": 8,
+    "end_sent_idx": 8,
+    "argument": "捷克钢琴商丢大陆订单"
+  },
+  {
+    "event_id": 635,
+    "doc_id": 2287,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "捷克"
+  },
+  {
+    "event_id": 635,
+    "doc_id": 2287,
+    "start_sent_idx": 2,
+    "end_sent_idx": 2,
+    "argument": "捷克"
+  },
+  {
+    "event_id": 635,
+    "doc_id": 2287,
+    "start_sent_idx": 7,
+    "end_sent_idx": 8,
+    "argument": "捷克钢琴商"
+  },
+  {
+    "event_id": 635,
+    "doc_id": 2287,
+    "start_sent_idx": 16,
+    "end_sent_idx": 17,
+    "argument": "捷克"
+  },
+  {
+    "event_id": 635,
+    "doc_id": 2287,
+    "start_sent_idx": 18,
+    "end_sent_idx": 18,
+    "argument": "捷克"
+  },
+  {
+    "event_id": 635,
+    "doc_id": 2287,
+    "start_sent_idx": 22,
+    "end_sent_idx": 23,
+    "argument": "捷克"
+  },
+  {
+    "event_id": 635,
+    "doc_id": 2287,
+    "start_sent_idx": 26,
+    "end_sent_idx": 26,
+    "argument": "捷克"
+  },
+  {
+    "event_id": 636,
+    "doc_id": 2288,
+    "start_sent_idx": 9,
+    "end_sent_idx": 10,
+    "argument": "三星手机系统崩溃"
+  },
+  {
+    "event_id": 636,
+    "doc_id": 2288,
+    "start_sent_idx": 11,
+    "end_sent_idx": 12,
+    "argument": "三星手机系统崩溃"
+  },
+  {
+    "event_id": 636,
+    "doc_id": 2288,
+    "start_sent_idx": 16,
+    "end_sent_idx": 16,
+    "argument": "三星手机系统崩溃"
+  },
+  {
+    "event_id": 636,
+    "doc_id": 2289,
+    "start_sent_idx": 5,
+    "end_sent_idx": 7,
+    "argument": "三星手机系统崩溃"
+  },
+  {
+    "event_id": 636,
+    "doc_id": 2290,
+    "start_sent_idx": 4,
+    "end_sent_idx": 4,
+    "argument": "三星手机系统崩溃"
+  },
+  {
+    "event_id": 636,
+    "doc_id": 2290,
+    "start_sent_idx": 6,
+    "end_sent_idx": 6,
+    "argument": "三星手机系统崩溃"
+  },
+  {
+    "event_id": 637,
+    "doc_id": 2291,
+    "start_sent_idx": 0,
+    "end_sent_idx": 2,
+    "argument": "普京再次回应拜登“杀手”言论"
+  },
+  {
+    "event_id": 637,
+    "doc_id": 2291,
+    "start_sent_idx": 3,
+    "end_sent_idx": 6,
+    "argument": "拜登"
+  },
+  {
+    "event_id": 637,
+    "doc_id": 2291,
+    "start_sent_idx": 7,
+    "end_sent_idx": 8,
+    "argument": "普京"
+  },
+  {
+    "event_id": 637,
+    "doc_id": 2291,
+    "start_sent_idx": 10,
+    "end_sent_idx": 10,
+    "argument": "拜登“杀手”言论"
+  },
+  {
+    "event_id": 637,
+    "doc_id": 2292,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "拜登“杀手”言论"
+  },
+  {
+    "event_id": 637,
+    "doc_id": 2292,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "拜登“杀手”言论"
+  },
+  {
+    "event_id": 637,
+    "doc_id": 2292,
+    "start_sent_idx": 8,
+    "end_sent_idx": 9,
+    "argument": "拜登"
+  },
+  {
+    "event_id": 637,
+    "doc_id": 2292,
+    "start_sent_idx": 10,
+    "end_sent_idx": 10,
+    "argument": "拜登"
+  },
+  {
+    "event_id": 637,
+    "doc_id": 2292,
+    "start_sent_idx": 11,
+    "end_sent_idx": 11,
+    "argument": "拜登"
+  },
+  {
+    "event_id": 637,
+    "doc_id": 2293,
+    "start_sent_idx": 1,
+    "end_sent_idx": 2,
+    "argument": "普京"
+  },
+  {
+    "event_id": 637,
+    "doc_id": 2293,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "普京"
+  },
+  {
+    "event_id": 637,
+    "doc_id": 2293,
+    "start_sent_idx": 4,
+    "end_sent_idx": 4,
+    "argument": "拜登"
+  },
+  {
+    "event_id": 637,
+    "doc_id": 2293,
+    "start_sent_idx": 5,
+    "end_sent_idx": 6,
+    "argument": "普京"
+  },
+  {
+    "event_id": 637,
+    "doc_id": 2293,
+    "start_sent_idx": 15,
+    "end_sent_idx": 15,
+    "argument": "拜登"
+  },
+  {
+    "event_id": 637,
+    "doc_id": 2294,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "拜登"
+  },
+  {
+    "event_id": 637,
+    "doc_id": 2294,
+    "start_sent_idx": 2,
+    "end_sent_idx": 2,
+    "argument": "普京"
+  },
+  {
+    "event_id": 637,
+    "doc_id": 2294,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "拜登“杀手”言论"
+  },
+  {
+    "event_id": 637,
+    "doc_id": 2294,
+    "start_sent_idx": 4,
+    "end_sent_idx": 4,
+    "argument": "拜登“杀手”言论"
+  },
+  {
+    "event_id": 637,
+    "doc_id": 2294,
+    "start_sent_idx": 7,
+    "end_sent_idx": 7,
+    "argument": "普京再次回应拜登“杀手”言论"
+  },
+  {
+    "event_id": 637,
+    "doc_id": 2294,
+    "start_sent_idx": 8,
+    "end_sent_idx": 8,
+    "argument": "拜登“杀手”言论"
+  },
+  {
+    "event_id": 637,
+    "doc_id": 2294,
+    "start_sent_idx": 10,
+    "end_sent_idx": 10,
+    "argument": "普京"
+  },
+  {
+    "event_id": 637,
+    "doc_id": 2294,
+    "start_sent_idx": 11,
+    "end_sent_idx": 11,
+    "argument": "普京"
+  },
+  {
+    "event_id": 637,
+    "doc_id": 2294,
+    "start_sent_idx": 12,
+    "end_sent_idx": 12,
+    "argument": "拜登“杀手”言论"
+  },
+  {
+    "event_id": 637,
+    "doc_id": 2294,
+    "start_sent_idx": 13,
+    "end_sent_idx": 13,
+    "argument": "普京再次回应拜登“杀手”言论"
+  },
+  {
+    "event_id": 637,
+    "doc_id": 2294,
+    "start_sent_idx": 14,
+    "end_sent_idx": 15,
+    "argument": "拜登“杀手”言论"
+  },
+  {
+    "event_id": 637,
+    "doc_id": 2294,
+    "start_sent_idx": 16,
+    "end_sent_idx": 17,
+    "argument": "拜登“杀手”言论"
+  },
+  {
+    "event_id": 637,
+    "doc_id": 2294,
+    "start_sent_idx": 18,
+    "end_sent_idx": 19,
+    "argument": "拜登“杀手”言论"
+  },
+  {
+    "event_id": 637,
+    "doc_id": 2295,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "普京"
+  },
+  {
+    "event_id": 637,
+    "doc_id": 2295,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "普京"
+  },
+  {
+    "event_id": 637,
+    "doc_id": 2295,
+    "start_sent_idx": 2,
+    "end_sent_idx": 2,
+    "argument": "普京"
+  },
+  {
+    "event_id": 637,
+    "doc_id": 2295,
+    "start_sent_idx": 5,
+    "end_sent_idx": 6,
+    "argument": "普京"
+  },
+  {
+    "event_id": 637,
+    "doc_id": 2295,
+    "start_sent_idx": 7,
+    "end_sent_idx": 8,
+    "argument": "普京"
+  },
+  {
+    "event_id": 637,
+    "doc_id": 2295,
+    "start_sent_idx": 11,
+    "end_sent_idx": 11,
+    "argument": "拜登"
+  },
+  {
+    "event_id": 637,
+    "doc_id": 2296,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "普京"
+  },
+  {
+    "event_id": 637,
+    "doc_id": 2296,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "普京"
+  },
+  {
+    "event_id": 637,
+    "doc_id": 2296,
+    "start_sent_idx": 4,
+    "end_sent_idx": 4,
+    "argument": "普京"
+  },
+  {
+    "event_id": 637,
+    "doc_id": 2296,
+    "start_sent_idx": 5,
+    "end_sent_idx": 5,
+    "argument": "普京"
+  },
+  {
+    "event_id": 637,
+    "doc_id": 2296,
+    "start_sent_idx": 8,
+    "end_sent_idx": 8,
+    "argument": "拜登“杀手”言论"
+  },
+  {
+    "event_id": 637,
+    "doc_id": 2296,
+    "start_sent_idx": 9,
+    "end_sent_idx": 9,
+    "argument": "拜登“杀手”言论"
+  },
+  {
+    "event_id": 637,
+    "doc_id": 2297,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "普京"
+  },
+  {
+    "event_id": 637,
+    "doc_id": 2297,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "普京"
+  },
+  {
+    "event_id": 637,
+    "doc_id": 2297,
+    "start_sent_idx": 7,
+    "end_sent_idx": 8,
+    "argument": "拜登“杀手”言论"
+  },
+  {
+    "event_id": 637,
+    "doc_id": 2297,
+    "start_sent_idx": 9,
+    "end_sent_idx": 10,
+    "argument": "拜登“杀手”言论"
+  },
+  {
+    "event_id": 637,
+    "doc_id": 2297,
+    "start_sent_idx": 11,
+    "end_sent_idx": 11,
+    "argument": "拜登“杀手”言论"
+  },
+  {
+    "event_id": 637,
+    "doc_id": 2297,
+    "start_sent_idx": 12,
+    "end_sent_idx": 12,
+    "argument": "拜登“杀手”言论"
+  },
+  {
+    "event_id": 637,
+    "doc_id": 2297,
+    "start_sent_idx": 15,
+    "end_sent_idx": 16,
+    "argument": "拜登“杀手”言论"
+  },
+  {
+    "event_id": 637,
+    "doc_id": 2297,
+    "start_sent_idx": 19,
+    "end_sent_idx": 19,
+    "argument": "拜登“杀手”言论"
+  },
+  {
+    "event_id": 638,
+    "doc_id": 2298,
+    "start_sent_idx": 11,
+    "end_sent_idx": 12,
+    "argument": "冯小刚"
+  },
+  {
+    "event_id": 638,
+    "doc_id": 2299,
+    "start_sent_idx": 16,
+    "end_sent_idx": 16,
+    "argument": "冯小刚"
+  },
+  {
+    "event_id": 638,
+    "doc_id": 2299,
+    "start_sent_idx": 29,
+    "end_sent_idx": 32,
+    "argument": "对赌"
+  },
+  {
+    "event_id": 638,
+    "doc_id": 2300,
+    "start_sent_idx": 7,
+    "end_sent_idx": 7,
+    "argument": "冯小刚对赌失败赔偿华谊2.3亿"
+  },
+  {
+    "event_id": 639,
+    "doc_id": 2301,
+    "start_sent_idx": 5,
+    "end_sent_idx": 5,
+    "argument": "腾讯第一大股东宣布减持"
+  },
+  {
+    "event_id": 639,
+    "doc_id": 2301,
+    "start_sent_idx": 6,
+    "end_sent_idx": 8,
+    "argument": "腾讯第一大股东宣布减持"
+  },
+  {
+    "event_id": 639,
+    "doc_id": 2301,
+    "start_sent_idx": 13,
+    "end_sent_idx": 13,
+    "argument": "腾讯第一大股东宣布减持"
+  },
+  {
+    "event_id": 639,
+    "doc_id": 2301,
+    "start_sent_idx": 22,
+    "end_sent_idx": 22,
+    "argument": "腾讯"
+  },
+  {
+    "event_id": 639,
+    "doc_id": 2301,
+    "start_sent_idx": 31,
+    "end_sent_idx": 31,
+    "argument": "腾讯第一大股东宣布减持"
+  },
+  {
+    "event_id": 639,
+    "doc_id": 2302,
+    "start_sent_idx": 9,
+    "end_sent_idx": 9,
+    "argument": "腾讯第一大股东宣布减持"
+  },
+  {
+    "event_id": 639,
+    "doc_id": 2302,
+    "start_sent_idx": 10,
+    "end_sent_idx": 10,
+    "argument": "腾讯"
+  },
+  {
+    "event_id": 640,
+    "doc_id": 2303,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "杨洁篪"
+  },
+  {
+    "event_id": 640,
+    "doc_id": 2303,
+    "start_sent_idx": 13,
+    "end_sent_idx": 18,
+    "argument": "俄"
+  },
+  {
+    "event_id": 640,
+    "doc_id": 2303,
+    "start_sent_idx": 19,
+    "end_sent_idx": 20,
+    "argument": "俄"
+  },
+  {
+    "event_id": 640,
+    "doc_id": 2304,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "杨洁篪强硬回应"
+  },
+  {
+    "event_id": 640,
+    "doc_id": 2305,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "杨洁篪强硬回应"
+  },
+  {
+    "event_id": 640,
+    "doc_id": 2305,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "杨洁篪强硬回应"
+  },
+  {
+    "event_id": 640,
+    "doc_id": 2305,
+    "start_sent_idx": 2,
+    "end_sent_idx": 2,
+    "argument": "杨洁篪强硬回应"
+  },
+  {
+    "event_id": 640,
+    "doc_id": 2305,
+    "start_sent_idx": 4,
+    "end_sent_idx": 4,
+    "argument": "杨洁篪强硬回应"
+  },
+  {
+    "event_id": 641,
+    "doc_id": 2306,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "普京邀约"
+  },
+  {
+    "event_id": 641,
+    "doc_id": 2306,
+    "start_sent_idx": 5,
+    "end_sent_idx": 5,
+    "argument": "拜登拒绝普京邀约"
+  },
+  {
+    "event_id": 641,
+    "doc_id": 2306,
+    "start_sent_idx": 6,
+    "end_sent_idx": 6,
+    "argument": "拜登拒绝普京邀约"
+  },
+  {
+    "event_id": 641,
+    "doc_id": 2306,
+    "start_sent_idx": 7,
+    "end_sent_idx": 8,
+    "argument": "拜登拒绝普京邀约"
+  },
+  {
+    "event_id": 641,
+    "doc_id": 2306,
+    "start_sent_idx": 9,
+    "end_sent_idx": 9,
+    "argument": "普京邀约"
+  },
+  {
+    "event_id": 641,
+    "doc_id": 2306,
+    "start_sent_idx": 10,
+    "end_sent_idx": 10,
+    "argument": "拜登拒绝普京邀约"
+  },
+  {
+    "event_id": 641,
+    "doc_id": 2306,
+    "start_sent_idx": 11,
+    "end_sent_idx": 12,
+    "argument": "拜登拒绝普京邀约"
+  },
+  {
+    "event_id": 641,
+    "doc_id": 2306,
+    "start_sent_idx": 13,
+    "end_sent_idx": 13,
+    "argument": "拜登"
+  },
+  {
+    "event_id": 641,
+    "doc_id": 2306,
+    "start_sent_idx": 15,
+    "end_sent_idx": 15,
+    "argument": "拜登"
+  },
+  {
+    "event_id": 641,
+    "doc_id": 2307,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "拜登拒绝普京邀约"
+  },
+  {
+    "event_id": 641,
+    "doc_id": 2307,
+    "start_sent_idx": 1,
+    "end_sent_idx": 4,
+    "argument": "拜登拒绝普京邀约"
+  },
+  {
+    "event_id": 641,
+    "doc_id": 2307,
+    "start_sent_idx": 5,
+    "end_sent_idx": 5,
+    "argument": "拜登"
+  },
+  {
+    "event_id": 641,
+    "doc_id": 2307,
+    "start_sent_idx": 7,
+    "end_sent_idx": 7,
+    "argument": "拜登拒绝普京邀约"
+  },
+  {
+    "event_id": 641,
+    "doc_id": 2307,
+    "start_sent_idx": 8,
+    "end_sent_idx": 8,
+    "argument": "拜登拒绝普京邀约"
+  },
+  {
+    "event_id": 641,
+    "doc_id": 2307,
+    "start_sent_idx": 9,
+    "end_sent_idx": 9,
+    "argument": "拜登拒绝普京邀约"
+  },
+  {
+    "event_id": 641,
+    "doc_id": 2307,
+    "start_sent_idx": 10,
+    "end_sent_idx": 11,
+    "argument": "拜登拒绝普京邀约"
+  },
+  {
+    "event_id": 641,
+    "doc_id": 2307,
+    "start_sent_idx": 12,
+    "end_sent_idx": 12,
+    "argument": "普京"
+  },
+  {
+    "event_id": 641,
+    "doc_id": 2307,
+    "start_sent_idx": 13,
+    "end_sent_idx": 13,
+    "argument": "拜登"
+  },
+  {
+    "event_id": 641,
+    "doc_id": 2307,
+    "start_sent_idx": 14,
+    "end_sent_idx": 14,
+    "argument": "拜登"
+  },
+  {
+    "event_id": 641,
+    "doc_id": 2307,
+    "start_sent_idx": 15,
+    "end_sent_idx": 15,
+    "argument": "普京"
+  },
+  {
+    "event_id": 641,
+    "doc_id": 2308,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "拜登拒绝普京邀约"
+  },
+  {
+    "event_id": 641,
+    "doc_id": 2308,
+    "start_sent_idx": 4,
+    "end_sent_idx": 5,
+    "argument": "拜登拒绝普京邀约"
+  },
+  {
+    "event_id": 641,
+    "doc_id": 2308,
+    "start_sent_idx": 6,
+    "end_sent_idx": 6,
+    "argument": "拜登"
+  },
+  {
+    "event_id": 641,
+    "doc_id": 2308,
+    "start_sent_idx": 8,
+    "end_sent_idx": 8,
+    "argument": "拜登拒绝普京邀约"
+  },
+  {
+    "event_id": 641,
+    "doc_id": 2308,
+    "start_sent_idx": 9,
+    "end_sent_idx": 9,
+    "argument": "拜登拒绝普京邀约"
+  },
+  {
+    "event_id": 641,
+    "doc_id": 2308,
+    "start_sent_idx": 10,
+    "end_sent_idx": 10,
+    "argument": "拜登拒绝普京邀约"
+  },
+  {
+    "event_id": 641,
+    "doc_id": 2308,
+    "start_sent_idx": 11,
+    "end_sent_idx": 11,
+    "argument": "拜登拒绝普京邀约"
+  },
+  {
+    "event_id": 641,
+    "doc_id": 2308,
+    "start_sent_idx": 12,
+    "end_sent_idx": 12,
+    "argument": "普京"
+  },
+  {
+    "event_id": 641,
+    "doc_id": 2308,
+    "start_sent_idx": 13,
+    "end_sent_idx": 13,
+    "argument": "拜登"
+  },
+  {
+    "event_id": 641,
+    "doc_id": 2309,
+    "start_sent_idx": 0,
+    "end_sent_idx": 4,
+    "argument": "拜登"
+  },
+  {
+    "event_id": 641,
+    "doc_id": 2309,
+    "start_sent_idx": 6,
+    "end_sent_idx": 6,
+    "argument": "俄"
+  },
+  {
+    "event_id": 641,
+    "doc_id": 2309,
+    "start_sent_idx": 11,
+    "end_sent_idx": 13,
+    "argument": "拜登拒绝普京邀约"
+  },
+  {
+    "event_id": 641,
+    "doc_id": 2309,
+    "start_sent_idx": 14,
+    "end_sent_idx": 14,
+    "argument": "拜登拒绝普京邀约"
+  },
+  {
+    "event_id": 641,
+    "doc_id": 2309,
+    "start_sent_idx": 15,
+    "end_sent_idx": 15,
+    "argument": "拜登"
+  },
+  {
+    "event_id": 641,
+    "doc_id": 2309,
+    "start_sent_idx": 17,
+    "end_sent_idx": 17,
+    "argument": "普京"
+  },
+  {
+    "event_id": 642,
+    "doc_id": 2310,
+    "start_sent_idx": 4,
+    "end_sent_idx": 4,
+    "argument": "新冠阳性男子篡改核酸报告"
+  },
+  {
+    "event_id": 642,
+    "doc_id": 2311,
+    "start_sent_idx": 1,
+    "end_sent_idx": 2,
+    "argument": "新冠阳性男子篡改核酸报告回国"
+  },
+  {
+    "event_id": 642,
+    "doc_id": 2311,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "核酸报告"
+  },
+  {
+    "event_id": 642,
+    "doc_id": 2311,
+    "start_sent_idx": 4,
+    "end_sent_idx": 4,
+    "argument": "篡改核酸报告"
+  },
+  {
+    "event_id": 642,
+    "doc_id": 2312,
+    "start_sent_idx": 4,
+    "end_sent_idx": 4,
+    "argument": "新冠阳性男子篡改核酸报告"
+  },
+  {
+    "event_id": 643,
+    "doc_id": 2314,
+    "start_sent_idx": 10,
+    "end_sent_idx": 11,
+    "argument": "员工猝死"
+  },
+  {
+    "event_id": 643,
+    "doc_id": 2314,
+    "start_sent_idx": 17,
+    "end_sent_idx": 17,
+    "argument": "员工猝死"
+  },
+  {
+    "event_id": 643,
+    "doc_id": 2314,
+    "start_sent_idx": 20,
+    "end_sent_idx": 23,
+    "argument": "拼多多员工猝死"
+  },
+  {
+    "event_id": 643,
+    "doc_id": 2315,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "拼多多"
+  },
+  {
+    "event_id": 643,
+    "doc_id": 2315,
+    "start_sent_idx": 8,
+    "end_sent_idx": 8,
+    "argument": "拼多多员工猝死"
+  },
+  {
+    "event_id": 643,
+    "doc_id": 2315,
+    "start_sent_idx": 16,
+    "end_sent_idx": 17,
+    "argument": "拼多多员工猝死"
+  },
+  {
+    "event_id": 644,
+    "doc_id": 2316,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "肯德基食物银行遭哄抢"
+  },
+  {
+    "event_id": 644,
+    "doc_id": 2316,
+    "start_sent_idx": 8,
+    "end_sent_idx": 8,
+    "argument": "肯德基食物银行遭哄抢"
+  },
+  {
+    "event_id": 644,
+    "doc_id": 2316,
+    "start_sent_idx": 10,
+    "end_sent_idx": 10,
+    "argument": "肯德基食物银行"
+  },
+  {
+    "event_id": 644,
+    "doc_id": 2316,
+    "start_sent_idx": 13,
+    "end_sent_idx": 14,
+    "argument": "肯德基食物银行"
+  },
+  {
+    "event_id": 644,
+    "doc_id": 2316,
+    "start_sent_idx": 15,
+    "end_sent_idx": 15,
+    "argument": "肯德基食物银行遭哄抢"
+  },
+  {
+    "event_id": 644,
+    "doc_id": 2316,
+    "start_sent_idx": 16,
+    "end_sent_idx": 16,
+    "argument": "肯德基食物银行遭哄抢"
+  },
+  {
+    "event_id": 644,
+    "doc_id": 2317,
+    "start_sent_idx": 1,
+    "end_sent_idx": 7,
+    "argument": "肯德基食物银行"
+  },
+  {
+    "event_id": 644,
+    "doc_id": 2317,
+    "start_sent_idx": 9,
+    "end_sent_idx": 14,
+    "argument": "肯德基食物银行遭哄抢"
+  },
+  {
+    "event_id": 644,
+    "doc_id": 2317,
+    "start_sent_idx": 15,
+    "end_sent_idx": 15,
+    "argument": "肯德基食物银行遭哄抢"
+  },
+  {
+    "event_id": 644,
+    "doc_id": 2318,
+    "start_sent_idx": 2,
+    "end_sent_idx": 2,
+    "argument": "肯德基食物银行"
+  },
+  {
+    "event_id": 644,
+    "doc_id": 2318,
+    "start_sent_idx": 4,
+    "end_sent_idx": 4,
+    "argument": "肯德基食物银行遭哄抢"
+  },
+  {
+    "event_id": 644,
+    "doc_id": 2318,
+    "start_sent_idx": 5,
+    "end_sent_idx": 6,
+    "argument": "肯德基食物银行"
+  },
+  {
+    "event_id": 644,
+    "doc_id": 2318,
+    "start_sent_idx": 7,
+    "end_sent_idx": 7,
+    "argument": "肯德基食物银行遭哄抢"
+  },
+  {
+    "event_id": 644,
+    "doc_id": 2318,
+    "start_sent_idx": 8,
+    "end_sent_idx": 8,
+    "argument": "肯德基食物银行遭哄抢"
+  },
+  {
+    "event_id": 645,
+    "doc_id": 2320,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "东京奥运"
+  },
+  {
+    "event_id": 645,
+    "doc_id": 2320,
+    "start_sent_idx": 8,
+    "end_sent_idx": 8,
+    "argument": "东京奥运"
+  },
+  {
+    "event_id": 645,
+    "doc_id": 2320,
+    "start_sent_idx": 10,
+    "end_sent_idx": 10,
+    "argument": "东京奥运成史上最贵夏季奥运会"
+  },
+  {
+    "event_id": 645,
+    "doc_id": 2320,
+    "start_sent_idx": 15,
+    "end_sent_idx": 15,
+    "argument": "东京奥运成史上最贵夏季奥运会"
+  },
+  {
+    "event_id": 645,
+    "doc_id": 2320,
+    "start_sent_idx": 17,
+    "end_sent_idx": 20,
+    "argument": "东京奥运"
+  },
+  {
+    "event_id": 645,
+    "doc_id": 2320,
+    "start_sent_idx": 22,
+    "end_sent_idx": 22,
+    "argument": "东京奥运"
+  },
+  {
+    "event_id": 645,
+    "doc_id": 2320,
+    "start_sent_idx": 25,
+    "end_sent_idx": 25,
+    "argument": "东京奥运"
+  },
+  {
+    "event_id": 645,
+    "doc_id": 2320,
+    "start_sent_idx": 26,
+    "end_sent_idx": 28,
+    "argument": "东京奥运会"
+  },
+  {
+    "event_id": 646,
+    "doc_id": 2321,
+    "start_sent_idx": 4,
+    "end_sent_idx": 5,
+    "argument": "孕妇被开除"
+  },
+  {
+    "event_id": 646,
+    "doc_id": 2322,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "孕妇被开除"
+  },
+  {
+    "event_id": 646,
+    "doc_id": 2322,
+    "start_sent_idx": 2,
+    "end_sent_idx": 2,
+    "argument": "孕妇被开除"
+  },
+  {
+    "event_id": 646,
+    "doc_id": 2322,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "孕妇被开除"
+  },
+  {
+    "event_id": 646,
+    "doc_id": 2322,
+    "start_sent_idx": 7,
+    "end_sent_idx": 7,
+    "argument": "孕妇被开除"
+  },
+  {
+    "event_id": 646,
+    "doc_id": 2322,
+    "start_sent_idx": 9,
+    "end_sent_idx": 13,
+    "argument": "孕妇被开除"
+  },
+  {
+    "event_id": 646,
+    "doc_id": 2322,
+    "start_sent_idx": 15,
+    "end_sent_idx": 22,
+    "argument": "孕妇被开除"
+  },
+  {
+    "event_id": 646,
+    "doc_id": 2323,
+    "start_sent_idx": 0,
+    "end_sent_idx": 1,
+    "argument": "孕妇被开除"
+  },
+  {
+    "event_id": 646,
+    "doc_id": 2323,
+    "start_sent_idx": 2,
+    "end_sent_idx": 2,
+    "argument": "孕妇被开除"
+  },
+  {
+    "event_id": 646,
+    "doc_id": 2323,
+    "start_sent_idx": 5,
+    "end_sent_idx": 9,
+    "argument": "孕妇被开除"
+  },
+  {
+    "event_id": 646,
+    "doc_id": 2323,
+    "start_sent_idx": 10,
+    "end_sent_idx": 10,
+    "argument": "孕妇被开除"
+  },
+  {
+    "event_id": 646,
+    "doc_id": 2323,
+    "start_sent_idx": 11,
+    "end_sent_idx": 11,
+    "argument": "孕妇被开除"
+  },
+  {
+    "event_id": 646,
+    "doc_id": 2323,
+    "start_sent_idx": 12,
+    "end_sent_idx": 14,
+    "argument": "孕妇被开除"
+  },
+  {
+    "event_id": 646,
+    "doc_id": 2323,
+    "start_sent_idx": 15,
+    "end_sent_idx": 17,
+    "argument": "孕妇被开除"
+  },
+  {
+    "event_id": 646,
+    "doc_id": 2323,
+    "start_sent_idx": 18,
+    "end_sent_idx": 20,
+    "argument": "孕妇被开除"
+  },
+  {
+    "event_id": 646,
+    "doc_id": 2323,
+    "start_sent_idx": 23,
+    "end_sent_idx": 23,
+    "argument": "孕妇被开除"
+  },
+  {
+    "event_id": 646,
+    "doc_id": 2324,
+    "start_sent_idx": 2,
+    "end_sent_idx": 4,
+    "argument": "孕妇"
+  },
+  {
+    "event_id": 646,
+    "doc_id": 2324,
+    "start_sent_idx": 5,
+    "end_sent_idx": 10,
+    "argument": "孕妇被开除"
+  },
+  {
+    "event_id": 647,
+    "doc_id": 2325,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "日本网暴施暴者个人信息可公开"
+  },
+  {
+    "event_id": 647,
+    "doc_id": 2325,
+    "start_sent_idx": 5,
+    "end_sent_idx": 5,
+    "argument": "日本网暴施暴者个人信息可公开"
+  },
+  {
+    "event_id": 647,
+    "doc_id": 2325,
+    "start_sent_idx": 12,
+    "end_sent_idx": 14,
+    "argument": "日本网暴施暴者个人信息可公开"
+  },
+  {
+    "event_id": 647,
+    "doc_id": 2326,
+    "start_sent_idx": 2,
+    "end_sent_idx": 2,
+    "argument": "日本网暴施暴者个人信息可公开"
+  },
+  {
+    "event_id": 647,
+    "doc_id": 2327,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "日本网暴施暴者个人信息可公开"
+  },
+  {
+    "event_id": 647,
+    "doc_id": 2328,
+    "start_sent_idx": 2,
+    "end_sent_idx": 2,
+    "argument": "施暴者个人信息"
+  },
+  {
+    "event_id": 647,
+    "doc_id": 2328,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "日本网暴施暴者个人信息可公开"
+  },
+  {
+    "event_id": 647,
+    "doc_id": 2328,
+    "start_sent_idx": 5,
+    "end_sent_idx": 5,
+    "argument": "网暴"
+  },
+  {
+    "event_id": 647,
+    "doc_id": 2329,
+    "start_sent_idx": 6,
+    "end_sent_idx": 6,
+    "argument": "网暴施暴者"
+  },
+  {
+    "event_id": 647,
+    "doc_id": 2329,
+    "start_sent_idx": 11,
+    "end_sent_idx": 11,
+    "argument": "日本网暴施暴者个人信息可公开"
+  },
+  {
+    "event_id": 647,
+    "doc_id": 2329,
+    "start_sent_idx": 15,
+    "end_sent_idx": 15,
+    "argument": "日本网暴施暴者个人信息可公开"
+  },
+  {
+    "event_id": 647,
+    "doc_id": 2329,
+    "start_sent_idx": 18,
+    "end_sent_idx": 18,
+    "argument": "日本网暴"
+  },
+  {
+    "event_id": 647,
+    "doc_id": 2329,
+    "start_sent_idx": 19,
+    "end_sent_idx": 19,
+    "argument": "日本网暴"
+  },
+  {
+    "event_id": 647,
+    "doc_id": 2329,
+    "start_sent_idx": 20,
+    "end_sent_idx": 20,
+    "argument": "日本网暴"
+  },
+  {
+    "event_id": 647,
+    "doc_id": 2329,
+    "start_sent_idx": 21,
+    "end_sent_idx": 21,
+    "argument": "日本网暴"
+  },
+  {
+    "event_id": 647,
+    "doc_id": 2329,
+    "start_sent_idx": 22,
+    "end_sent_idx": 22,
+    "argument": "日本网暴"
+  },
+  {
+    "event_id": 647,
+    "doc_id": 2330,
+    "start_sent_idx": 2,
+    "end_sent_idx": 2,
+    "argument": "日本网暴施暴者个人信息可公开"
+  },
+  {
+    "event_id": 647,
+    "doc_id": 2330,
+    "start_sent_idx": 3,
+    "end_sent_idx": 4,
+    "argument": "日本网暴施暴者个人信息可公开"
+  },
+  {
+    "event_id": 647,
+    "doc_id": 2330,
+    "start_sent_idx": 16,
+    "end_sent_idx": 16,
+    "argument": "日本网暴施暴者个人信息可公开"
+  },
+  {
+    "event_id": 647,
+    "doc_id": 2330,
+    "start_sent_idx": 22,
+    "end_sent_idx": 27,
+    "argument": "日本网暴施暴者个人信息可公开"
+  },
+  {
+    "event_id": 648,
+    "doc_id": 2331,
+    "start_sent_idx": 2,
+    "end_sent_idx": 3,
+    "argument": "将联盟logo换成科比"
+  },
+  {
+    "event_id": 648,
+    "doc_id": 2331,
+    "start_sent_idx": 4,
+    "end_sent_idx": 4,
+    "argument": "联盟logo"
+  },
+  {
+    "event_id": 648,
+    "doc_id": 2331,
+    "start_sent_idx": 5,
+    "end_sent_idx": 5,
+    "argument": "联盟logo"
+  },
+  {
+    "event_id": 648,
+    "doc_id": 2331,
+    "start_sent_idx": 6,
+    "end_sent_idx": 6,
+    "argument": "联盟"
+  },
+  {
+    "event_id": 648,
+    "doc_id": 2331,
+    "start_sent_idx": 7,
+    "end_sent_idx": 7,
+    "argument": "将联盟logo换成科比"
+  },
+  {
+    "event_id": 648,
+    "doc_id": 2331,
+    "start_sent_idx": 8,
+    "end_sent_idx": 9,
+    "argument": "将联盟logo换成科比"
+  },
+  {
+    "event_id": 648,
+    "doc_id": 2332,
+    "start_sent_idx": 12,
+    "end_sent_idx": 12,
+    "argument": "科比"
+  },
+  {
+    "event_id": 648,
+    "doc_id": 2333,
+    "start_sent_idx": 1,
+    "end_sent_idx": 2,
+    "argument": "科比"
+  },
+  {
+    "event_id": 648,
+    "doc_id": 2333,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "科比"
+  },
+  {
+    "event_id": 648,
+    "doc_id": 2333,
+    "start_sent_idx": 4,
+    "end_sent_idx": 4,
+    "argument": "科比"
+  },
+  {
+    "event_id": 648,
+    "doc_id": 2333,
+    "start_sent_idx": 6,
+    "end_sent_idx": 6,
+    "argument": "科比"
+  },
+  {
+    "event_id": 648,
+    "doc_id": 2333,
+    "start_sent_idx": 7,
+    "end_sent_idx": 7,
+    "argument": "科比"
+  },
+  {
+    "event_id": 648,
+    "doc_id": 2333,
+    "start_sent_idx": 9,
+    "end_sent_idx": 9,
+    "argument": "科比"
+  },
+  {
+    "event_id": 648,
+    "doc_id": 2333,
+    "start_sent_idx": 10,
+    "end_sent_idx": 10,
+    "argument": "科比"
+  },
+  {
+    "event_id": 649,
+    "doc_id": 2334,
+    "start_sent_idx": 12,
+    "end_sent_idx": 12,
+    "argument": "大陆军机巡台"
+  },
+  {
+    "event_id": 649,
+    "doc_id": 2334,
+    "start_sent_idx": 13,
+    "end_sent_idx": 13,
+    "argument": "大陆军机巡台"
+  },
+  {
+    "event_id": 649,
+    "doc_id": 2335,
+    "start_sent_idx": 4,
+    "end_sent_idx": 5,
+    "argument": "大陆军机巡台常态化"
+  },
+  {
+    "event_id": 649,
+    "doc_id": 2335,
+    "start_sent_idx": 7,
+    "end_sent_idx": 8,
+    "argument": "大陆军机巡台"
+  },
+  {
+    "event_id": 649,
+    "doc_id": 2336,
+    "start_sent_idx": 3,
+    "end_sent_idx": 5,
+    "argument": "大陆军机巡台常态化"
+  },
+  {
+    "event_id": 649,
+    "doc_id": 2336,
+    "start_sent_idx": 6,
+    "end_sent_idx": 10,
+    "argument": "大陆军机巡台常态化"
+  },
+  {
+    "event_id": 649,
+    "doc_id": 2337,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "大陆军机巡台常态化"
+  },
+  {
+    "event_id": 649,
+    "doc_id": 2337,
+    "start_sent_idx": 4,
+    "end_sent_idx": 4,
+    "argument": "大陆军机巡台常态化"
+  },
+  {
+    "event_id": 649,
+    "doc_id": 2338,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "大陆军机巡台常态化"
+  },
+  {
+    "event_id": 649,
+    "doc_id": 2338,
+    "start_sent_idx": 1,
+    "end_sent_idx": 4,
+    "argument": "大陆军机巡台常态化"
+  },
+  {
+    "event_id": 649,
+    "doc_id": 2338,
+    "start_sent_idx": 5,
+    "end_sent_idx": 6,
+    "argument": "大陆军机巡台常态化"
+  },
+  {
+    "event_id": 650,
+    "doc_id": 2340,
+    "start_sent_idx": 12,
+    "end_sent_idx": 12,
+    "argument": "王筱丽"
+  },
+  {
+    "event_id": 650,
+    "doc_id": 2340,
+    "start_sent_idx": 13,
+    "end_sent_idx": 14,
+    "argument": "王筱丽"
+  },
+  {
+    "event_id": 650,
+    "doc_id": 2340,
+    "start_sent_idx": 20,
+    "end_sent_idx": 24,
+    "argument": "王筱丽"
+  },
+  {
+    "event_id": 651,
+    "doc_id": 2346,
+    "start_sent_idx": 11,
+    "end_sent_idx": 11,
+    "argument": "公司非法删贴"
+  },
+  {
+    "event_id": 652,
+    "doc_id": 2347,
+    "start_sent_idx": 0,
+    "end_sent_idx": 1,
+    "argument": "俄罗斯被禁赛两年"
+  },
+  {
+    "event_id": 652,
+    "doc_id": 2347,
+    "start_sent_idx": 3,
+    "end_sent_idx": 7,
+    "argument": "俄罗斯被禁赛两年"
+  },
+  {
+    "event_id": 652,
+    "doc_id": 2347,
+    "start_sent_idx": 9,
+    "end_sent_idx": 11,
+    "argument": "俄罗斯被禁赛两年"
+  },
+  {
+    "event_id": 652,
+    "doc_id": 2348,
+    "start_sent_idx": 2,
+    "end_sent_idx": 2,
+    "argument": "俄罗斯被禁赛两年"
+  },
+  {
+    "event_id": 652,
+    "doc_id": 2348,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "俄罗斯被禁赛两年"
+  },
+  {
+    "event_id": 652,
+    "doc_id": 2348,
+    "start_sent_idx": 4,
+    "end_sent_idx": 6,
+    "argument": "俄罗斯被禁赛两年"
+  },
+  {
+    "event_id": 652,
+    "doc_id": 2348,
+    "start_sent_idx": 7,
+    "end_sent_idx": 7,
+    "argument": "俄罗斯被禁赛两年"
+  },
+  {
+    "event_id": 652,
+    "doc_id": 2348,
+    "start_sent_idx": 8,
+    "end_sent_idx": 8,
+    "argument": "俄罗斯被禁赛两年"
+  },
+  {
+    "event_id": 652,
+    "doc_id": 2348,
+    "start_sent_idx": 9,
+    "end_sent_idx": 9,
+    "argument": "俄罗斯被禁赛两年"
+  },
+  {
+    "event_id": 652,
+    "doc_id": 2348,
+    "start_sent_idx": 10,
+    "end_sent_idx": 10,
+    "argument": "俄罗斯被禁赛两年"
+  },
+  {
+    "event_id": 652,
+    "doc_id": 2348,
+    "start_sent_idx": 11,
+    "end_sent_idx": 13,
+    "argument": "俄罗斯被禁赛两年"
+  },
+  {
+    "event_id": 652,
+    "doc_id": 2350,
+    "start_sent_idx": 0,
+    "end_sent_idx": 3,
+    "argument": "俄罗斯被禁赛两年"
+  },
+  {
+    "event_id": 652,
+    "doc_id": 2350,
+    "start_sent_idx": 6,
+    "end_sent_idx": 6,
+    "argument": "俄罗斯"
+  },
+  {
+    "event_id": 652,
+    "doc_id": 2350,
+    "start_sent_idx": 10,
+    "end_sent_idx": 10,
+    "argument": "俄罗斯被禁赛两年"
+  },
+  {
+    "event_id": 652,
+    "doc_id": 2350,
+    "start_sent_idx": 11,
+    "end_sent_idx": 12,
+    "argument": "俄罗斯被禁赛两年"
+  },
+  {
+    "event_id": 652,
+    "doc_id": 2350,
+    "start_sent_idx": 16,
+    "end_sent_idx": 19,
+    "argument": "俄罗斯"
+  },
+  {
+    "event_id": 652,
+    "doc_id": 2350,
+    "start_sent_idx": 25,
+    "end_sent_idx": 25,
+    "argument": "俄罗斯"
+  },
+  {
+    "event_id": 652,
+    "doc_id": 2350,
+    "start_sent_idx": 27,
+    "end_sent_idx": 28,
+    "argument": "俄罗斯被禁赛两年"
+  },
+  {
+    "event_id": 652,
+    "doc_id": 2350,
+    "start_sent_idx": 29,
+    "end_sent_idx": 29,
+    "argument": "俄罗斯被禁赛两年"
+  },
+  {
+    "event_id": 652,
+    "doc_id": 2353,
+    "start_sent_idx": 5,
+    "end_sent_idx": 5,
+    "argument": "俄罗斯被禁赛"
+  },
+  {
+    "event_id": 652,
+    "doc_id": 2353,
+    "start_sent_idx": 6,
+    "end_sent_idx": 6,
+    "argument": "俄罗斯被禁赛"
+  },
+  {
+    "event_id": 652,
+    "doc_id": 2353,
+    "start_sent_idx": 19,
+    "end_sent_idx": 19,
+    "argument": "俄罗斯被禁赛两年"
+  },
+  {
+    "event_id": 652,
+    "doc_id": 2353,
+    "start_sent_idx": 20,
+    "end_sent_idx": 20,
+    "argument": "俄罗斯被禁赛两年"
+  },
+  {
+    "event_id": 652,
+    "doc_id": 2353,
+    "start_sent_idx": 21,
+    "end_sent_idx": 21,
+    "argument": "俄罗斯被禁赛两年"
+  },
+  {
+    "event_id": 653,
+    "doc_id": 2354,
+    "start_sent_idx": 2,
+    "end_sent_idx": 2,
+    "argument": "美大批军车进驻波特兰"
+  },
+  {
+    "event_id": 654,
+    "doc_id": 2355,
+    "start_sent_idx": 2,
+    "end_sent_idx": 2,
+    "argument": "美再次升级对华为禁令"
+  },
+  {
+    "event_id": 654,
+    "doc_id": 2355,
+    "start_sent_idx": 4,
+    "end_sent_idx": 4,
+    "argument": "美再次升级对华为禁令"
+  },
+  {
+    "event_id": 654,
+    "doc_id": 2355,
+    "start_sent_idx": 5,
+    "end_sent_idx": 7,
+    "argument": "美再次升级对华为禁令"
+  },
+  {
+    "event_id": 654,
+    "doc_id": 2355,
+    "start_sent_idx": 14,
+    "end_sent_idx": 15,
+    "argument": "美再次升级对华为禁令"
+  },
+  {
+    "event_id": 654,
+    "doc_id": 2356,
+    "start_sent_idx": 0,
+    "end_sent_idx": 11,
+    "argument": "美再次升级对华为禁令"
+  },
+  {
+    "event_id": 654,
+    "doc_id": 2356,
+    "start_sent_idx": 28,
+    "end_sent_idx": 28,
+    "argument": "美"
+  },
+  {
+    "event_id": 654,
+    "doc_id": 2357,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "美再次升级对华为禁令"
+  },
+  {
+    "event_id": 654,
+    "doc_id": 2357,
+    "start_sent_idx": 4,
+    "end_sent_idx": 12,
+    "argument": "美再次升级对华为禁令"
+  },
+  {
+    "event_id": 654,
+    "doc_id": 2357,
+    "start_sent_idx": 15,
+    "end_sent_idx": 17,
+    "argument": "华为"
+  },
+  {
+    "event_id": 655,
+    "doc_id": 2358,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "熟蛋返生论文"
+  },
+  {
+    "event_id": 655,
+    "doc_id": 2358,
+    "start_sent_idx": 2,
+    "end_sent_idx": 2,
+    "argument": "熟蛋返生"
+  },
+  {
+    "event_id": 655,
+    "doc_id": 2359,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "熟蛋返生论文第二作者"
+  },
+  {
+    "event_id": 655,
+    "doc_id": 2360,
+    "start_sent_idx": 3,
+    "end_sent_idx": 7,
+    "argument": "熟蛋返生论文"
+  },
+  {
+    "event_id": 655,
+    "doc_id": 2360,
+    "start_sent_idx": 8,
+    "end_sent_idx": 11,
+    "argument": "熟蛋返生论文"
+  },
+  {
+    "event_id": 655,
+    "doc_id": 2360,
+    "start_sent_idx": 12,
+    "end_sent_idx": 13,
+    "argument": "熟蛋返生论文"
+  },
+  {
+    "event_id": 655,
+    "doc_id": 2360,
+    "start_sent_idx": 14,
+    "end_sent_idx": 14,
+    "argument": "熟蛋返生论文"
+  },
+  {
+    "event_id": 655,
+    "doc_id": 2360,
+    "start_sent_idx": 15,
+    "end_sent_idx": 18,
+    "argument": "熟蛋返生论文"
+  },
+  {
+    "event_id": 655,
+    "doc_id": 2361,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "熟蛋返生论文"
+  },
+  {
+    "event_id": 655,
+    "doc_id": 2361,
+    "start_sent_idx": 2,
+    "end_sent_idx": 2,
+    "argument": "熟蛋返生论文"
+  },
+  {
+    "event_id": 655,
+    "doc_id": 2361,
+    "start_sent_idx": 20,
+    "end_sent_idx": 27,
+    "argument": "熟蛋返生论文"
+  },
+  {
+    "event_id": 656,
+    "doc_id": 2362,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "美国人"
+  },
+  {
+    "event_id": 656,
+    "doc_id": 2362,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "美国人"
+  },
+  {
+    "event_id": 656,
+    "doc_id": 2362,
+    "start_sent_idx": 2,
+    "end_sent_idx": 2,
+    "argument": "美国人"
+  },
+  {
+    "event_id": 656,
+    "doc_id": 2362,
+    "start_sent_idx": 6,
+    "end_sent_idx": 6,
+    "argument": "美国人"
+  },
+  {
+    "event_id": 656,
+    "doc_id": 2362,
+    "start_sent_idx": 7,
+    "end_sent_idx": 7,
+    "argument": "美国人"
+  },
+  {
+    "event_id": 656,
+    "doc_id": 2363,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "美国人"
+  },
+  {
+    "event_id": 656,
+    "doc_id": 2363,
+    "start_sent_idx": 8,
+    "end_sent_idx": 8,
+    "argument": "美国人"
+  },
+  {
+    "event_id": 656,
+    "doc_id": 2363,
+    "start_sent_idx": 11,
+    "end_sent_idx": 14,
+    "argument": "美国"
+  },
+  {
+    "event_id": 656,
+    "doc_id": 2363,
+    "start_sent_idx": 21,
+    "end_sent_idx": 21,
+    "argument": "疫情下特朗普呼吁美国人聚在一起"
+  },
+  {
+    "event_id": 656,
+    "doc_id": 2364,
+    "start_sent_idx": 7,
+    "end_sent_idx": 7,
+    "argument": "特朗普"
+  },
+  {
+    "event_id": 656,
+    "doc_id": 2364,
+    "start_sent_idx": 15,
+    "end_sent_idx": 16,
+    "argument": "美国人聚在一起"
+  },
+  {
+    "event_id": 656,
+    "doc_id": 2364,
+    "start_sent_idx": 17,
+    "end_sent_idx": 17,
+    "argument": "美国人聚在一起"
+  },
+  {
+    "event_id": 657,
+    "doc_id": 2365,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "大坂直美"
+  },
+  {
+    "event_id": 657,
+    "doc_id": 2365,
+    "start_sent_idx": 5,
+    "end_sent_idx": 5,
+    "argument": "大坂直美再夺美网冠军"
+  },
+  {
+    "event_id": 657,
+    "doc_id": 2365,
+    "start_sent_idx": 13,
+    "end_sent_idx": 13,
+    "argument": "大阪直美"
+  },
+  {
+    "event_id": 657,
+    "doc_id": 2365,
+    "start_sent_idx": 14,
+    "end_sent_idx": 16,
+    "argument": "大坂直美"
+  },
+  {
+    "event_id": 657,
+    "doc_id": 2366,
+    "start_sent_idx": 15,
+    "end_sent_idx": 16,
+    "argument": "大坂直美"
+  },
+  {
+    "event_id": 657,
+    "doc_id": 2366,
+    "start_sent_idx": 18,
+    "end_sent_idx": 18,
+    "argument": "大坂直美再夺美网冠军"
+  },
+  {
+    "event_id": 657,
+    "doc_id": 2366,
+    "start_sent_idx": 19,
+    "end_sent_idx": 19,
+    "argument": "大坂直美再夺美网冠军"
+  },
+  {
+    "event_id": 657,
+    "doc_id": 2368,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "大坂直美再夺美网冠军"
+  },
+  {
+    "event_id": 657,
+    "doc_id": 2369,
+    "start_sent_idx": 12,
+    "end_sent_idx": 13,
+    "argument": "大坂直美"
+  },
+  {
+    "event_id": 658,
+    "doc_id": 2371,
+    "start_sent_idx": 0,
+    "end_sent_idx": 1,
+    "argument": "华龙一号全球首堆并网成功"
+  },
+  {
+    "event_id": 658,
+    "doc_id": 2371,
+    "start_sent_idx": 4,
+    "end_sent_idx": 4,
+    "argument": "华龙一号全球首堆并网成功"
+  },
+  {
+    "event_id": 658,
+    "doc_id": 2372,
+    "start_sent_idx": 2,
+    "end_sent_idx": 3,
+    "argument": "华龙一号全球首堆并网成功"
+  },
+  {
+    "event_id": 658,
+    "doc_id": 2372,
+    "start_sent_idx": 6,
+    "end_sent_idx": 6,
+    "argument": "华龙一号"
+  },
+  {
+    "event_id": 658,
+    "doc_id": 2372,
+    "start_sent_idx": 11,
+    "end_sent_idx": 11,
+    "argument": "华龙一号全球首堆并网成功"
+  },
+  {
+    "event_id": 658,
+    "doc_id": 2373,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "华龙一号全球首堆并网成功"
+  },
+  {
+    "event_id": 658,
+    "doc_id": 2373,
+    "start_sent_idx": 6,
+    "end_sent_idx": 6,
+    "argument": "华龙一号"
+  },
+  {
+    "event_id": 658,
+    "doc_id": 2373,
+    "start_sent_idx": 10,
+    "end_sent_idx": 10,
+    "argument": "华龙一号"
+  },
+  {
+    "event_id": 658,
+    "doc_id": 2374,
+    "start_sent_idx": 0,
+    "end_sent_idx": 1,
+    "argument": "华龙一号全球首堆并网成功"
+  },
+  {
+    "event_id": 658,
+    "doc_id": 2375,
+    "start_sent_idx": 2,
+    "end_sent_idx": 2,
+    "argument": "华龙一号全球首堆并网成功"
+  },
+  {
+    "event_id": 659,
+    "doc_id": 2376,
+    "start_sent_idx": 2,
+    "end_sent_idx": 3,
+    "argument": "蚂蚁集团暂缓上市"
+  },
+  {
+    "event_id": 659,
+    "doc_id": 2376,
+    "start_sent_idx": 5,
+    "end_sent_idx": 5,
+    "argument": "蚂蚁集团暂缓上市"
+  },
+  {
+    "event_id": 659,
+    "doc_id": 2377,
+    "start_sent_idx": 9,
+    "end_sent_idx": 9,
+    "argument": "蚂蚁集团暂缓上市"
+  },
+  {
+    "event_id": 659,
+    "doc_id": 2377,
+    "start_sent_idx": 10,
+    "end_sent_idx": 11,
+    "argument": "蚂蚁集团暂缓上市"
+  },
+  {
+    "event_id": 659,
+    "doc_id": 2377,
+    "start_sent_idx": 12,
+    "end_sent_idx": 12,
+    "argument": "蚂蚁集团暂缓上市"
+  },
+  {
+    "event_id": 659,
+    "doc_id": 2377,
+    "start_sent_idx": 13,
+    "end_sent_idx": 14,
+    "argument": "蚂蚁集团暂缓上市"
+  },
+  {
+    "event_id": 659,
+    "doc_id": 2377,
+    "start_sent_idx": 17,
+    "end_sent_idx": 17,
+    "argument": "蚂蚁集团暂缓上市"
+  },
+  {
+    "event_id": 659,
+    "doc_id": 2377,
+    "start_sent_idx": 18,
+    "end_sent_idx": 19,
+    "argument": "蚂蚁集团暂缓上市"
+  },
+  {
+    "event_id": 660,
+    "doc_id": 2378,
+    "start_sent_idx": 18,
+    "end_sent_idx": 18,
+    "argument": "故宫一张“邀请函”被炒到1200元"
+  },
+  {
+    "event_id": 660,
+    "doc_id": 2379,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "故宫"
+  },
+  {
+    "event_id": 660,
+    "doc_id": 2379,
+    "start_sent_idx": 5,
+    "end_sent_idx": 5,
+    "argument": "故宫一张“邀请函”"
+  },
+  {
+    "event_id": 660,
+    "doc_id": 2379,
+    "start_sent_idx": 12,
+    "end_sent_idx": 14,
+    "argument": "故宫一张“邀请函”"
+  },
+  {
+    "event_id": 660,
+    "doc_id": 2379,
+    "start_sent_idx": 19,
+    "end_sent_idx": 19,
+    "argument": "故宫一张“邀请函”"
+  },
+  {
+    "event_id": 661,
+    "doc_id": 2380,
+    "start_sent_idx": 0,
+    "end_sent_idx": 5,
+    "argument": "饿了么多等5分钟"
+  },
+  {
+    "event_id": 661,
+    "doc_id": 2381,
+    "start_sent_idx": 0,
+    "end_sent_idx": 2,
+    "argument": "饿了么多等5分钟"
+  },
+  {
+    "event_id": 661,
+    "doc_id": 2381,
+    "start_sent_idx": 8,
+    "end_sent_idx": 10,
+    "argument": "饿了么多等5分钟"
+  },
+  {
+    "event_id": 661,
+    "doc_id": 2381,
+    "start_sent_idx": 11,
+    "end_sent_idx": 11,
+    "argument": "饿了么多等5分钟"
+  },
+  {
+    "event_id": 661,
+    "doc_id": 2382,
+    "start_sent_idx": 2,
+    "end_sent_idx": 6,
+    "argument": "饿了么多等5分钟"
+  },
+  {
+    "event_id": 661,
+    "doc_id": 2383,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "饿了么多等5分钟"
+  },
+  {
+    "event_id": 661,
+    "doc_id": 2383,
+    "start_sent_idx": 2,
+    "end_sent_idx": 2,
+    "argument": "饿了么多等5分钟"
+  },
+  {
+    "event_id": 661,
+    "doc_id": 2383,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "饿了么多等5分钟"
+  },
+  {
+    "event_id": 661,
+    "doc_id": 2383,
+    "start_sent_idx": 4,
+    "end_sent_idx": 7,
+    "argument": "饿了么多等5分钟"
+  },
+  {
+    "event_id": 661,
+    "doc_id": 2383,
+    "start_sent_idx": 8,
+    "end_sent_idx": 8,
+    "argument": "饿了么多等5分钟"
+  },
+  {
+    "event_id": 662,
+    "doc_id": 2387,
+    "start_sent_idx": 1,
+    "end_sent_idx": 3,
+    "argument": "武磊"
+  },
+  {
+    "event_id": 662,
+    "doc_id": 2387,
+    "start_sent_idx": 14,
+    "end_sent_idx": 14,
+    "argument": "武磊"
+  },
+  {
+    "event_id": 662,
+    "doc_id": 2387,
+    "start_sent_idx": 15,
+    "end_sent_idx": 17,
+    "argument": "武磊"
+  },
+  {
+    "event_id": 663,
+    "doc_id": 2388,
+    "start_sent_idx": 5,
+    "end_sent_idx": 6,
+    "argument": "蚂蚁集团"
+  },
+  {
+    "event_id": 663,
+    "doc_id": 2389,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "蚂蚁集团"
+  },
+  {
+    "event_id": 663,
+    "doc_id": 2389,
+    "start_sent_idx": 13,
+    "end_sent_idx": 14,
+    "argument": "蚂蚁集团"
+  },
+  {
+    "event_id": 663,
+    "doc_id": 2389,
+    "start_sent_idx": 16,
+    "end_sent_idx": 16,
+    "argument": "再次被约谈"
+  },
+  {
+    "event_id": 663,
+    "doc_id": 2389,
+    "start_sent_idx": 17,
+    "end_sent_idx": 18,
+    "argument": "蚂蚁集团"
+  },
+  {
+    "event_id": 664,
+    "doc_id": 2390,
+    "start_sent_idx": 0,
+    "end_sent_idx": 0,
+    "argument": "前科消灭制度"
+  },
+  {
+    "event_id": 664,
+    "doc_id": 2390,
+    "start_sent_idx": 17,
+    "end_sent_idx": 18,
+    "argument": "前科消灭制度"
+  },
+  {
+    "event_id": 664,
+    "doc_id": 2390,
+    "start_sent_idx": 22,
+    "end_sent_idx": 22,
+    "argument": "设前科消灭制度"
+  },
+  {
+    "event_id": 664,
+    "doc_id": 2391,
+    "start_sent_idx": 1,
+    "end_sent_idx": 3,
+    "argument": "前科消灭制度"
+  },
+  {
+    "event_id": 664,
+    "doc_id": 2391,
+    "start_sent_idx": 6,
+    "end_sent_idx": 10,
+    "argument": "前科消灭制度"
+  },
+  {
+    "event_id": 665,
+    "doc_id": 2392,
+    "start_sent_idx": 2,
+    "end_sent_idx": 2,
+    "argument": "捷克驱逐18名俄外交官"
+  },
+  {
+    "event_id": 665,
+    "doc_id": 2392,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "捷克驱逐18名俄外交官"
+  },
+  {
+    "event_id": 665,
+    "doc_id": 2392,
+    "start_sent_idx": 4,
+    "end_sent_idx": 7,
+    "argument": "捷克驱逐18名俄外交官"
+  },
+  {
+    "event_id": 665,
+    "doc_id": 2392,
+    "start_sent_idx": 9,
+    "end_sent_idx": 10,
+    "argument": "捷克驱逐18名俄外交官"
+  },
+  {
+    "event_id": 665,
+    "doc_id": 2392,
+    "start_sent_idx": 16,
+    "end_sent_idx": 16,
+    "argument": "捷克驱逐18名俄外交官"
+  },
+  {
+    "event_id": 665,
+    "doc_id": 2392,
+    "start_sent_idx": 22,
+    "end_sent_idx": 22,
+    "argument": "捷克驱逐18名俄外交官"
+  },
+  {
+    "event_id": 665,
+    "doc_id": 2392,
+    "start_sent_idx": 23,
+    "end_sent_idx": 25,
+    "argument": "捷克驱逐18名俄外交官"
+  },
+  {
+    "event_id": 665,
+    "doc_id": 2392,
+    "start_sent_idx": 26,
+    "end_sent_idx": 26,
+    "argument": "捷克驱逐18名俄外交官"
+  },
+  {
+    "event_id": 665,
+    "doc_id": 2393,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "捷克驱逐18名俄外交官"
+  },
+  {
+    "event_id": 665,
+    "doc_id": 2393,
+    "start_sent_idx": 2,
+    "end_sent_idx": 3,
+    "argument": "捷克驱逐18名俄外交官"
+  },
+  {
+    "event_id": 665,
+    "doc_id": 2393,
+    "start_sent_idx": 4,
+    "end_sent_idx": 4,
+    "argument": "捷克驱逐18名俄外交官"
+  },
+  {
+    "event_id": 665,
+    "doc_id": 2393,
+    "start_sent_idx": 5,
+    "end_sent_idx": 5,
+    "argument": "捷克驱逐18名俄外交官"
+  },
+  {
+    "event_id": 665,
+    "doc_id": 2393,
+    "start_sent_idx": 6,
+    "end_sent_idx": 6,
+    "argument": "捷克驱逐18名俄外交官"
+  },
+  {
+    "event_id": 665,
+    "doc_id": 2394,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "18名俄外交官"
+  },
+  {
+    "event_id": 665,
+    "doc_id": 2394,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "捷克驱逐18名俄外交官"
+  },
+  {
+    "event_id": 665,
+    "doc_id": 2394,
+    "start_sent_idx": 8,
+    "end_sent_idx": 12,
+    "argument": "捷克驱逐18名俄外交官"
+  },
+  {
+    "event_id": 666,
+    "doc_id": 2395,
+    "start_sent_idx": 1,
+    "end_sent_idx": 2,
+    "argument": "新冠疫苗"
+  },
+  {
+    "event_id": 666,
+    "doc_id": 2395,
+    "start_sent_idx": 6,
+    "end_sent_idx": 8,
+    "argument": "特朗普"
+  },
+  {
+    "event_id": 666,
+    "doc_id": 2396,
+    "start_sent_idx": 1,
+    "end_sent_idx": 1,
+    "argument": "新冠疫苗"
+  },
+  {
+    "event_id": 666,
+    "doc_id": 2396,
+    "start_sent_idx": 4,
+    "end_sent_idx": 5,
+    "argument": "新冠疫苗"
+  },
+  {
+    "event_id": 666,
+    "doc_id": 2396,
+    "start_sent_idx": 6,
+    "end_sent_idx": 6,
+    "argument": "接种新冠疫苗"
+  },
+  {
+    "event_id": 666,
+    "doc_id": 2396,
+    "start_sent_idx": 8,
+    "end_sent_idx": 9,
+    "argument": "特朗普"
+  },
+  {
+    "event_id": 666,
+    "doc_id": 2396,
+    "start_sent_idx": 10,
+    "end_sent_idx": 15,
+    "argument": "新冠疫苗"
+  },
+  {
+    "event_id": 666,
+    "doc_id": 2397,
+    "start_sent_idx": 3,
+    "end_sent_idx": 3,
+    "argument": "支持者"
+  },
+  {
+    "event_id": 666,
+    "doc_id": 2398,
+    "start_sent_idx": 27,
+    "end_sent_idx": 28,
+    "argument": "接种新冠疫苗"
+  },
+  {
+    "event_id": 666,
+    "doc_id": 2398,
+    "start_sent_idx": 30,
+    "end_sent_idx": 31,
+    "argument": "新冠疫苗"
+  },
+  {
+    "event_id": 667,
+    "doc_id": 2399,
+    "start_sent_idx": 4,
+    "end_sent_idx": 20,
+    "argument": "林夕跟港独搞到一块儿了"
+  },
+  {
+    "event_id": 667,
+    "doc_id": 2400,
+    "start_sent_idx": 7,
+    "end_sent_idx": 8,
+    "argument": "林夕跟港独搞到一块儿了"
+  },
+  {
+    "event_id": 667,
+    "doc_id": 2400,
+    "start_sent_idx": 9,
+    "end_sent_idx": 9,
+    "argument": "林夕跟港独搞到一块儿了"
+  }
+]
