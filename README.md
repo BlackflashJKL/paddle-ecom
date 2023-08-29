@@ -15,7 +15,7 @@
   
 - 一个简单的例子：
 
-![image](https://github.com/BlackflashJKL/paddle-ecom/assets/54808417/8155e6c6-b3d0-41e4-8969-d0613bc91599)
+![image](https://github.com/BlackflashJKL/paddle-ecom/assets/54808417/6bf4a303-3787-4c9e-983c-1bcbfd5b4b87)
 
 ## 项目和数据集结构
 
